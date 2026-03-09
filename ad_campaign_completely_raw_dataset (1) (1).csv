@@ -1,0 +1,1201 @@
+campaign_id,campaign_name,platform,date,impressions,clicks,cost,conversions,revenue,ctr,cpc,conversion_rate,roas,ad_type,audience_segment,device_type,region,bounce_rate,avg_session_duration,engagement_rate,ad_position
+1001,Summer Sale,Unknown,"March 10, 2024",33144,1836,428.66,494.0,3697.13,5.54,0.23,26.91,8.62,Search Ad,,Deskotp,India,38.0,,30.0,Top
+1002,!!!,Facebook Ads,15-02-2024,32780,1846,431.54,97.0,1834.94,5.63,0.23,5.25,4.25,Display Ad,New Users,Unknown,Unknown,20.0,2m 15s,39.0,Bottom
+1003,,,,28847,3890,85.31,261.0,4562.69,13.48,0.02,6.71,53.48,search_add,Returning Customers,Mobile,Europe,38.0,,54.0,Side
+1004,Summer Sale,Gogle Adz,15-02-2024,21367,4922,449.65,146.0,2968.74,23.04,0.09,2.97,6.6,,New Users,Mobl,India,34.0,N/A,43.0,
+1005,Black Friday Deal,Google Ads,"March 10, 2024",36303,4947,176.97,313.0,3103.35,13.63,0.04,6.33,17.54,Video Ad,Returning Customers,Unknown,Unknown,31.0,3m 40s,38.0,NA
+1006,Unknown_campaign,Facebook Ads,2024/04/05,45260,2811,475.5,163.0,1195.41,6.21,0.17,5.8,2.51,,,Unknown,Europe,38.0,2m 15s,43.0,Top
+1007,!!!,google_ads,15-02-2024,46514,3797,335.74,380.0,2021.07,8.16,0.09,10.01,6.02,,,Deskotp,,30.0,N/A,33.0,Side
+1008,,FB ads,15-02-2024,13357,3659,236.88,214.0,3458.58,27.39,0.06,5.85,14.6,Search Ad,Returning Customers,Desktop,,34.0,N/A,44.0,Bottom
+1009,,FB ads,15-02-2024,42519,1180,211.85,346.0,2519.47,2.78,0.18,29.32,11.89,Display Ad,Returning Customers,Unknown,Unknown,33.0,2m 15s,34.0,
+1010,!!!,,2024/04/05,11195,789,178.9,60.0,1562.29,7.05,0.23,7.6,8.73,,New Users,Desktop,,39.0,3m 40s,59.0,NA
+1011,Holiday Offer,Facebook Ads,"March 10, 2024",44166,475,435.69,282.0,671.28,1.08,0.92,59.37,1.54,Display Ad,,Desktop,India,39.0,,33.0,Side
+1012,!!!,Google Ads,15-02-2024,48609,130,64.76,157.0,4575.14,0.27,0.5,120.77,70.65,AdX,Returning Customers,,USA,31.0,3m 40s,44.0,
+1013,Summer Sale,Gogle Adz,,24510,4607,319.88,115.0,2750.1,18.8,0.07,2.5,8.6,search_add,,Mobile,Europe,41.0,N/A,54.0,Bottom
+1014,Holiday Offer,Unknown,2024-01-01,42218,3419,484.57,115.0,4520.32,8.1,0.14,3.36,9.33,search_add,unkown_segment,Deskotp,USA,24.0,,47.0,Bottom
+1015,,Unknown,,48898,1328,232.03,234.0,931.6,2.72,0.17,17.62,4.01,,New Users,Deskotp,USA,32.0,3m 40s,45.0,Top
+1016,Holiday Offer,google_ads,15-02-2024,34041,1880,210.9,265.0,4616.98,5.52,0.11,14.1,21.89,Search Ad,unkown_segment,Unknown,Unknown,34.0,2m 15s,42.0,Top
+1017,Holiday Offer,Unknown,,40643,1216,430.8,229.0,4268.93,2.99,0.35,18.83,9.91,search_add,Returning Customers,Mobile,Europe,36.0,N/A,34.0,
+1018,Unknown_campaign,google_ads,2024/04/05,26338,984,137.52,364.0,1144.6,3.74,0.14,36.99,8.32,,,Desktop,Europe,35.0,2m 15s,57.0,Side
+1019,,Facebook Ads,,22513,792,400.36,32.0,1032.31,3.52,0.51,4.04,2.58,Video Ad,Returning Customers,Mobl,,37.0,3m 40s,47.0,
+1020,!!!,Google Ads,2024-01-01,21400,1076,203.34,211.0,4250.9,5.03,0.19,19.61,20.91,AdX,,Mobile,Unknown,25.0,,51.0,NA
+1021,,Google Ads,2024/04/05,18242,2438,163.59,353.0,4759.49,13.36,0.07,14.48,29.09,AdX,Returning Customers,Desktop,USA,22.0,3m 40s,35.0,Side
+1022,Unknown_campaign,FB ads,2024-01-01,8882,4944,302.57,83.0,4426.35,55.66,0.06,1.68,14.63,AdX,Returning Customers,,,35.0,N/A,51.0,
+1023,Summer Sale,Google Ads,2024/04/05,13283,4074,109.3,347.0,1426.21,30.67,0.03,8.52,13.05,,New Users,Mobl,,21.0,,53.0,Side
+1024,Holiday Offer,google_ads,2024-01-01,16133,1218,394.38,336.0,4301.14,7.55,0.32,27.59,10.91,search_add,unkown_segment,Mobl,Unknown,49.0,N/A,39.0,Bottom
+1025,Holiday Offer,Gogle Adz,2024-01-01,26803,4849,51.41,420.0,2821.67,18.09,0.01,8.66,54.89,Search Ad,unkown_segment,Deskotp,USA,38.0,2m 15s,43.0,NA
+1026,Black Friday Deal,Google Ads,,26350,4244,111.13,40.0,4848.33,16.11,0.03,0.94,43.63,search_add,,,,30.0,N/A,31.0,NA
+1027,,Gogle Adz,15-02-2024,40436,4851,87.02,111.0,1290.48,12.0,0.02,2.29,14.83,AdX,,Mobile,Unknown,45.0,3m 40s,44.0,Side
+1028,Summer Sale,,15-02-2024,42015,1848,438.01,22.0,4242.85,4.4,0.24,1.19,9.69,,New Users,Desktop,,39.0,3m 40s,34.0,Side
+1029,Black Friday Deal,Google Ads,15-02-2024,37525,3873,275.75,301.0,3924.36,10.32,0.07,7.77,14.23,search_add,,Desktop,Unknown,31.0,2m 15s,44.0,Side
+1030,Black Friday Deal,Unknown,2024-01-01,5782,4092,185.95,261.0,3289.52,70.77,0.05,6.38,17.69,AdX,,Mobl,USA,29.0,N/A,38.0,NA
+1031,Summer Sale,Unknown,"March 10, 2024",17831,773,330.54,12.0,4692.79,4.34,0.43,1.55,14.2,AdX,unkown_segment,Deskotp,Europe,43.0,N/A,59.0,
+1032,Holiday Offer,FB ads,,22598,3550,455.93,372.0,1186.67,15.71,0.13,10.48,2.6,,New Users,Mobl,Unknown,43.0,N/A,41.0,NA
+1033,Black Friday Deal,Facebook Ads,2024-01-01,35825,3008,293.29,400.0,949.26,8.4,0.1,13.3,3.24,search_add,,Mobl,USA,37.0,,51.0,
+1034,Holiday Offer,Unknown,15-02-2024,33383,419,55.72,185.0,850.35,1.26,0.13,44.15,15.26,search_add,New Users,Mobile,Europe,37.0,,33.0,Bottom
+1035,,Gogle Adz,2024-01-01,49071,1098,381.76,429.0,1451.36,2.24,0.35,39.07,3.8,search_add,New Users,Desktop,,26.0,N/A,31.0,Side
+1036,,Gogle Adz,2024/04/05,22779,2090,468.81,418.0,2172.41,9.18,0.22,20.0,4.63,Display Ad,New Users,Mobile,,31.0,3m 40s,32.0,Top
+1037,Summer Sale,Google Ads,,49831,2101,214.07,52.0,4159.58,4.22,0.1,2.48,19.43,AdX,Returning Customers,Desktop,Europe,30.0,N/A,58.0,Top
+1038,Holiday Offer,google_ads,"March 10, 2024",49370,3393,393.82,19.0,827.19,6.87,0.12,0.56,2.1,AdX,unkown_segment,Mobile,Europe,35.0,N/A,59.0,Bottom
+1039,Black Friday Deal,Unknown,,32026,2738,83.23,310.0,2072.21,8.55,0.03,11.32,24.9,,Returning Customers,Desktop,India,44.0,3m 40s,33.0,Side
+1040,!!!,Google Ads,2024-01-01,9980,2437,342.56,32.0,2876.79,24.42,0.14,1.31,8.4,Search Ad,New Users,Mobile,USA,46.0,,42.0,Side
+1041,!!!,Unknown,15-02-2024,49508,143,126.2,212.0,2315.8,0.29,0.88,148.25,18.35,Display Ad,New Users,Mobile,India,29.0,2m 15s,41.0,Top
+1042,Black Friday Deal,Gogle Adz,"March 10, 2024",29336,2262,85.86,206.0,2694.02,7.71,0.04,9.11,31.38,Display Ad,,Desktop,,30.0,3m 40s,50.0,Bottom
+1043,Unknown_campaign,FB ads,,19723,1182,119.98,330.0,2806.39,5.99,0.1,27.92,23.39,Search Ad,unkown_segment,Desktop,,35.0,2m 15s,47.0,Bottom
+1044,Black Friday Deal,,15-02-2024,29991,3661,129.27,278.0,780.41,12.21,0.04,7.59,6.04,AdX,,,,41.0,3m 40s,53.0,NA
+1045,Summer Sale,Unknown,15-02-2024,14382,3732,185.27,262.0,1519.89,25.95,0.05,7.02,8.2,AdX,New Users,Desktop,USA,23.0,N/A,50.0,Side
+1046,!!!,Unknown,,42561,146,68.46,386.0,4287.63,0.34,0.47,264.38,62.63,search_add,Returning Customers,Deskotp,Europe,49.0,3m 40s,49.0,Side
+1047,,google_ads,,44631,451,385.51,489.0,2822.18,1.01,0.85,108.43,7.32,AdX,New Users,Desktop,,34.0,2m 15s,59.0,NA
+1048,Holiday Offer,Gogle Adz,2024/04/05,45181,4596,317.99,141.0,4864.25,10.17,0.07,3.07,15.3,,Returning Customers,,Unknown,21.0,3m 40s,33.0,NA
+1049,!!!,google_ads,15-02-2024,35776,1029,383.11,91.0,630.54,2.88,0.37,8.84,1.65,Display Ad,Returning Customers,Mobile,Unknown,49.0,2m 15s,51.0,
+1050,,,"March 10, 2024",18081,1513,204.65,154.0,4962.99,8.37,0.14,10.18,24.25,,New Users,Deskotp,India,42.0,N/A,58.0,Bottom
+1051,Unknown_campaign,FB ads,15-02-2024,34199,2735,327.61,28.0,2557.39,8.0,0.12,1.02,7.81,Video Ad,unkown_segment,,USA,43.0,N/A,53.0,Top
+1052,Unknown_campaign,Facebook Ads,2024/04/05,35514,346,466.82,159.0,4754.48,0.97,1.35,45.95,10.18,,unkown_segment,Deskotp,,47.0,3m 40s,44.0,Side
+1053,!!!,FB ads,2024/04/05,5227,4688,325.72,313.0,1676.62,89.69,0.07,6.68,5.15,Search Ad,unkown_segment,Mobl,Europe,23.0,N/A,33.0,Bottom
+1054,Black Friday Deal,Facebook Ads,2024-01-01,22487,2405,251.51,57.0,581.99,10.7,0.1,2.37,2.31,Search Ad,New Users,Unknown,,24.0,2m 15s,34.0,NA
+1055,Black Friday Deal,Facebook Ads,"March 10, 2024",29115,597,147.03,266.0,2497.32,2.05,0.25,44.56,16.99,Search Ad,unkown_segment,Deskotp,Unknown,23.0,3m 40s,53.0,
+1056,Unknown_campaign,FB ads,15-02-2024,47331,598,317.4,195.0,2554.67,1.26,0.53,32.61,8.05,Search Ad,Returning Customers,Desktop,USA,31.0,,53.0,Bottom
+1057,Unknown_campaign,google_ads,2024/04/05,40039,3299,434.99,325.0,4434.85,8.24,0.13,9.85,10.2,,New Users,Mobl,,38.0,2m 15s,55.0,Bottom
+1058,,Google Ads,2024/04/05,21337,4788,454.9,312.0,3282.52,22.44,0.1,6.52,7.22,,unkown_segment,Deskotp,Europe,22.0,,47.0,Side
+1059,Summer Sale,Unknown,2024/04/05,31227,1872,188.02,102.0,4847.87,5.99,0.1,5.45,25.78,search_add,New Users,Desktop,Europe,33.0,3m 40s,50.0,Bottom
+1060,Summer Sale,Unknown,"March 10, 2024",39808,1826,225.31,220.0,4400.71,4.59,0.12,12.05,19.53,Video Ad,Returning Customers,Unknown,Unknown,22.0,N/A,58.0,Side
+1061,Holiday Offer,google_ads,,36237,4058,247.48,70.0,3712.67,11.2,0.06,1.72,15.0,Display Ad,New Users,Mobl,Europe,25.0,N/A,34.0,Side
+1062,!!!,Unknown,"March 10, 2024",13153,316,413.86,430.0,2970.39,2.4,1.31,136.08,7.18,Display Ad,,Mobl,Unknown,25.0,3m 40s,39.0,Side
+1063,Black Friday Deal,Unknown,2024/04/05,16830,3952,419.43,106.0,1652.28,23.48,0.11,2.68,3.94,Video Ad,,Desktop,Unknown,34.0,3m 40s,39.0,Bottom
+1064,Black Friday Deal,FB ads,15-02-2024,11090,3163,244.47,203.0,2631.98,28.52,0.08,6.42,10.77,,New Users,Mobile,India,39.0,N/A,47.0,Top
+1065,Summer Sale,Gogle Adz,15-02-2024,34147,4519,134.06,259.0,4517.72,13.23,0.03,5.73,33.7,Search Ad,,Desktop,Unknown,28.0,3m 40s,32.0,
+1066,Holiday Offer,Google Ads,,22796,913,345.68,193.0,2009.25,4.01,0.38,21.14,5.81,Display Ad,New Users,Deskotp,India,21.0,3m 40s,42.0,Bottom
+1067,Holiday Offer,Google Ads,15-02-2024,48910,1684,287.18,212.0,3691.98,3.44,0.17,12.59,12.86,Display Ad,Returning Customers,Mobile,,39.0,,48.0,NA
+1068,Holiday Offer,Unknown,2024/04/05,38672,4515,338.75,357.0,3369.9,11.68,0.08,7.91,9.95,Display Ad,,Mobile,India,34.0,,31.0,
+1069,Summer Sale,FB ads,15-02-2024,21786,1276,369.78,147.0,587.0,5.86,0.29,11.52,1.59,Search Ad,Returning Customers,,Europe,33.0,N/A,58.0,Top
+1070,Summer Sale,google_ads,2024-01-01,21705,1279,80.35,24.0,2669.1,5.89,0.06,1.88,33.22,Search Ad,unkown_segment,Mobl,,25.0,2m 15s,34.0,Side
+1071,!!!,FB ads,"March 10, 2024",35690,4921,370.11,191.0,4842.94,13.79,0.08,3.88,13.09,Display Ad,unkown_segment,Unknown,India,43.0,2m 15s,50.0,Bottom
+1072,Unknown_campaign,google_ads,15-02-2024,45681,2537,331.53,211.0,1634.4,5.55,0.13,8.32,4.93,Display Ad,New Users,Deskotp,Unknown,46.0,,55.0,NA
+1073,Unknown_campaign,Facebook Ads,2024-01-01,34288,2246,347.6,417.0,3479.03,6.55,0.15,18.57,10.01,search_add,,Mobl,India,44.0,,46.0,Bottom
+1074,Holiday Offer,Google Ads,"March 10, 2024",37382,3617,249.88,290.0,2738.86,9.68,0.07,8.02,10.96,Display Ad,,Mobl,USA,48.0,N/A,51.0,Side
+1075,,google_ads,15-02-2024,6236,3395,252.73,267.0,4518.04,54.44,0.07,7.86,17.88,search_add,Returning Customers,Deskotp,India,24.0,,56.0,Top
+1076,!!!,Google Ads,2024/04/05,6212,2069,52.55,235.0,3113.78,33.31,0.03,11.36,59.25,Video Ad,,Mobl,Europe,34.0,N/A,32.0,Bottom
+1077,Holiday Offer,Unknown,"March 10, 2024",40776,2335,59.48,440.0,2624.0,5.73,0.03,18.84,44.12,Video Ad,unkown_segment,,Europe,24.0,,47.0,
+1078,Summer Sale,Gogle Adz,2024/04/05,28850,386,358.58,303.0,3068.27,1.34,0.93,78.5,8.56,Video Ad,Returning Customers,Desktop,Unknown,23.0,N/A,39.0,Top
+1079,!!!,google_ads,15-02-2024,12927,4274,206.61,413.0,4883.7,33.06,0.05,9.66,23.64,Display Ad,New Users,Desktop,USA,39.0,3m 40s,49.0,
+1080,Unknown_campaign,FB ads,,11243,3147,390.29,286.0,2833.69,27.99,0.12,9.09,7.26,Display Ad,Returning Customers,,Unknown,44.0,N/A,46.0,Bottom
+1081,!!!,Gogle Adz,"March 10, 2024",7116,1858,464.58,167.0,2596.71,26.11,0.25,8.99,5.59,,,Deskotp,USA,26.0,N/A,59.0,Top
+1082,Holiday Offer,Google Ads,15-02-2024,45786,362,132.79,303.0,1851.56,0.79,0.37,83.7,13.94,Video Ad,New Users,Unknown,,32.0,3m 40s,54.0,NA
+1083,,google_ads,2024/04/05,27606,2010,260.01,402.0,1911.86,7.28,0.13,20.0,7.35,Search Ad,Returning Customers,Deskotp,Unknown,44.0,3m 40s,48.0,NA
+1084,Black Friday Deal,Unknown,,33402,4010,246.74,59.0,2513.05,12.01,0.06,1.47,10.19,search_add,unkown_segment,Mobl,,29.0,3m 40s,59.0,Top
+1085,Summer Sale,,15-02-2024,48088,4666,364.85,356.0,4134.66,9.7,0.08,7.63,11.33,,New Users,Mobl,Unknown,38.0,3m 40s,45.0,Bottom
+1086,Summer Sale,Unknown,15-02-2024,7644,1609,488.08,73.0,3764.08,21.05,0.3,4.54,7.71,,unkown_segment,Mobile,India,26.0,,45.0,NA
+1087,Unknown_campaign,Unknown,2024/04/05,33862,845,324.25,289.0,3478.08,2.5,0.38,34.2,10.73,,unkown_segment,Desktop,USA,29.0,2m 15s,38.0,Bottom
+1088,!!!,google_ads,,11392,4326,250.74,229.0,2418.27,37.97,0.06,5.29,9.64,,New Users,Deskotp,Europe,35.0,,51.0,
+1089,Black Friday Deal,Gogle Adz,"March 10, 2024",8052,2874,51.29,471.0,663.94,35.69,0.02,16.39,12.94,search_add,Returning Customers,Mobl,USA,21.0,N/A,41.0,Bottom
+1090,Unknown_campaign,google_ads,,18314,2068,141.68,45.0,2244.74,11.29,0.07,2.18,15.84,AdX,New Users,Deskotp,Europe,48.0,,55.0,Bottom
+1091,Summer Sale,FB ads,2024-01-01,38549,195,253.29,49.0,1894.65,0.51,1.3,25.13,7.48,Search Ad,Returning Customers,Unknown,,28.0,3m 40s,31.0,NA
+1092,Summer Sale,Google Ads,"March 10, 2024",9922,872,340.84,483.0,3063.91,8.79,0.39,55.39,8.99,AdX,Returning Customers,Mobl,Unknown,42.0,3m 40s,48.0,
+1093,,Unknown,,45472,2158,189.25,382.0,3761.91,4.75,0.09,17.7,19.88,,New Users,Mobile,Unknown,42.0,3m 40s,32.0,Bottom
+1094,,FB ads,,12007,521,325.6,125.0,3757.85,4.34,0.62,23.99,11.54,Video Ad,Returning Customers,Unknown,Europe,36.0,2m 15s,50.0,Top
+1095,Holiday Offer,Unknown,2024-01-01,23172,4860,440.21,184.0,1039.02,20.97,0.09,3.79,2.36,Display Ad,Returning Customers,Mobile,Unknown,49.0,2m 15s,35.0,
+1096,,Gogle Adz,2024/04/05,34611,3096,277.96,470.0,3050.8,8.95,0.09,15.18,10.98,search_add,,Unknown,Unknown,44.0,,47.0,Side
+1097,Holiday Offer,Unknown,,48713,3154,231.29,107.0,4466.26,6.47,0.07,3.39,19.31,Video Ad,,,USA,34.0,3m 40s,35.0,Side
+1098,!!!,FB ads,15-02-2024,24221,1415,293.64,266.0,1069.36,5.84,0.21,18.8,3.64,Display Ad,New Users,Mobl,,29.0,2m 15s,34.0,Side
+1099,,Gogle Adz,2024-01-01,8537,1758,464.99,490.0,2155.98,20.59,0.26,27.87,4.64,,unkown_segment,Unknown,India,47.0,N/A,38.0,Bottom
+1100,Unknown_campaign,,2024/04/05,37920,4346,382.42,335.0,4444.86,11.46,0.09,7.71,11.62,Video Ad,unkown_segment,,USA,23.0,,42.0,Side
+1101,Black Friday Deal,Facebook Ads,,35030,3440,385.35,202.0,4791.9,9.82,0.11,5.87,12.44,Search Ad,,Mobile,India,38.0,2m 15s,35.0,NA
+1102,Black Friday Deal,Unknown,15-02-2024,20796,3550,228.36,367.0,4514.27,17.07,0.06,10.34,19.77,Search Ad,,,,48.0,N/A,37.0,Side
+1103,Summer Sale,FB ads,"March 10, 2024",20837,1197,451.51,385.0,1388.43,5.74,0.38,32.16,3.08,AdX,unkown_segment,Mobl,Unknown,20.0,,34.0,Top
+1104,!!!,,"March 10, 2024",35616,4607,406.41,39.0,4367.79,12.94,0.09,0.85,10.75,Search Ad,Returning Customers,Mobl,,21.0,,31.0,Top
+1105,Holiday Offer,google_ads,2024-01-01,11776,3707,287.57,125.0,3448.49,31.48,0.08,3.37,11.99,,,Mobile,Unknown,38.0,3m 40s,55.0,NA
+1106,!!!,Google Ads,2024/04/05,18086,1514,433.85,168.0,3404.99,8.37,0.29,11.1,7.85,Video Ad,Returning Customers,Mobl,,38.0,,57.0,Side
+1107,Holiday Offer,Gogle Adz,"March 10, 2024",15186,4292,494.47,104.0,1582.67,28.26,0.12,2.42,3.2,AdX,unkown_segment,Mobile,,35.0,2m 15s,55.0,NA
+1108,Holiday Offer,google_ads,2024-01-01,45934,3830,221.55,459.0,784.43,8.34,0.06,11.98,3.54,Display Ad,,Desktop,Europe,43.0,2m 15s,47.0,Top
+1109,Summer Sale,google_ads,,5911,532,219.92,26.0,1486.64,9.0,0.41,4.89,6.76,Search Ad,unkown_segment,Unknown,Unknown,30.0,3m 40s,46.0,NA
+1110,,google_ads,,48826,380,437.73,119.0,4123.29,0.78,1.15,31.32,9.42,Video Ad,Returning Customers,,USA,27.0,,39.0,Side
+1111,,Google Ads,,28046,2873,402.78,93.0,2191.3,10.24,0.14,3.24,5.44,search_add,unkown_segment,,Europe,40.0,3m 40s,53.0,NA
+1112,!!!,Unknown,2024/04/05,33093,2503,84.26,13.0,1444.64,7.56,0.03,0.52,17.15,AdX,unkown_segment,Unknown,,34.0,,44.0,Top
+1113,,Facebook Ads,,37123,4383,50.2,149.0,1643.19,11.81,0.01,3.4,32.73,Search Ad,unkown_segment,Mobile,,33.0,N/A,40.0,Bottom
+1114,Unknown_campaign,Gogle Adz,15-02-2024,13644,504,277.61,161.0,3622.62,3.69,0.55,31.94,13.05,AdX,unkown_segment,,Unknown,49.0,2m 15s,54.0,Side
+1115,Unknown_campaign,,2024-01-01,18465,737,206.05,479.0,4171.98,3.99,0.28,64.99,20.25,Search Ad,unkown_segment,Mobile,Unknown,24.0,3m 40s,50.0,Side
+1116,!!!,Gogle Adz,15-02-2024,20329,3127,154.44,89.0,539.74,15.38,0.05,2.85,3.49,AdX,unkown_segment,Mobl,,49.0,N/A,48.0,
+1117,Unknown_campaign,FB ads,"March 10, 2024",23392,4642,412.34,174.0,4187.21,19.84,0.09,3.75,10.15,Search Ad,New Users,Mobile,Europe,24.0,,51.0,
+1118,Summer Sale,Gogle Adz,"March 10, 2024",30152,1137,413.25,461.0,2297.44,3.77,0.36,40.55,5.56,Search Ad,,Deskotp,,27.0,,40.0,Bottom
+1119,Summer Sale,FB ads,,16485,4781,236.55,450.0,3565.22,29.0,0.05,9.41,15.07,,Returning Customers,Deskotp,Unknown,33.0,,57.0,Top
+1120,Holiday Offer,Gogle Adz,"March 10, 2024",29618,1900,494.01,259.0,3275.09,6.42,0.26,13.63,6.63,,,Desktop,Europe,40.0,N/A,43.0,NA
+1121,,Unknown,2024/04/05,17920,4152,113.13,125.0,4153.93,23.17,0.03,3.01,36.72,Display Ad,,Mobl,,37.0,3m 40s,49.0,Top
+1122,Holiday Offer,FB ads,2024/04/05,42129,1110,121.58,162.0,1351.73,2.63,0.11,14.59,11.12,Search Ad,,Mobile,,34.0,N/A,53.0,Top
+1123,Black Friday Deal,Google Ads,"March 10, 2024",12295,3160,272.46,400.0,2181.68,25.7,0.09,12.66,8.01,AdX,unkown_segment,Desktop,India,21.0,2m 15s,33.0,
+1124,,FB ads,2024-01-01,40433,3866,245.67,460.0,3801.97,9.56,0.06,11.9,15.48,Search Ad,New Users,Mobl,Unknown,26.0,2m 15s,44.0,Side
+1125,Holiday Offer,FB ads,"March 10, 2024",28841,1966,121.28,342.0,4242.24,6.82,0.06,17.4,34.98,Search Ad,,Deskotp,Europe,37.0,2m 15s,46.0,Bottom
+1126,Unknown_campaign,Gogle Adz,2024/04/05,20184,4233,220.08,128.0,3657.17,20.97,0.05,3.02,16.62,Video Ad,Returning Customers,Deskotp,Europe,48.0,2m 15s,57.0,Bottom
+1127,!!!,Google Ads,2024/04/05,44180,716,455.91,147.0,3874.51,1.62,0.64,20.53,8.5,Search Ad,unkown_segment,Mobl,USA,22.0,2m 15s,53.0,Side
+1128,!!!,FB ads,15-02-2024,8113,1688,471.1,485.0,4902.37,20.81,0.28,28.73,10.41,Search Ad,unkown_segment,Unknown,,34.0,3m 40s,46.0,NA
+1129,Holiday Offer,Facebook Ads,,10024,4775,454.48,10.0,2052.08,47.64,0.1,0.21,4.52,Video Ad,Returning Customers,,Europe,41.0,3m 40s,59.0,NA
+1130,Unknown_campaign,Unknown,2024-01-01,20788,774,155.82,429.0,972.24,3.72,0.2,55.43,6.24,AdX,,Mobile,Europe,45.0,N/A,55.0,Bottom
+1131,Summer Sale,Google Ads,2024/04/05,34388,2877,112.7,15.0,1664.42,8.37,0.04,0.52,14.77,AdX,New Users,Unknown,USA,44.0,2m 15s,53.0,Top
+1132,Holiday Offer,,2024-01-01,24833,554,497.93,166.0,1272.23,2.23,0.9,29.96,2.56,,unkown_segment,Mobile,India,49.0,3m 40s,49.0,Side
+1133,Summer Sale,FB ads,2024-01-01,44393,234,482.91,426.0,4109.07,0.53,2.06,182.05,8.51,search_add,,Mobile,,41.0,N/A,49.0,Side
+1134,Unknown_campaign,google_ads,"March 10, 2024",35291,3742,412.77,387.0,4309.04,10.6,0.11,10.34,10.44,,Returning Customers,Desktop,Unknown,45.0,N/A,37.0,Side
+1135,Black Friday Deal,Google Ads,2024/04/05,34179,3438,108.34,473.0,895.84,10.06,0.03,13.76,8.27,Search Ad,Returning Customers,Mobl,India,41.0,N/A,51.0,Side
+1136,Unknown_campaign,Unknown,2024-01-01,14594,1140,156.74,330.0,4490.36,7.81,0.14,28.95,28.65,Search Ad,,Deskotp,USA,47.0,2m 15s,44.0,Side
+1137,Black Friday Deal,google_ads,2024-01-01,21918,436,318.52,471.0,3257.22,1.99,0.73,108.03,10.23,Search Ad,Returning Customers,Unknown,Europe,25.0,2m 15s,49.0,NA
+1138,Holiday Offer,Facebook Ads,"March 10, 2024",7098,3164,249.17,182.0,3551.02,44.58,0.08,5.75,14.25,,New Users,Deskotp,USA,20.0,3m 40s,48.0,Top
+1139,Black Friday Deal,Unknown,,26298,2208,410.72,64.0,2880.25,8.4,0.19,2.9,7.01,Video Ad,,Deskotp,Europe,40.0,N/A,35.0,Top
+1140,Summer Sale,,2024-01-01,33458,4808,498.17,200.0,2261.19,14.37,0.1,4.16,4.54,search_add,New Users,,USA,34.0,3m 40s,57.0,NA
+1141,Holiday Offer,Facebook Ads,2024/04/05,5077,4948,53.37,105.0,941.16,97.46,0.01,2.12,17.63,Video Ad,,Deskotp,Unknown,38.0,,55.0,Bottom
+1142,Holiday Offer,Google Ads,2024-01-01,16755,245,388.99,89.0,2757.18,1.46,1.59,36.33,7.09,search_add,unkown_segment,,Unknown,20.0,3m 40s,39.0,Side
+1143,Black Friday Deal,,,20279,1984,246.28,385.0,3115.62,9.78,0.12,19.41,12.65,search_add,New Users,Unknown,India,39.0,N/A,47.0,
+1144,,,2024-01-01,38057,4490,80.49,357.0,1961.83,11.8,0.02,7.95,24.37,search_add,Returning Customers,Mobile,India,32.0,2m 15s,47.0,Bottom
+1145,Black Friday Deal,Gogle Adz,2024-01-01,30912,4120,119.9,139.0,4208.7,13.33,0.03,3.37,35.1,Display Ad,unkown_segment,Mobl,,49.0,N/A,56.0,
+1146,!!!,,,20039,2779,99.14,265.0,890.53,13.87,0.04,9.54,8.98,Search Ad,New Users,Deskotp,India,23.0,2m 15s,53.0,Side
+1147,Unknown_campaign,Google Ads,"March 10, 2024",33006,4775,52.29,102.0,1699.24,14.47,0.01,2.14,32.5,AdX,Returning Customers,Unknown,Unknown,42.0,2m 15s,43.0,
+1148,Black Friday Deal,Unknown,,10372,3169,488.35,80.0,4848.95,30.55,0.15,2.52,9.93,AdX,,Unknown,Europe,35.0,2m 15s,57.0,Side
+1149,Unknown_campaign,FB ads,2024/04/05,24587,2859,121.57,200.0,4559.9,11.63,0.04,7.0,37.51,search_add,New Users,Unknown,Unknown,29.0,N/A,35.0,Bottom
+1150,,Gogle Adz,,12913,872,60.28,298.0,1069.62,6.75,0.07,34.17,17.74,AdX,Returning Customers,Desktop,USA,36.0,N/A,52.0,NA
+1151,Holiday Offer,Gogle Adz,2024/04/05,5900,2607,293.35,151.0,3096.05,44.19,0.11,5.79,10.55,AdX,Returning Customers,Deskotp,Unknown,47.0,2m 15s,45.0,
+1152,Holiday Offer,Google Ads,,21053,858,324.1,263.0,1339.95,4.08,0.38,30.65,4.13,Display Ad,New Users,Deskotp,Europe,47.0,,58.0,NA
+1153,!!!,google_ads,"March 10, 2024",35135,3126,245.64,429.0,4385.35,8.9,0.08,13.72,17.85,Video Ad,,Mobl,USA,32.0,N/A,55.0,Bottom
+1154,!!!,FB ads,2024/04/05,28736,426,258.31,265.0,2174.57,1.48,0.61,62.21,8.42,search_add,Returning Customers,Mobile,,41.0,2m 15s,47.0,Top
+1155,Holiday Offer,,,6259,2246,490.68,351.0,1233.95,35.88,0.22,15.63,2.51,Display Ad,unkown_segment,Unknown,India,44.0,,44.0,Top
+1156,Holiday Offer,google_ads,15-02-2024,16057,3637,494.93,201.0,4798.29,22.65,0.14,5.53,9.69,Display Ad,unkown_segment,Mobl,USA,22.0,N/A,57.0,Top
+1157,!!!,google_ads,2024-01-01,41840,2065,147.79,105.0,4004.88,4.94,0.07,5.08,27.1,AdX,unkown_segment,Desktop,India,27.0,N/A,37.0,Side
+1158,Summer Sale,Unknown,15-02-2024,36354,2511,210.55,247.0,1023.12,6.91,0.08,9.84,4.86,,unkown_segment,Unknown,Unknown,30.0,N/A,57.0,Top
+1159,!!!,Unknown,2024-01-01,15564,4791,179.68,478.0,1958.51,30.78,0.04,9.98,10.9,search_add,New Users,Mobl,Europe,48.0,2m 15s,54.0,Top
+1160,!!!,FB ads,2024/04/05,28715,2362,349.2,460.0,2100.21,8.23,0.15,19.48,6.01,Search Ad,,Desktop,Unknown,31.0,2m 15s,36.0,Top
+1161,Unknown_campaign,google_ads,15-02-2024,15703,1048,468.33,257.0,3741.1,6.67,0.45,24.52,7.99,Display Ad,unkown_segment,Deskotp,Europe,45.0,3m 40s,42.0,Top
+1162,Unknown_campaign,Gogle Adz,"March 10, 2024",42146,2121,130.47,201.0,3955.62,5.03,0.06,9.48,30.32,Display Ad,,Desktop,,33.0,2m 15s,49.0,Side
+1163,Holiday Offer,Facebook Ads,"March 10, 2024",20591,2131,452.36,23.0,4400.49,10.35,0.21,1.08,9.73,Display Ad,,Deskotp,USA,24.0,,30.0,NA
+1164,Unknown_campaign,google_ads,2024-01-01,21519,4895,325.85,107.0,838.38,22.75,0.07,2.19,2.57,search_add,,Mobile,India,24.0,,43.0,NA
+1165,Summer Sale,,15-02-2024,32041,1433,432.28,166.0,4189.65,4.47,0.3,11.58,9.69,,New Users,Mobile,India,28.0,3m 40s,49.0,
+1166,Black Friday Deal,Gogle Adz,,32811,3680,225.73,493.0,1249.74,11.22,0.06,13.4,5.54,Search Ad,,Unknown,,24.0,N/A,56.0,
+1167,Unknown_campaign,Unknown,"March 10, 2024",36326,4514,106.79,289.0,1714.11,12.43,0.02,6.4,16.05,AdX,New Users,Deskotp,Europe,26.0,2m 15s,55.0,Side
+1168,Summer Sale,Google Ads,"March 10, 2024",14042,875,249.45,19.0,2697.16,6.23,0.29,2.17,10.81,search_add,Returning Customers,Mobile,Unknown,41.0,2m 15s,56.0,Bottom
+1169,,Gogle Adz,2024/04/05,19148,176,381.64,421.0,738.1,0.92,2.17,239.2,1.93,Search Ad,Returning Customers,Mobile,,24.0,N/A,56.0,Top
+1170,Summer Sale,google_ads,2024/04/05,41422,1904,465.24,64.0,742.42,4.6,0.24,3.36,1.6,Video Ad,Returning Customers,Unknown,India,41.0,,47.0,NA
+1171,Summer Sale,,,46893,4474,489.43,329.0,2422.65,9.54,0.11,7.35,4.95,AdX,New Users,Mobl,USA,30.0,N/A,32.0,Top
+1172,Holiday Offer,,,22011,3255,180.24,119.0,564.56,14.79,0.06,3.66,3.13,Display Ad,,Deskotp,USA,46.0,,45.0,NA
+1173,!!!,Gogle Adz,"March 10, 2024",37963,102,316.13,326.0,4354.66,0.27,3.1,319.61,13.77,Display Ad,New Users,Mobl,India,33.0,3m 40s,37.0,
+1174,Unknown_campaign,Facebook Ads,2024/04/05,24067,2075,438.37,464.0,1827.93,8.62,0.21,22.36,4.17,search_add,New Users,Unknown,USA,27.0,3m 40s,38.0,Top
+1175,!!!,,2024-01-01,40727,3536,451.95,220.0,2307.81,8.68,0.13,6.22,5.11,Search Ad,,,Unknown,49.0,,53.0,Top
+1176,Unknown_campaign,FB ads,15-02-2024,5493,2277,102.05,252.0,4947.34,41.45,0.04,11.07,48.48,Search Ad,unkown_segment,Deskotp,USA,38.0,,57.0,NA
+1177,,FB ads,"March 10, 2024",28264,4761,166.26,147.0,1594.46,16.84,0.03,3.09,9.59,AdX,New Users,Deskotp,Unknown,30.0,2m 15s,56.0,Top
+1178,Unknown_campaign,FB ads,,23436,1297,383.62,345.0,4988.39,5.53,0.3,26.6,13.0,AdX,unkown_segment,Desktop,Unknown,42.0,2m 15s,38.0,Bottom
+1179,Holiday Offer,Unknown,2024/04/05,31595,1708,136.16,431.0,4428.36,5.41,0.08,25.23,32.52,,unkown_segment,,India,48.0,N/A,49.0,
+1180,!!!,Gogle Adz,,16425,2200,440.73,113.0,1440.37,13.39,0.2,5.14,3.27,Search Ad,Returning Customers,Desktop,,37.0,2m 15s,41.0,Side
+1181,Unknown_campaign,google_ads,,12104,4693,307.83,38.0,3038.57,38.77,0.07,0.81,9.87,AdX,,,India,24.0,3m 40s,32.0,Side
+1182,Unknown_campaign,Unknown,"March 10, 2024",13641,3368,66.77,281.0,3857.93,24.69,0.02,8.34,57.78,Display Ad,Returning Customers,Unknown,Unknown,40.0,3m 40s,49.0,Side
+1183,Black Friday Deal,FB ads,,21689,3065,362.13,134.0,736.48,14.13,0.12,4.37,2.03,Display Ad,Returning Customers,Desktop,India,41.0,,36.0,Bottom
+1184,Unknown_campaign,Facebook Ads,,20668,3256,286.99,139.0,4437.64,15.75,0.09,4.27,15.46,,Returning Customers,Deskotp,India,39.0,,33.0,Top
+1185,Summer Sale,Facebook Ads,2024-01-01,46760,4347,397.17,288.0,4517.48,9.3,0.09,6.63,11.37,Search Ad,Returning Customers,Mobile,USA,24.0,3m 40s,56.0,Top
+1186,Unknown_campaign,Google Ads,15-02-2024,27496,3448,343.04,329.0,1454.28,12.54,0.1,9.54,4.24,Display Ad,Returning Customers,Mobl,Europe,34.0,,36.0,
+1187,!!!,Facebook Ads,2024-01-01,13879,2356,153.79,354.0,3632.45,16.98,0.07,15.03,23.62,search_add,New Users,Mobile,Europe,21.0,N/A,55.0,Side
+1188,!!!,Unknown,2024-01-01,33927,223,304.07,124.0,2618.89,0.66,1.36,55.61,8.61,AdX,Returning Customers,Deskotp,India,37.0,3m 40s,33.0,
+1189,Summer Sale,google_ads,15-02-2024,27300,2458,487.65,443.0,1040.69,9.0,0.2,18.02,2.13,Display Ad,Returning Customers,Mobile,India,49.0,N/A,52.0,
+1190,Black Friday Deal,Google Ads,15-02-2024,13752,4930,232.36,343.0,1205.6,35.85,0.05,6.96,5.19,AdX,Returning Customers,Mobile,,37.0,,32.0,Side
+1191,Summer Sale,FB ads,15-02-2024,24537,2520,128.22,366.0,2477.83,10.27,0.05,14.52,19.32,Search Ad,,Desktop,Unknown,26.0,2m 15s,51.0,Bottom
+1192,,FB ads,2024-01-01,22596,4969,465.85,499.0,2701.0,21.99,0.09,10.04,5.8,Search Ad,unkown_segment,Mobl,Unknown,39.0,2m 15s,33.0,NA
+1193,Black Friday Deal,Unknown,,31078,1977,268.97,270.0,940.56,6.36,0.14,13.66,3.5,Video Ad,unkown_segment,Unknown,India,43.0,3m 40s,37.0,
+1194,Summer Sale,Gogle Adz,15-02-2024,36975,3359,121.29,296.0,4673.8,9.08,0.04,8.81,38.53,Video Ad,unkown_segment,Desktop,Europe,20.0,2m 15s,48.0,
+1195,!!!,Google Ads,15-02-2024,26934,3483,229.44,241.0,3919.89,12.93,0.07,6.92,17.08,Video Ad,Returning Customers,Mobile,Unknown,43.0,,35.0,Side
+1196,,Unknown,2024-01-01,30557,1777,208.28,108.0,2036.39,5.82,0.12,6.08,9.78,search_add,Returning Customers,Desktop,USA,29.0,,44.0,Top
+1197,!!!,google_ads,"March 10, 2024",39994,743,424.62,283.0,1850.26,1.86,0.57,38.09,4.36,search_add,,,Europe,48.0,2m 15s,47.0,
+1198,Holiday Offer,Google Ads,2024-01-01,25949,4506,139.5,317.0,1381.39,17.36,0.03,7.04,9.9,Search Ad,New Users,Desktop,USA,47.0,,57.0,Top
+1199,,Gogle Adz,2024-01-01,14993,570,169.49,261.0,1152.72,3.8,0.3,45.79,6.8,,,Deskotp,,32.0,3m 40s,49.0,Bottom
+1200,Holiday Offer,Facebook Ads,15-02-2024,46336,615,321.61,429.0,2166.29,1.33,0.52,69.76,6.74,AdX,New Users,Desktop,USA,20.0,2m 15s,48.0,Top
+1201,Summer Sale,Unknown,"March 10, 2024",18434,4343,73.67,58.0,4690.26,23.56,0.02,1.34,63.67,Video Ad,unkown_segment,Unknown,USA,48.0,3m 40s,38.0,NA
+1202,Unknown_campaign,FB ads,2024-01-01,23099,2932,181.17,100.0,909.56,12.69,0.06,3.41,5.02,Search Ad,Returning Customers,,USA,44.0,3m 40s,44.0,Side
+1203,,Google Ads,,39109,3135,72.6,491.0,1603.65,8.02,0.02,15.66,22.09,,Returning Customers,Mobile,USA,35.0,N/A,51.0,Bottom
+1204,Unknown_campaign,FB ads,2024-01-01,11931,1762,158.11,335.0,3660.7,14.77,0.09,19.01,23.15,AdX,Returning Customers,Desktop,USA,31.0,N/A,48.0,Side
+1205,Holiday Offer,FB ads,"March 10, 2024",23393,4100,254.43,231.0,4872.65,17.53,0.06,5.63,19.15,Video Ad,,Deskotp,India,24.0,,51.0,NA
+1206,Unknown_campaign,Gogle Adz,15-02-2024,29455,4977,138.7,442.0,1053.61,16.9,0.03,8.88,7.6,AdX,New Users,,Europe,24.0,3m 40s,40.0,Bottom
+1207,,FB ads,2024-01-01,10470,1122,380.71,197.0,1128.94,10.72,0.34,17.56,2.97,,unkown_segment,Unknown,,33.0,2m 15s,46.0,
+1208,Summer Sale,Unknown,2024-01-01,18550,2587,279.69,57.0,4926.78,13.95,0.11,2.2,17.62,search_add,unkown_segment,Deskotp,Unknown,33.0,,53.0,NA
+1209,Holiday Offer,,,30316,964,205.36,233.0,1473.89,3.18,0.21,24.17,7.18,,New Users,Desktop,Unknown,43.0,,46.0,
+1210,Black Friday Deal,google_ads,2024/04/05,20929,1638,116.43,216.0,3582.26,7.83,0.07,13.19,30.77,Search Ad,unkown_segment,,USA,37.0,N/A,37.0,Bottom
+1211,Unknown_campaign,google_ads,2024/04/05,38598,1211,439.91,436.0,3705.81,3.14,0.36,36.0,8.42,Display Ad,Returning Customers,Mobile,Europe,31.0,N/A,34.0,
+1212,,FB ads,15-02-2024,39486,3664,290.28,356.0,2129.69,9.28,0.08,9.72,7.34,Video Ad,unkown_segment,,,26.0,2m 15s,35.0,Side
+1213,Holiday Offer,,2024/04/05,32979,4333,89.11,117.0,2671.01,13.14,0.02,2.7,29.97,,unkown_segment,Desktop,India,48.0,,32.0,Bottom
+1214,Summer Sale,Google Ads,,15149,2459,432.07,263.0,3021.81,16.23,0.18,10.7,6.99,Display Ad,unkown_segment,Unknown,,30.0,2m 15s,54.0,Side
+1215,Summer Sale,Unknown,2024/04/05,43134,3651,369.94,149.0,3256.28,8.46,0.1,4.08,8.8,,Returning Customers,Mobl,USA,45.0,2m 15s,55.0,NA
+1216,!!!,,2024/04/05,16817,4282,225.88,149.0,3879.02,25.46,0.05,3.48,17.17,,Returning Customers,Deskotp,India,39.0,3m 40s,54.0,Top
+1217,Holiday Offer,google_ads,2024/04/05,9080,3917,150.49,202.0,878.83,43.14,0.04,5.16,5.84,,New Users,Mobile,Europe,35.0,N/A,42.0,
+1218,Holiday Offer,Google Ads,15-02-2024,43396,4481,65.49,195.0,2261.03,10.33,0.01,4.35,34.52,Search Ad,unkown_segment,Mobile,India,35.0,2m 15s,31.0,Top
+1219,,google_ads,,24808,2677,174.16,492.0,2354.78,10.79,0.07,18.38,13.52,Search Ad,,Mobile,Europe,34.0,2m 15s,33.0,Bottom
+1220,,,,30186,2213,369.56,411.0,3470.55,7.33,0.17,18.57,9.39,,unkown_segment,Mobl,Europe,34.0,2m 15s,33.0,
+1221,Black Friday Deal,FB ads,"March 10, 2024",23585,3096,413.6,251.0,1610.64,13.13,0.13,8.11,3.89,search_add,Returning Customers,,Europe,49.0,,46.0,Side
+1222,!!!,,,21197,4781,85.73,273.0,3641.25,22.56,0.02,5.71,42.47,search_add,Returning Customers,,India,44.0,3m 40s,58.0,NA
+1223,!!!,Gogle Adz,2024-01-01,47392,1865,134.58,182.0,636.98,3.94,0.07,9.76,4.73,Search Ad,unkown_segment,Deskotp,India,42.0,N/A,33.0,Top
+1224,,,15-02-2024,43226,2255,475.81,492.0,2918.93,5.22,0.21,21.82,6.13,Search Ad,unkown_segment,Mobl,Europe,37.0,3m 40s,53.0,
+1225,Unknown_campaign,Google Ads,15-02-2024,47912,2269,458.57,49.0,1170.02,4.74,0.2,2.16,2.55,Display Ad,,Mobl,India,24.0,2m 15s,33.0,Side
+1226,Holiday Offer,,,15509,1492,417.01,152.0,1960.12,9.62,0.28,10.19,4.7,Display Ad,Returning Customers,Unknown,,49.0,2m 15s,41.0,Side
+1227,Holiday Offer,FB ads,"March 10, 2024",21236,1375,468.49,66.0,4117.05,6.47,0.34,4.8,8.79,Search Ad,Returning Customers,Desktop,,45.0,3m 40s,49.0,
+1228,Summer Sale,Gogle Adz,"March 10, 2024",26486,3767,304.62,295.0,4337.25,14.22,0.08,7.83,14.24,,Returning Customers,Unknown,Unknown,35.0,N/A,48.0,Bottom
+1229,Black Friday Deal,Gogle Adz,2024-01-01,44585,3428,189.69,114.0,2786.65,7.69,0.06,3.33,14.69,Video Ad,unkown_segment,Desktop,India,34.0,N/A,31.0,NA
+1230,Black Friday Deal,Unknown,"March 10, 2024",39761,2281,74.13,201.0,4639.81,5.74,0.03,8.81,62.59,,,,Europe,30.0,3m 40s,43.0,Bottom
+1231,!!!,Gogle Adz,"March 10, 2024",49533,1818,358.9,469.0,2043.9,3.67,0.2,25.8,5.69,search_add,Returning Customers,Mobile,Europe,38.0,3m 40s,34.0,Side
+1232,Summer Sale,Google Ads,2024/04/05,43450,1348,160.69,98.0,2733.6,3.1,0.12,7.27,17.01,AdX,unkown_segment,Mobile,USA,38.0,3m 40s,48.0,Top
+1233,Unknown_campaign,Gogle Adz,,6010,2693,116.93,193.0,3353.38,44.81,0.04,7.17,28.68,search_add,,,India,28.0,N/A,51.0,Top
+1234,Summer Sale,,"March 10, 2024",13469,3940,240.9,467.0,3811.05,29.25,0.06,11.85,15.82,,,,USA,49.0,N/A,49.0,Bottom
+1235,Unknown_campaign,Google Ads,2024/04/05,29425,1473,360.75,54.0,1436.21,5.01,0.24,3.67,3.98,Search Ad,New Users,Mobile,USA,34.0,2m 15s,30.0,
+1236,,Unknown,2024-01-01,46281,4843,337.13,447.0,1997.77,10.46,0.07,9.23,5.93,search_add,,Mobl,,36.0,,32.0,Bottom
+1237,Holiday Offer,google_ads,,22309,4762,377.65,453.0,2729.74,21.35,0.08,9.51,7.23,Display Ad,unkown_segment,Desktop,USA,35.0,,40.0,NA
+1238,,google_ads,15-02-2024,43961,4673,328.82,79.0,3374.76,10.63,0.07,1.69,10.26,,,Mobile,,37.0,,34.0,
+1239,,Unknown,2024/04/05,44363,2395,117.56,326.0,4309.39,5.4,0.05,13.61,36.66,Search Ad,Returning Customers,Mobile,,38.0,N/A,59.0,Bottom
+1240,!!!,Gogle Adz,15-02-2024,33331,1066,269.29,454.0,1961.08,3.2,0.25,42.59,7.28,AdX,New Users,Mobile,Europe,20.0,3m 40s,35.0,NA
+1241,Summer Sale,,"March 10, 2024",42700,1737,351.77,311.0,1360.12,4.07,0.2,17.9,3.87,search_add,unkown_segment,Mobl,India,30.0,,31.0,NA
+1242,,FB ads,,24737,4234,96.39,287.0,4110.49,17.12,0.02,6.78,42.64,Display Ad,Returning Customers,Mobile,India,45.0,,32.0,Bottom
+1243,!!!,Facebook Ads,2024/04/05,49304,4190,81.22,156.0,1970.66,8.5,0.02,3.72,24.26,Display Ad,Returning Customers,Desktop,,31.0,2m 15s,38.0,Bottom
+1244,Summer Sale,,2024-01-01,24279,4531,454.43,317.0,2676.74,18.66,0.1,7.0,5.89,AdX,Returning Customers,Desktop,India,43.0,N/A,58.0,Bottom
+1245,Holiday Offer,,,11790,693,499.34,307.0,4457.23,5.88,0.72,44.3,8.93,Search Ad,,Mobl,Europe,36.0,N/A,52.0,
+1246,Holiday Offer,Facebook Ads,"March 10, 2024",47166,2777,444.23,83.0,3361.85,5.89,0.16,2.99,7.57,AdX,New Users,Mobile,Unknown,21.0,3m 40s,59.0,
+1247,Black Friday Deal,Unknown,,23821,1121,497.1,215.0,3307.63,4.71,0.44,19.18,6.65,search_add,New Users,Desktop,USA,21.0,,54.0,
+1248,!!!,Facebook Ads,15-02-2024,21894,2349,418.04,277.0,3772.03,10.73,0.18,11.79,9.02,Display Ad,,Mobl,,24.0,N/A,36.0,
+1249,Unknown_campaign,Google Ads,,48876,4020,129.91,429.0,4926.23,8.22,0.03,10.67,37.92,search_add,unkown_segment,,USA,34.0,,38.0,
+1250,Holiday Offer,Unknown,,38760,2094,338.42,182.0,910.32,5.4,0.16,8.69,2.69,Display Ad,unkown_segment,Mobile,India,36.0,2m 15s,44.0,NA
+1251,Unknown_campaign,FB ads,2024/04/05,21046,554,70.07,10.0,3484.11,2.63,0.13,1.81,49.72,Display Ad,unkown_segment,Mobl,Europe,37.0,3m 40s,34.0,
+1252,Holiday Offer,Facebook Ads,2024/04/05,45593,4871,133.07,398.0,2993.07,10.68,0.03,8.17,22.49,Video Ad,,,Europe,22.0,3m 40s,58.0,NA
+1253,Summer Sale,Unknown,2024-01-01,28836,1174,123.01,464.0,2875.83,4.07,0.1,39.52,23.38,,New Users,Deskotp,USA,47.0,2m 15s,52.0,NA
+1254,!!!,Unknown,2024/04/05,35357,3550,114.33,347.0,3813.37,10.04,0.03,9.77,33.35,AdX,unkown_segment,Desktop,,49.0,,50.0,Bottom
+1255,,Gogle Adz,15-02-2024,10269,1347,390.03,494.0,2283.55,13.12,0.29,36.67,5.85,Video Ad,unkown_segment,Mobile,,47.0,3m 40s,32.0,Top
+1256,,Gogle Adz,"March 10, 2024",15937,1674,82.59,480.0,2867.73,10.5,0.05,28.67,34.72,,New Users,Unknown,USA,39.0,N/A,32.0,NA
+1257,,Facebook Ads,,36781,4460,309.36,12.0,3011.27,12.13,0.07,0.27,9.73,,New Users,Mobl,,32.0,N/A,43.0,Side
+1258,,Unknown,,30381,3969,138.83,281.0,1572.5,13.06,0.03,7.08,11.33,search_add,Returning Customers,,Unknown,25.0,N/A,49.0,Top
+1259,Holiday Offer,Unknown,2024/04/05,15061,256,84.31,432.0,994.94,1.7,0.33,168.75,11.8,Search Ad,Returning Customers,,USA,22.0,2m 15s,48.0,
+1260,!!!,FB ads,"March 10, 2024",34880,3597,351.68,129.0,4570.89,10.31,0.1,3.59,13.0,Video Ad,,,Unknown,27.0,3m 40s,56.0,Bottom
+1261,Holiday Offer,Google Ads,2024-01-01,28440,925,346.64,100.0,1247.35,3.25,0.37,10.81,3.6,Search Ad,,Mobl,Unknown,26.0,,48.0,Top
+1262,!!!,Facebook Ads,,31420,4192,55.59,475.0,1647.57,13.34,0.01,11.33,29.64,Display Ad,,Desktop,India,38.0,N/A,43.0,Top
+1263,Holiday Offer,Gogle Adz,15-02-2024,24013,4883,498.11,210.0,777.33,20.33,0.1,4.3,1.56,Video Ad,,Desktop,India,41.0,3m 40s,35.0,Bottom
+1264,!!!,Gogle Adz,15-02-2024,22432,2359,200.98,270.0,1816.07,10.52,0.09,11.45,9.04,,,Desktop,Europe,42.0,3m 40s,51.0,
+1265,,,"March 10, 2024",44125,4570,325.1,250.0,2337.98,10.36,0.07,5.47,7.19,,,,USA,48.0,,44.0,Top
+1266,Summer Sale,Google Ads,15-02-2024,14913,1075,142.14,66.0,2108.13,7.21,0.13,6.14,14.83,,unkown_segment,Mobile,India,47.0,N/A,58.0,Bottom
+1267,!!!,Unknown,15-02-2024,32294,1278,496.99,243.0,4689.96,3.96,0.39,19.01,9.44,Video Ad,New Users,Desktop,Europe,47.0,N/A,40.0,Top
+1268,Black Friday Deal,Unknown,2024/04/05,18625,296,299.21,434.0,1061.47,1.59,1.01,146.62,3.55,AdX,,Mobl,,46.0,3m 40s,47.0,Side
+1269,!!!,Google Ads,2024/04/05,25602,3434,423.12,213.0,1172.14,13.41,0.12,6.2,2.77,Video Ad,New Users,Deskotp,USA,39.0,,34.0,Bottom
+1270,Unknown_campaign,FB ads,2024/04/05,12591,1728,186.44,342.0,2238.53,13.72,0.11,19.79,12.01,Search Ad,unkown_segment,Mobile,Unknown,40.0,3m 40s,54.0,Bottom
+1271,Summer Sale,Google Ads,"March 10, 2024",23609,158,61.17,136.0,1646.51,0.67,0.39,86.08,26.92,Search Ad,unkown_segment,Deskotp,India,32.0,3m 40s,47.0,Side
+1272,Black Friday Deal,Google Ads,2024/04/05,39221,1818,173.42,302.0,4676.39,4.64,0.1,16.61,26.97,Video Ad,Returning Customers,Mobl,Unknown,32.0,,41.0,Bottom
+1273,!!!,google_ads,15-02-2024,21273,4153,53.51,306.0,4645.46,19.52,0.01,7.37,86.81,Video Ad,,Mobl,,21.0,,42.0,NA
+1274,Unknown_campaign,FB ads,,13506,290,464.13,389.0,2142.47,2.15,1.6,134.14,4.62,search_add,New Users,,,37.0,2m 15s,32.0,Bottom
+1275,Unknown_campaign,,2024/04/05,26009,909,240.2,203.0,4622.99,3.49,0.26,22.33,19.25,,unkown_segment,Desktop,Europe,47.0,3m 40s,54.0,Bottom
+1276,Unknown_campaign,Gogle Adz,,22607,1830,467.5,78.0,4841.09,8.09,0.26,4.26,10.36,Video Ad,New Users,Unknown,USA,38.0,,37.0,Side
+1277,!!!,Unknown,,29561,1744,197.7,341.0,1114.71,5.9,0.11,19.55,5.64,Video Ad,Returning Customers,Deskotp,USA,25.0,3m 40s,35.0,Top
+1278,!!!,FB ads,15-02-2024,36620,1461,249.18,317.0,1196.48,3.99,0.17,21.7,4.8,Video Ad,Returning Customers,,USA,28.0,,32.0,Top
+1279,Unknown_campaign,,"March 10, 2024",27376,2970,178.63,146.0,1767.71,10.85,0.06,4.92,9.9,Video Ad,,Mobile,India,21.0,,44.0,Side
+1280,Unknown_campaign,Google Ads,"March 10, 2024",28916,882,349.55,444.0,4362.18,3.05,0.4,50.34,12.48,Search Ad,Returning Customers,Deskotp,USA,41.0,2m 15s,51.0,NA
+1281,!!!,Google Ads,"March 10, 2024",41599,3937,168.53,166.0,1390.74,9.46,0.04,4.22,8.25,Search Ad,New Users,,Europe,44.0,3m 40s,46.0,Bottom
+1282,Holiday Offer,google_ads,"March 10, 2024",41559,4837,414.3,114.0,3221.4,11.64,0.09,2.36,7.78,,,Mobl,USA,45.0,3m 40s,30.0,Top
+1283,Summer Sale,Unknown,2024/04/05,6113,2913,413.12,273.0,1602.71,47.65,0.14,9.37,3.88,,New Users,Unknown,Europe,45.0,,52.0,Side
+1284,,,2024-01-01,40608,781,359.84,337.0,3974.39,1.92,0.46,43.15,11.04,AdX,New Users,Deskotp,,47.0,3m 40s,59.0,Top
+1285,Black Friday Deal,Google Ads,15-02-2024,32882,2979,335.93,472.0,2269.64,9.06,0.11,15.84,6.76,Display Ad,unkown_segment,Desktop,India,37.0,N/A,57.0,Side
+1286,!!!,,2024/04/05,10421,2281,251.35,430.0,1285.94,21.89,0.11,18.85,5.12,Video Ad,Returning Customers,Mobl,Unknown,22.0,,33.0,Bottom
+1287,Black Friday Deal,Google Ads,,28522,3252,206.5,487.0,2896.52,11.4,0.06,14.98,14.03,,unkown_segment,Mobile,India,44.0,N/A,44.0,Top
+1288,,Unknown,,10904,3836,467.61,250.0,4812.51,35.18,0.12,6.52,10.29,AdX,,Mobile,Europe,20.0,3m 40s,46.0,NA
+1289,Unknown_campaign,,,22998,4240,94.58,193.0,3694.66,18.44,0.02,4.55,39.06,Search Ad,,Unknown,India,37.0,,37.0,
+1290,Summer Sale,Google Ads,2024-01-01,28884,983,365.0,113.0,1812.91,3.4,0.37,11.5,4.97,Search Ad,New Users,Desktop,USA,29.0,2m 15s,43.0,Top
+1291,,Facebook Ads,"March 10, 2024",45054,3173,396.59,272.0,4881.01,7.04,0.12,8.57,12.31,Display Ad,unkown_segment,Unknown,USA,35.0,,38.0,Bottom
+1292,!!!,google_ads,2024-01-01,23495,2570,472.25,136.0,787.09,10.94,0.18,5.29,1.67,Video Ad,unkown_segment,Unknown,Europe,38.0,2m 15s,39.0,Side
+1293,Holiday Offer,FB ads,15-02-2024,7564,1146,89.39,206.0,781.08,15.15,0.08,17.98,8.74,search_add,Returning Customers,Unknown,Unknown,48.0,,31.0,Side
+1294,Black Friday Deal,Facebook Ads,,33836,2117,130.44,206.0,1937.84,6.26,0.06,9.73,14.86,Video Ad,,Unknown,Europe,29.0,,33.0,Bottom
+1295,Summer Sale,google_ads,2024-01-01,24171,177,205.25,426.0,4144.56,0.73,1.16,240.68,20.19,Search Ad,,Unknown,Europe,47.0,N/A,39.0,
+1296,Black Friday Deal,Unknown,15-02-2024,46234,4357,74.98,291.0,2561.08,9.42,0.02,6.68,34.16,Video Ad,unkown_segment,Mobile,,30.0,N/A,55.0,NA
+1297,Black Friday Deal,Gogle Adz,15-02-2024,28514,3889,274.25,364.0,2167.86,13.64,0.07,9.36,7.9,Search Ad,New Users,Mobile,Europe,44.0,N/A,39.0,Bottom
+1298,!!!,Google Ads,"March 10, 2024",43773,4345,265.41,326.0,2511.29,9.93,0.06,7.5,9.46,AdX,unkown_segment,,Unknown,22.0,2m 15s,34.0,NA
+1299,Black Friday Deal,Unknown,15-02-2024,38404,2379,490.93,108.0,1921.03,6.19,0.21,4.54,3.91,search_add,New Users,Unknown,Europe,32.0,3m 40s,41.0,Bottom
+1300,Summer Sale,Google Ads,15-02-2024,45779,4597,56.03,216.0,2823.56,10.04,0.01,4.7,50.39,search_add,New Users,Mobl,USA,34.0,N/A,54.0,Side
+1301,Unknown_campaign,,2024-01-01,17839,1510,120.82,127.0,2352.4,8.46,0.08,8.41,19.47,search_add,unkown_segment,Mobile,USA,36.0,3m 40s,47.0,Side
+1302,Black Friday Deal,Facebook Ads,2024/04/05,31323,2788,66.62,115.0,1439.52,8.9,0.02,4.12,21.61,AdX,New Users,Mobile,India,49.0,3m 40s,51.0,Top
+1303,Summer Sale,Google Ads,2024/04/05,23364,1224,375.05,186.0,804.47,5.24,0.31,15.2,2.14,search_add,New Users,Unknown,Europe,47.0,,35.0,Side
+1304,Summer Sale,Unknown,15-02-2024,42422,4966,274.85,387.0,4622.49,11.71,0.06,7.79,16.82,Search Ad,New Users,Desktop,India,39.0,,34.0,Bottom
+1305,Holiday Offer,FB ads,2024/04/05,25210,4372,398.37,107.0,928.3,17.34,0.09,2.45,2.33,Search Ad,New Users,,USA,39.0,N/A,52.0,
+1306,Holiday Offer,,"March 10, 2024",23210,2733,372.45,469.0,2659.64,11.78,0.14,17.16,7.14,Search Ad,Returning Customers,,Europe,25.0,2m 15s,36.0,Top
+1307,Unknown_campaign,Facebook Ads,,7976,1399,191.46,21.0,2930.8,17.54,0.14,1.5,15.31,search_add,New Users,Mobile,India,27.0,N/A,40.0,Side
+1308,Summer Sale,Unknown,2024-01-01,23321,536,272.08,464.0,4369.07,2.3,0.51,86.57,16.06,Search Ad,,Mobl,Unknown,33.0,N/A,57.0,Top
+1309,Unknown_campaign,google_ads,"March 10, 2024",17903,307,358.18,346.0,4757.92,1.71,1.17,112.7,13.28,,unkown_segment,Mobile,,36.0,,33.0,
+1310,Black Friday Deal,Gogle Adz,,37980,4020,309.87,492.0,2549.9,10.58,0.08,12.24,8.23,Search Ad,Returning Customers,Unknown,,41.0,,38.0,
+1311,Unknown_campaign,Unknown,2024-01-01,8438,4871,273.89,90.0,2136.16,57.73,0.06,1.85,7.8,,Returning Customers,Desktop,India,30.0,3m 40s,46.0,
+1312,Black Friday Deal,,"March 10, 2024",36439,423,282.09,216.0,2450.76,1.16,0.67,51.06,8.69,Search Ad,New Users,Desktop,USA,31.0,3m 40s,52.0,Bottom
+1313,Unknown_campaign,Unknown,2024-01-01,28989,505,226.06,402.0,3119.4,1.74,0.45,79.6,13.8,Video Ad,Returning Customers,,USA,27.0,2m 15s,52.0,Bottom
+1314,Holiday Offer,Gogle Adz,,16446,1002,236.18,282.0,3173.88,6.09,0.24,28.14,13.44,Search Ad,Returning Customers,,India,27.0,N/A,35.0,NA
+1315,,google_ads,"March 10, 2024",25102,3362,246.37,338.0,3899.68,13.39,0.07,10.05,15.83,Display Ad,New Users,,,39.0,N/A,46.0,NA
+1316,Black Friday Deal,Google Ads,,37569,1648,470.9,200.0,2687.9,4.39,0.29,12.14,5.71,Display Ad,,Deskotp,Unknown,24.0,3m 40s,30.0,Bottom
+1317,Black Friday Deal,Google Ads,2024/04/05,25877,1769,375.06,395.0,4605.34,6.84,0.21,22.33,12.28,Search Ad,unkown_segment,Desktop,Europe,45.0,,40.0,Bottom
+1318,Unknown_campaign,Facebook Ads,2024-01-01,37380,3503,388.44,164.0,2789.4,9.37,0.11,4.68,7.18,Display Ad,New Users,Deskotp,Unknown,22.0,,43.0,
+1319,Unknown_campaign,google_ads,"March 10, 2024",48609,1293,219.63,410.0,4725.25,2.66,0.17,31.71,21.51,search_add,unkown_segment,Mobl,,43.0,,50.0,Side
+1320,!!!,,,32553,1832,297.81,242.0,4242.03,5.63,0.16,13.21,14.24,Display Ad,,Desktop,,40.0,,49.0,Side
+1321,Summer Sale,Unknown,"March 10, 2024",35843,400,304.89,460.0,592.0,1.12,0.76,115.0,1.94,search_add,unkown_segment,Unknown,USA,37.0,2m 15s,45.0,Side
+1322,Summer Sale,Facebook Ads,2024/04/05,25731,3018,333.61,201.0,3410.11,11.73,0.11,6.66,10.22,Video Ad,,,India,36.0,,54.0,
+1323,!!!,FB ads,2024/04/05,12979,3339,378.81,449.0,2123.84,25.73,0.11,13.45,5.61,Display Ad,unkown_segment,,Europe,39.0,2m 15s,53.0,Bottom
+1324,Black Friday Deal,,,34992,4081,67.95,247.0,1534.86,11.66,0.02,6.05,22.59,Video Ad,Returning Customers,Deskotp,Europe,31.0,3m 40s,45.0,NA
+1325,Holiday Offer,google_ads,15-02-2024,10691,2985,381.67,302.0,1269.66,27.92,0.13,10.12,3.33,Search Ad,unkown_segment,Deskotp,USA,43.0,N/A,36.0,
+1326,Summer Sale,FB ads,,18447,3443,79.32,142.0,1656.93,18.66,0.02,4.12,20.89,,New Users,Mobile,Europe,26.0,2m 15s,41.0,Side
+1327,!!!,FB ads,,8911,1564,331.83,201.0,3699.69,17.55,0.21,12.85,11.15,Search Ad,unkown_segment,,,29.0,3m 40s,49.0,Top
+1328,,,2024-01-01,18127,1866,429.46,299.0,4568.73,10.29,0.23,16.02,10.64,Search Ad,Returning Customers,Unknown,Unknown,48.0,,48.0,
+1329,Summer Sale,Gogle Adz,15-02-2024,23421,4407,256.96,43.0,1890.13,18.82,0.06,0.98,7.36,Display Ad,unkown_segment,Mobile,USA,30.0,N/A,42.0,Bottom
+1330,!!!,Google Ads,15-02-2024,43601,2481,272.93,26.0,3111.85,5.69,0.11,1.05,11.4,Video Ad,unkown_segment,Desktop,India,44.0,N/A,50.0,Bottom
+1331,,google_ads,,19484,4711,312.65,236.0,4335.1,24.18,0.07,5.01,13.87,Video Ad,unkown_segment,Desktop,USA,46.0,,54.0,NA
+1332,Unknown_campaign,Facebook Ads,15-02-2024,25442,3402,236.05,411.0,1071.62,13.37,0.07,12.08,4.54,search_add,Returning Customers,Mobl,Europe,47.0,3m 40s,59.0,NA
+1333,Unknown_campaign,google_ads,15-02-2024,37119,1055,121.55,139.0,1018.0,2.84,0.12,13.18,8.38,Search Ad,,,USA,29.0,N/A,50.0,Bottom
+1334,Black Friday Deal,Facebook Ads,,37648,1385,299.39,99.0,1158.54,3.68,0.22,7.15,3.87,AdX,Returning Customers,Desktop,India,24.0,3m 40s,51.0,Side
+1335,Holiday Offer,Google Ads,"March 10, 2024",21748,4075,112.04,386.0,3560.48,18.74,0.03,9.47,31.78,Display Ad,unkown_segment,Deskotp,India,24.0,N/A,41.0,Side
+1336,,Unknown,,39694,3901,485.77,138.0,4535.83,9.83,0.12,3.54,9.34,Search Ad,New Users,Unknown,,32.0,3m 40s,37.0,NA
+1337,Holiday Offer,Facebook Ads,"March 10, 2024",30775,4096,93.11,405.0,3793.07,13.31,0.02,9.89,40.74,Display Ad,,Unknown,,43.0,3m 40s,37.0,Side
+1338,!!!,Gogle Adz,,26777,2181,88.8,117.0,4754.69,8.15,0.04,5.36,53.54,search_add,unkown_segment,Unknown,USA,27.0,2m 15s,34.0,
+1339,Holiday Offer,FB ads,,41032,526,490.7,193.0,2999.91,1.28,0.93,36.69,6.11,Video Ad,,Deskotp,India,33.0,,37.0,
+1340,Summer Sale,Unknown,15-02-2024,16710,1179,141.33,140.0,3954.54,7.06,0.12,11.87,27.98,Search Ad,New Users,,India,29.0,N/A,53.0,NA
+1341,Black Friday Deal,Unknown,,37612,3286,376.41,450.0,873.0,8.74,0.11,13.69,2.32,AdX,New Users,Mobile,Europe,41.0,2m 15s,45.0,
+1342,Summer Sale,Google Ads,,35865,2813,219.95,179.0,2598.48,7.84,0.08,6.36,11.81,,Returning Customers,Mobl,USA,25.0,2m 15s,31.0,Side
+1343,Holiday Offer,Google Ads,"March 10, 2024",40704,451,133.42,458.0,2395.92,1.11,0.3,101.55,17.96,,unkown_segment,Mobl,India,29.0,,36.0,Bottom
+1344,!!!,google_ads,,42092,2575,237.55,275.0,1024.86,6.12,0.09,10.68,4.31,Display Ad,,Unknown,India,45.0,2m 15s,47.0,
+1345,Black Friday Deal,,2024-01-01,38408,4373,342.58,162.0,2550.98,11.39,0.08,3.7,7.45,,New Users,,USA,44.0,,38.0,Bottom
+1346,!!!,,"March 10, 2024",36914,4816,196.46,226.0,4716.19,13.05,0.04,4.69,24.01,Video Ad,unkown_segment,Mobl,Europe,34.0,N/A,41.0,Side
+1347,Unknown_campaign,,15-02-2024,32907,119,477.67,131.0,3399.25,0.36,4.01,110.08,7.12,,unkown_segment,Mobl,India,20.0,N/A,31.0,Top
+1348,Black Friday Deal,Google Ads,"March 10, 2024",39927,2846,147.43,409.0,3110.39,7.13,0.05,14.37,21.1,AdX,,Desktop,USA,22.0,2m 15s,33.0,Side
+1349,Holiday Offer,google_ads,2024/04/05,32982,3688,216.75,81.0,4218.17,11.18,0.06,2.2,19.46,search_add,unkown_segment,Unknown,,23.0,,55.0,Bottom
+1350,!!!,Google Ads,,26269,2303,336.32,410.0,3018.44,8.77,0.15,17.8,8.97,Search Ad,,Mobile,,37.0,N/A,40.0,Top
+1351,Summer Sale,Google Ads,"March 10, 2024",27803,3123,102.98,76.0,3403.52,11.23,0.03,2.43,33.05,AdX,unkown_segment,Mobile,,47.0,,39.0,NA
+1352,Summer Sale,FB ads,"March 10, 2024",22642,4915,52.41,68.0,3043.05,21.71,0.01,1.38,58.06,search_add,unkown_segment,Desktop,,34.0,2m 15s,54.0,Top
+1353,Holiday Offer,Unknown,,9928,1373,292.77,324.0,4300.43,13.83,0.21,23.6,14.69,Display Ad,unkown_segment,Deskotp,,34.0,N/A,53.0,NA
+1354,Unknown_campaign,Gogle Adz,,6452,3563,278.56,271.0,4997.34,55.22,0.08,7.61,17.94,Video Ad,unkown_segment,Desktop,Europe,28.0,3m 40s,39.0,NA
+1355,!!!,,"March 10, 2024",9579,4757,69.25,400.0,2558.08,49.66,0.01,8.41,36.94,AdX,Returning Customers,,India,44.0,,46.0,Bottom
+1356,!!!,google_ads,15-02-2024,17772,3036,333.62,100.0,2937.8,17.08,0.11,3.29,8.81,Display Ad,unkown_segment,,USA,32.0,3m 40s,45.0,Top
+1357,,Facebook Ads,2024-01-01,41911,1680,171.68,10.0,4906.9,4.01,0.1,0.6,28.58,Video Ad,unkown_segment,Deskotp,USA,42.0,N/A,50.0,Side
+1358,Summer Sale,,2024/04/05,45865,2278,52.83,470.0,3881.09,4.97,0.02,20.63,73.46,Search Ad,Returning Customers,Desktop,USA,32.0,N/A,57.0,
+1359,Summer Sale,Gogle Adz,2024/04/05,27387,3493,306.47,343.0,1294.36,12.75,0.09,9.82,4.22,Display Ad,unkown_segment,Mobl,,35.0,,36.0,
+1360,Summer Sale,google_ads,2024-01-01,41422,433,164.98,72.0,1759.78,1.05,0.38,16.63,10.67,AdX,Returning Customers,Unknown,,46.0,,48.0,Top
+1361,!!!,google_ads,,45381,4301,125.42,266.0,3292.12,9.48,0.03,6.18,26.25,,,Mobl,,48.0,N/A,44.0,Side
+1362,Black Friday Deal,Google Ads,,11084,4424,105.71,324.0,3702.47,39.91,0.02,7.32,35.02,search_add,New Users,Deskotp,,30.0,3m 40s,47.0,Bottom
+1363,Summer Sale,Unknown,"March 10, 2024",35618,737,146.77,98.0,1652.3,2.07,0.2,13.3,11.26,Video Ad,,Desktop,USA,33.0,N/A,39.0,Bottom
+1364,Summer Sale,Facebook Ads,2024/04/05,48066,4179,386.56,375.0,1018.91,8.69,0.09,8.97,2.64,search_add,New Users,Deskotp,India,45.0,2m 15s,59.0,
+1365,,Facebook Ads,15-02-2024,11584,1805,386.78,328.0,3781.9,15.58,0.21,18.17,9.78,Display Ad,,Mobl,India,39.0,3m 40s,45.0,Bottom
+1366,,,2024/04/05,41777,1367,453.78,276.0,4272.85,3.27,0.33,20.19,9.42,AdX,New Users,Mobl,USA,27.0,2m 15s,35.0,Side
+1367,Unknown_campaign,Google Ads,15-02-2024,44357,4292,412.26,165.0,1571.27,9.68,0.1,3.84,3.81,Display Ad,,Unknown,,22.0,N/A,38.0,Bottom
+1368,Black Friday Deal,Gogle Adz,,8558,3236,284.79,401.0,4617.62,37.81,0.09,12.39,16.21,,unkown_segment,Desktop,Europe,28.0,N/A,37.0,Top
+1369,!!!,Facebook Ads,"March 10, 2024",20110,4320,229.79,401.0,3364.76,21.48,0.05,9.28,14.64,search_add,Returning Customers,Mobile,USA,23.0,,50.0,Top
+1370,Unknown_campaign,Google Ads,"March 10, 2024",10120,2764,250.77,205.0,4664.81,27.31,0.09,7.42,18.6,AdX,unkown_segment,Unknown,Europe,28.0,2m 15s,58.0,
+1371,Summer Sale,Unknown,2024-01-01,49279,1212,494.98,82.0,4395.29,2.46,0.41,6.77,8.88,search_add,New Users,Mobile,,46.0,N/A,46.0,Top
+1372,Holiday Offer,,2024/04/05,27296,1218,409.47,361.0,4252.1,4.46,0.34,29.64,10.38,Display Ad,,,India,41.0,N/A,32.0,
+1373,Holiday Offer,,15-02-2024,6827,744,341.54,145.0,2883.67,10.9,0.46,19.49,8.44,AdX,New Users,Mobile,Europe,20.0,N/A,54.0,Bottom
+1374,Summer Sale,Google Ads,,33639,643,408.88,238.0,2174.11,1.91,0.64,37.01,5.32,AdX,New Users,Desktop,Europe,26.0,N/A,33.0,Side
+1375,Unknown_campaign,,,33196,1947,56.24,25.0,1198.09,5.87,0.03,1.28,21.3,search_add,Returning Customers,Mobile,USA,23.0,2m 15s,37.0,Side
+1376,,Unknown,,27274,4237,111.86,166.0,4362.33,15.53,0.03,3.92,39.0,AdX,,Mobile,USA,25.0,3m 40s,33.0,Top
+1377,Holiday Offer,Unknown,"March 10, 2024",44752,1168,183.11,36.0,3486.52,2.61,0.16,3.08,19.04,search_add,unkown_segment,Unknown,Europe,42.0,N/A,30.0,Top
+1378,Black Friday Deal,google_ads,,38600,761,342.29,172.0,4554.09,1.97,0.45,22.6,13.3,search_add,unkown_segment,,,27.0,,31.0,
+1379,Unknown_campaign,Unknown,2024/04/05,16535,3721,255.06,76.0,827.73,22.5,0.07,2.04,3.25,,,Unknown,Unknown,30.0,,49.0,NA
+1380,Unknown_campaign,Unknown,2024/04/05,49835,2386,231.1,447.0,4028.12,4.79,0.1,18.73,17.43,Display Ad,New Users,Unknown,,30.0,,59.0,
+1381,!!!,Google Ads,2024/04/05,14437,4054,446.94,137.0,784.27,28.08,0.11,3.38,1.75,Video Ad,,Desktop,,27.0,N/A,39.0,NA
+1382,!!!,,"March 10, 2024",39500,332,247.35,350.0,2263.74,0.84,0.75,105.42,9.15,Video Ad,Returning Customers,,Unknown,38.0,,33.0,Top
+1383,Holiday Offer,Unknown,,34492,3915,279.35,14.0,4410.7,11.35,0.07,0.36,15.79,Search Ad,,Desktop,USA,22.0,3m 40s,57.0,Top
+1384,Black Friday Deal,Google Ads,"March 10, 2024",32307,4927,242.73,341.0,1072.21,15.25,0.05,6.92,4.42,Search Ad,unkown_segment,Mobl,India,21.0,,53.0,Side
+1385,!!!,,,22966,2323,54.4,307.0,4573.28,10.11,0.02,13.22,84.07,,,Unknown,India,29.0,2m 15s,34.0,
+1386,!!!,Unknown,15-02-2024,14470,3390,110.3,276.0,1053.96,23.43,0.03,8.14,9.56,Search Ad,unkown_segment,Mobile,,20.0,N/A,58.0,Side
+1387,Black Friday Deal,FB ads,2024-01-01,16419,1814,83.29,314.0,4843.28,11.05,0.05,17.31,58.15,search_add,Returning Customers,Deskotp,USA,46.0,2m 15s,51.0,NA
+1388,Summer Sale,Gogle Adz,2024-01-01,38331,3429,222.92,345.0,4124.98,8.95,0.07,10.06,18.5,AdX,Returning Customers,Mobl,,37.0,,37.0,Side
+1389,Holiday Offer,Facebook Ads,2024-01-01,28217,510,253.58,13.0,1961.3,1.81,0.5,2.55,7.73,Search Ad,Returning Customers,Unknown,USA,49.0,2m 15s,51.0,Top
+1390,Black Friday Deal,Google Ads,2024-01-01,40855,4149,418.44,69.0,2658.72,10.16,0.1,1.66,6.35,Search Ad,New Users,Deskotp,Unknown,36.0,3m 40s,55.0,NA
+1391,Summer Sale,Facebook Ads,15-02-2024,13685,2229,125.5,376.0,2057.59,16.29,0.06,16.87,16.4,Display Ad,Returning Customers,Mobile,Unknown,46.0,,31.0,
+1392,Unknown_campaign,Unknown,"March 10, 2024",31898,2724,424.57,67.0,1397.95,8.54,0.16,2.46,3.29,AdX,unkown_segment,Unknown,USA,38.0,3m 40s,47.0,NA
+1393,Unknown_campaign,Google Ads,2024-01-01,31405,3054,390.51,227.0,3945.01,9.72,0.13,7.43,10.1,,New Users,Mobl,Europe,30.0,,53.0,Side
+1394,Unknown_campaign,Gogle Adz,2024/04/05,8864,3027,484.28,33.0,2880.43,34.15,0.16,1.09,5.95,,Returning Customers,Desktop,Unknown,34.0,N/A,44.0,NA
+1395,Black Friday Deal,Facebook Ads,,37937,330,325.99,142.0,4017.59,0.87,0.99,43.03,12.32,Display Ad,Returning Customers,Mobile,India,25.0,3m 40s,44.0,
+1396,Unknown_campaign,Unknown,"March 10, 2024",5474,1964,247.15,231.0,1483.73,35.88,0.13,11.76,6.0,AdX,Returning Customers,Mobl,,29.0,2m 15s,46.0,Bottom
+1397,,,"March 10, 2024",20596,4411,350.6,329.0,3627.23,21.42,0.08,7.46,10.35,Video Ad,Returning Customers,Mobl,India,30.0,2m 15s,56.0,Side
+1398,Unknown_campaign,Gogle Adz,"March 10, 2024",40111,3855,381.09,413.0,680.33,9.61,0.1,10.71,1.79,,Returning Customers,Mobl,India,29.0,2m 15s,47.0,
+1399,,Unknown,,33662,4789,91.54,387.0,4838.37,14.23,0.02,8.08,52.86,,,Mobile,Europe,20.0,N/A,46.0,NA
+1400,Black Friday Deal,Gogle Adz,"March 10, 2024",33440,4455,408.9,242.0,2977.7,13.32,0.09,5.43,7.28,Video Ad,unkown_segment,Desktop,USA,41.0,,50.0,Top
+1401,!!!,FB ads,2024/04/05,20767,3326,128.03,138.0,4986.69,16.02,0.04,4.15,38.95,Search Ad,New Users,,USA,30.0,2m 15s,50.0,Bottom
+1402,Holiday Offer,Gogle Adz,2024/04/05,12196,4028,287.66,237.0,4543.02,33.03,0.07,5.88,15.79,search_add,,Mobile,,35.0,2m 15s,58.0,Side
+1403,Summer Sale,Gogle Adz,15-02-2024,44882,2845,488.89,379.0,1461.83,6.34,0.17,13.32,2.99,Search Ad,New Users,Unknown,India,27.0,3m 40s,50.0,Bottom
+1404,,Unknown,15-02-2024,5645,1885,125.03,394.0,1936.8,33.39,0.07,20.9,15.49,search_add,Returning Customers,Desktop,USA,33.0,N/A,35.0,Bottom
+1405,Unknown_campaign,,15-02-2024,27782,205,420.32,423.0,2796.52,0.74,2.05,206.34,6.65,Search Ad,New Users,Desktop,USA,27.0,2m 15s,55.0,NA
+1406,Black Friday Deal,FB ads,15-02-2024,27075,2221,242.75,85.0,3139.33,8.2,0.11,3.83,12.93,Display Ad,New Users,,India,38.0,,37.0,Top
+1407,Summer Sale,FB ads,"March 10, 2024",44345,4463,213.31,151.0,4439.82,10.06,0.05,3.38,20.81,,unkown_segment,Unknown,,20.0,N/A,39.0,Side
+1408,,Unknown,2024/04/05,37840,3389,104.37,367.0,3121.0,8.96,0.03,10.83,29.9,search_add,unkown_segment,Mobile,Unknown,23.0,3m 40s,31.0,NA
+1409,Unknown_campaign,Unknown,2024/04/05,43692,2338,283.14,495.0,3606.8,5.35,0.12,21.17,12.74,,,,Europe,40.0,2m 15s,51.0,NA
+1410,Holiday Offer,Gogle Adz,"March 10, 2024",41724,3408,131.55,184.0,4131.7,8.17,0.04,5.4,31.41,Display Ad,Returning Customers,Unknown,Unknown,40.0,2m 15s,31.0,Side
+1411,!!!,Google Ads,15-02-2024,34218,3523,200.49,134.0,1264.83,10.3,0.06,3.8,6.31,search_add,Returning Customers,Deskotp,Unknown,20.0,N/A,57.0,Bottom
+1412,Black Friday Deal,Unknown,2024-01-01,42934,4789,223.16,294.0,4739.78,11.15,0.05,6.14,21.24,search_add,New Users,,India,34.0,2m 15s,47.0,NA
+1413,,,,15758,524,92.58,368.0,4521.51,3.33,0.18,70.23,48.84,Video Ad,New Users,Deskotp,Unknown,23.0,N/A,56.0,Top
+1414,,Facebook Ads,15-02-2024,15620,4348,123.49,40.0,1105.7,27.84,0.03,0.92,8.95,Search Ad,New Users,Unknown,,49.0,3m 40s,44.0,
+1415,Black Friday Deal,FB ads,2024/04/05,13463,2168,402.64,216.0,3625.08,16.1,0.19,9.96,9.0,Display Ad,Returning Customers,,,35.0,2m 15s,54.0,Side
+1416,,google_ads,2024/04/05,6266,1417,337.82,138.0,2403.49,22.61,0.24,9.74,7.11,Video Ad,New Users,Mobile,Europe,25.0,2m 15s,41.0,
+1417,,,2024/04/05,38771,2922,417.86,446.0,4406.69,7.54,0.14,15.26,10.55,Video Ad,,Unknown,India,22.0,3m 40s,51.0,
+1418,Holiday Offer,Facebook Ads,"March 10, 2024",9605,2222,381.23,230.0,1121.33,23.13,0.17,10.35,2.94,Video Ad,,Unknown,USA,41.0,3m 40s,46.0,NA
+1419,Black Friday Deal,FB ads,2024-01-01,9474,3592,223.4,215.0,4845.02,37.91,0.06,5.99,21.69,,unkown_segment,Mobl,,43.0,2m 15s,35.0,Side
+1420,,,2024-01-01,22444,1182,106.1,175.0,4203.05,5.27,0.09,14.81,39.61,search_add,New Users,,Europe,25.0,N/A,32.0,Side
+1421,,Facebook Ads,2024-01-01,5698,4710,407.04,325.0,1757.38,82.66,0.09,6.9,4.32,Video Ad,unkown_segment,,Unknown,40.0,3m 40s,55.0,
+1422,Summer Sale,Facebook Ads,2024-01-01,21965,320,303.46,213.0,3210.18,1.46,0.95,66.56,10.58,,,Mobile,Unknown,40.0,3m 40s,34.0,Side
+1423,Black Friday Deal,Google Ads,2024-01-01,28150,1604,66.41,437.0,2871.32,5.7,0.04,27.24,43.24,Search Ad,New Users,,India,41.0,,35.0,Side
+1424,Summer Sale,google_ads,2024-01-01,7718,764,154.29,47.0,4936.56,9.9,0.2,6.15,32.0,Video Ad,unkown_segment,Deskotp,,35.0,3m 40s,34.0,Top
+1425,Black Friday Deal,Unknown,15-02-2024,20818,100,67.97,333.0,4880.69,0.48,0.68,333.0,71.81,search_add,New Users,Mobile,,38.0,,53.0,
+1426,Unknown_campaign,FB ads,2024/04/05,34344,784,338.68,444.0,3037.67,2.28,0.43,56.63,8.97,Display Ad,Returning Customers,Deskotp,,29.0,,40.0,Bottom
+1427,,FB ads,2024-01-01,22085,925,304.56,217.0,2153.42,4.19,0.33,23.46,7.07,,unkown_segment,Unknown,Unknown,47.0,N/A,49.0,
+1428,,Facebook Ads,2024-01-01,15952,1044,217.45,23.0,2459.32,6.54,0.21,2.2,11.31,search_add,New Users,Desktop,India,39.0,N/A,34.0,
+1429,,Gogle Adz,2024/04/05,34938,1880,414.91,323.0,3852.76,5.38,0.22,17.18,9.29,Search Ad,Returning Customers,Desktop,India,48.0,,53.0,Side
+1430,Black Friday Deal,Facebook Ads,2024-01-01,47864,3980,230.21,205.0,3176.86,8.32,0.06,5.15,13.8,Video Ad,unkown_segment,Unknown,Europe,40.0,N/A,50.0,Top
+1431,Unknown_campaign,,2024/04/05,37364,2792,348.71,279.0,1985.33,7.47,0.12,9.99,5.69,Display Ad,unkown_segment,Mobl,India,47.0,2m 15s,58.0,NA
+1432,Summer Sale,google_ads,15-02-2024,24956,594,321.04,63.0,2514.18,2.38,0.54,10.61,7.83,,,Mobl,USA,26.0,3m 40s,59.0,
+1433,,Unknown,"March 10, 2024",6358,176,101.52,203.0,1922.35,2.77,0.58,115.34,18.94,Display Ad,Returning Customers,Mobl,,40.0,2m 15s,57.0,Side
+1434,Summer Sale,Gogle Adz,,14174,280,493.64,215.0,4146.33,1.98,1.76,76.79,8.4,Search Ad,New Users,Unknown,India,45.0,2m 15s,59.0,Top
+1435,Holiday Offer,Google Ads,2024-01-01,28436,1949,104.73,58.0,4210.45,6.85,0.05,2.98,40.2,,,Deskotp,,38.0,3m 40s,46.0,
+1436,!!!,Google Ads,"March 10, 2024",13015,134,60.47,142.0,998.17,1.03,0.45,105.97,16.51,search_add,Returning Customers,Desktop,India,32.0,,38.0,Top
+1437,Unknown_campaign,FB ads,,14776,3693,234.68,385.0,2682.65,24.99,0.06,10.43,11.43,AdX,unkown_segment,,Europe,41.0,,57.0,Side
+1438,!!!,Gogle Adz,15-02-2024,40478,4112,267.03,389.0,4353.11,10.16,0.06,9.46,16.3,Video Ad,Returning Customers,Desktop,,21.0,2m 15s,52.0,
+1439,Black Friday Deal,Gogle Adz,,20796,220,263.34,491.0,4723.14,1.06,1.2,223.18,17.94,AdX,,,Europe,22.0,N/A,59.0,Bottom
+1440,Black Friday Deal,,"March 10, 2024",20642,2612,246.77,212.0,780.05,12.65,0.09,8.12,3.16,Video Ad,New Users,Mobl,,35.0,N/A,31.0,
+1441,,Facebook Ads,"March 10, 2024",10379,339,355.34,167.0,808.66,3.27,1.05,49.26,2.28,search_add,unkown_segment,Unknown,Unknown,23.0,N/A,40.0,Side
+1442,!!!,,2024/04/05,48289,1609,345.0,373.0,1002.27,3.33,0.21,23.18,2.91,Video Ad,Returning Customers,Mobile,India,43.0,N/A,48.0,NA
+1443,Summer Sale,FB ads,2024-01-01,16699,1341,235.52,112.0,4928.43,8.03,0.18,8.35,20.93,Search Ad,unkown_segment,Unknown,USA,38.0,N/A,52.0,NA
+1444,Black Friday Deal,FB ads,2024/04/05,31271,3158,399.46,437.0,2787.82,10.1,0.13,13.84,6.98,AdX,New Users,Deskotp,USA,29.0,3m 40s,54.0,
+1445,!!!,Gogle Adz,2024/04/05,37562,375,331.53,135.0,4651.82,1.0,0.88,36.0,14.03,AdX,,Mobl,Unknown,29.0,N/A,38.0,Bottom
+1446,!!!,FB ads,15-02-2024,14730,136,486.65,230.0,508.07,0.92,3.58,169.12,1.04,AdX,,Mobile,USA,27.0,,39.0,Bottom
+1447,Unknown_campaign,Unknown,2024/04/05,8628,1160,218.97,162.0,1232.01,13.44,0.19,13.97,5.63,AdX,unkown_segment,Unknown,USA,25.0,N/A,41.0,Bottom
+1448,Summer Sale,Google Ads,2024-01-01,9577,389,220.36,197.0,1187.29,4.06,0.57,50.64,5.39,,unkown_segment,Unknown,,30.0,N/A,53.0,Bottom
+1449,Summer Sale,Facebook Ads,2024-01-01,43819,2262,100.62,451.0,2440.4,5.16,0.04,19.94,24.25,Display Ad,,Mobl,USA,43.0,2m 15s,57.0,NA
+1450,,FB ads,15-02-2024,35139,4891,390.77,467.0,4612.93,13.92,0.08,9.55,11.8,Video Ad,Returning Customers,Mobile,India,27.0,N/A,59.0,
+1451,Summer Sale,google_ads,,45303,579,177.09,85.0,1584.87,1.28,0.31,14.68,8.95,search_add,,,India,23.0,2m 15s,56.0,Side
+1452,Holiday Offer,,15-02-2024,46160,4477,130.78,139.0,2688.47,9.7,0.03,3.1,20.56,AdX,New Users,Desktop,,42.0,2m 15s,47.0,
+1453,Unknown_campaign,google_ads,2024-01-01,6020,4326,329.42,16.0,1255.3,71.86,0.08,0.37,3.81,AdX,Returning Customers,Unknown,,33.0,3m 40s,49.0,NA
+1454,,,15-02-2024,23924,4675,327.42,229.0,1064.08,19.54,0.07,4.9,3.25,AdX,New Users,Mobile,USA,48.0,N/A,43.0,Side
+1455,Summer Sale,Unknown,"March 10, 2024",16609,2890,145.24,123.0,3936.74,17.4,0.05,4.26,27.11,Display Ad,unkown_segment,Deskotp,Unknown,23.0,N/A,50.0,NA
+1456,Unknown_campaign,google_ads,"March 10, 2024",6854,2470,219.59,484.0,2332.38,36.04,0.09,19.6,10.62,Search Ad,New Users,Desktop,India,37.0,N/A,47.0,Top
+1457,Unknown_campaign,Unknown,,20138,3055,431.11,322.0,1900.42,15.17,0.14,10.54,4.41,Search Ad,unkown_segment,Mobile,Europe,21.0,N/A,55.0,NA
+1458,Unknown_campaign,Google Ads,15-02-2024,7480,2056,414.56,313.0,4699.25,27.49,0.2,15.22,11.34,AdX,unkown_segment,Mobile,India,34.0,2m 15s,49.0,Top
+1459,,,,11261,3768,118.47,37.0,1260.74,33.46,0.03,0.98,10.64,Display Ad,unkown_segment,Mobile,India,22.0,2m 15s,50.0,NA
+1460,Black Friday Deal,Google Ads,"March 10, 2024",8976,890,429.24,368.0,4104.86,9.92,0.48,41.35,9.56,search_add,Returning Customers,Deskotp,India,47.0,N/A,48.0,Top
+1461,Holiday Offer,Facebook Ads,,31059,4088,240.07,92.0,1795.48,13.16,0.06,2.25,7.48,Video Ad,unkown_segment,Deskotp,Europe,43.0,3m 40s,53.0,Side
+1462,Black Friday Deal,Facebook Ads,2024-01-01,47015,1575,309.4,485.0,3818.09,3.35,0.2,30.79,12.34,,unkown_segment,,,28.0,,51.0,Side
+1463,,FB ads,"March 10, 2024",14168,743,152.09,377.0,2330.39,5.24,0.2,50.74,15.32,search_add,unkown_segment,Desktop,Unknown,29.0,3m 40s,47.0,NA
+1464,Summer Sale,Gogle Adz,2024/04/05,44977,852,227.16,122.0,4419.03,1.89,0.27,14.32,19.45,AdX,,Deskotp,Europe,27.0,N/A,54.0,Top
+1465,,Facebook Ads,"March 10, 2024",14072,4283,381.42,379.0,1108.14,30.44,0.09,8.85,2.91,AdX,New Users,Desktop,India,23.0,3m 40s,42.0,NA
+1466,Holiday Offer,Unknown,,22475,1445,101.03,444.0,4295.49,6.43,0.07,30.73,42.52,AdX,unkown_segment,Desktop,USA,49.0,N/A,31.0,
+1467,Black Friday Deal,Unknown,"March 10, 2024",16317,4733,262.45,476.0,2962.72,29.01,0.06,10.06,11.29,search_add,Returning Customers,Mobile,Europe,29.0,2m 15s,51.0,
+1468,,Unknown,,48364,4580,375.68,282.0,1302.19,9.47,0.08,6.16,3.47,Video Ad,New Users,Deskotp,,41.0,N/A,36.0,NA
+1469,Unknown_campaign,google_ads,2024-01-01,13453,3603,178.89,268.0,3359.95,26.78,0.05,7.44,18.78,AdX,,,,39.0,2m 15s,45.0,Bottom
+1470,Summer Sale,google_ads,"March 10, 2024",19026,1046,164.15,431.0,1283.95,5.5,0.16,41.2,7.82,search_add,Returning Customers,Mobl,USA,31.0,2m 15s,52.0,Bottom
+1471,!!!,Unknown,2024-01-01,15559,2468,253.65,134.0,584.51,15.86,0.1,5.43,2.3,search_add,unkown_segment,,Unknown,32.0,,42.0,Bottom
+1472,,Google Ads,2024-01-01,18736,3390,177.44,417.0,3476.53,18.09,0.05,12.3,19.59,Video Ad,Returning Customers,Mobl,Europe,36.0,N/A,55.0,
+1473,Summer Sale,Facebook Ads,2024-01-01,42885,1602,433.63,214.0,800.53,3.74,0.27,13.36,1.85,,Returning Customers,Mobile,Unknown,32.0,,31.0,Bottom
+1474,Holiday Offer,google_ads,15-02-2024,41550,3598,261.0,373.0,840.74,8.66,0.07,10.37,3.22,Video Ad,unkown_segment,Desktop,USA,39.0,2m 15s,35.0,Top
+1475,Summer Sale,Gogle Adz,2024/04/05,6941,1955,68.03,147.0,1474.64,28.17,0.03,7.52,21.68,search_add,Returning Customers,Mobl,,46.0,,57.0,NA
+1476,!!!,FB ads,,16899,4997,295.33,361.0,3021.2,29.57,0.06,7.22,10.23,AdX,unkown_segment,,,46.0,N/A,38.0,NA
+1477,Holiday Offer,Facebook Ads,2024/04/05,35161,1144,343.07,334.0,1517.91,3.25,0.3,29.2,4.42,Video Ad,New Users,Mobile,India,41.0,N/A,49.0,Bottom
+1478,!!!,Unknown,2024-01-01,12958,2094,438.16,273.0,2090.58,16.16,0.21,13.04,4.77,AdX,,Deskotp,Europe,48.0,N/A,43.0,Top
+1479,Summer Sale,FB ads,"March 10, 2024",5764,616,128.07,221.0,3324.0,10.69,0.21,35.88,25.95,Search Ad,New Users,Unknown,USA,46.0,N/A,42.0,Bottom
+1480,,Facebook Ads,"March 10, 2024",19198,1695,453.5,171.0,4605.91,8.83,0.27,10.09,10.16,Display Ad,New Users,Desktop,Europe,37.0,,50.0,Bottom
+1481,Summer Sale,FB ads,15-02-2024,47134,646,237.23,231.0,2759.87,1.37,0.37,35.76,11.63,Search Ad,unkown_segment,Mobile,USA,28.0,2m 15s,58.0,NA
+1482,Black Friday Deal,FB ads,2024/04/05,16271,3254,208.77,166.0,3031.63,20.0,0.06,5.1,14.52,Video Ad,Returning Customers,Unknown,USA,23.0,3m 40s,42.0,NA
+1483,Summer Sale,google_ads,,47805,2072,97.36,395.0,3726.86,4.33,0.05,19.06,38.28,Video Ad,unkown_segment,Deskotp,Europe,31.0,N/A,37.0,Top
+1484,Black Friday Deal,Google Ads,"March 10, 2024",29722,3339,188.83,302.0,1831.91,11.23,0.06,9.04,9.7,Search Ad,Returning Customers,Mobile,Unknown,45.0,N/A,30.0,Top
+1485,Holiday Offer,FB ads,"March 10, 2024",31188,162,214.75,79.0,1457.98,0.52,1.33,48.77,6.79,AdX,,Desktop,USA,32.0,3m 40s,39.0,Side
+1486,Black Friday Deal,FB ads,"March 10, 2024",14380,3192,209.45,202.0,2544.91,22.2,0.07,6.33,12.15,Search Ad,New Users,Mobl,Unknown,34.0,,30.0,Bottom
+1487,,Google Ads,15-02-2024,49375,1027,303.98,123.0,3876.65,2.08,0.3,11.98,12.75,search_add,unkown_segment,Mobl,,31.0,N/A,48.0,NA
+1488,Summer Sale,Google Ads,15-02-2024,22129,3231,107.69,403.0,2857.17,14.6,0.03,12.47,26.53,search_add,New Users,Deskotp,Europe,47.0,2m 15s,44.0,Bottom
+1489,!!!,Gogle Adz,2024/04/05,24577,145,130.34,46.0,3226.84,0.59,0.9,31.72,24.76,Search Ad,,Desktop,Unknown,40.0,N/A,34.0,NA
+1490,Black Friday Deal,Google Ads,,34134,2036,270.67,150.0,1597.21,5.96,0.13,7.37,5.9,AdX,Returning Customers,Desktop,Unknown,27.0,,55.0,Side
+1491,!!!,,2024-01-01,47554,139,63.76,12.0,2205.74,0.29,0.46,8.63,34.59,,New Users,Mobl,Europe,32.0,2m 15s,55.0,Top
+1492,!!!,google_ads,"March 10, 2024",30154,2063,293.15,350.0,4939.2,6.84,0.14,16.97,16.85,search_add,Returning Customers,Mobile,USA,27.0,3m 40s,46.0,Top
+1493,Summer Sale,Facebook Ads,15-02-2024,15034,3101,80.54,84.0,789.4,20.63,0.03,2.71,9.8,AdX,,Deskotp,India,41.0,N/A,35.0,Bottom
+1494,,Facebook Ads,2024/04/05,36382,3412,456.43,154.0,3075.45,9.38,0.13,4.51,6.74,AdX,unkown_segment,Deskotp,India,21.0,3m 40s,44.0,Bottom
+1495,Summer Sale,FB ads,15-02-2024,40595,1964,68.71,214.0,4156.47,4.84,0.03,10.9,60.49,Display Ad,Returning Customers,Mobile,USA,35.0,N/A,51.0,Side
+1496,Unknown_campaign,FB ads,"March 10, 2024",36734,3102,62.16,251.0,1533.29,8.44,0.02,8.09,24.67,Search Ad,,,Europe,31.0,2m 15s,47.0,Side
+1497,!!!,FB ads,"March 10, 2024",12385,2533,203.65,434.0,2256.2,20.45,0.08,17.13,11.08,Video Ad,Returning Customers,Desktop,India,33.0,3m 40s,51.0,
+1498,Summer Sale,Unknown,15-02-2024,26538,3894,343.98,75.0,3948.98,14.67,0.09,1.93,11.48,Search Ad,,Desktop,Europe,37.0,,53.0,Top
+1499,Holiday Offer,google_ads,15-02-2024,8083,2558,313.4,246.0,704.52,31.65,0.12,9.62,2.25,search_add,New Users,Deskotp,Europe,27.0,3m 40s,49.0,
+1500,!!!,,"March 10, 2024",38543,2055,324.63,42.0,1820.93,5.33,0.16,2.04,5.61,,Returning Customers,Unknown,Unknown,25.0,2m 15s,52.0,Side
+1501,,FB ads,,45762,2939,328.43,168.0,1997.19,6.42,0.11,5.72,6.08,Search Ad,New Users,,,29.0,N/A,55.0,Bottom
+1502,Summer Sale,Google Ads,15-02-2024,5429,3506,402.27,120.0,770.04,64.58,0.11,3.42,1.91,Search Ad,New Users,Desktop,Europe,45.0,3m 40s,30.0,Bottom
+1503,,,15-02-2024,40604,2507,486.87,436.0,4516.87,6.17,0.19,17.39,9.28,Display Ad,Returning Customers,,USA,21.0,2m 15s,54.0,Top
+1504,Unknown_campaign,Facebook Ads,2024-01-01,15660,4610,340.02,184.0,2650.39,29.44,0.07,3.99,7.79,AdX,unkown_segment,,India,39.0,,58.0,Side
+1505,!!!,Unknown,15-02-2024,12256,2612,174.38,68.0,1561.05,21.31,0.07,2.6,8.95,Display Ad,,Mobile,USA,20.0,2m 15s,32.0,NA
+1506,Black Friday Deal,google_ads,15-02-2024,37824,4263,128.41,193.0,3959.97,11.27,0.03,4.53,30.84,search_add,,,USA,34.0,N/A,47.0,Side
+1507,Holiday Offer,google_ads,,10903,3612,155.81,411.0,1924.01,33.13,0.04,11.38,12.35,Display Ad,unkown_segment,Mobl,Europe,32.0,,34.0,
+1508,,,2024/04/05,13657,359,342.97,357.0,2431.43,2.63,0.96,99.44,7.09,Search Ad,Returning Customers,Mobl,Europe,49.0,,35.0,
+1509,Unknown_campaign,google_ads,2024/04/05,37439,4503,300.08,118.0,3885.42,12.03,0.07,2.62,12.95,AdX,,Unknown,USA,20.0,3m 40s,43.0,Top
+1510,Holiday Offer,Unknown,2024/04/05,31519,2996,408.09,16.0,1269.62,9.51,0.14,0.53,3.11,AdX,New Users,Unknown,,43.0,N/A,30.0,Bottom
+1511,Unknown_campaign,Unknown,15-02-2024,10962,3814,482.14,492.0,4980.2,34.79,0.13,12.9,10.33,AdX,,Mobl,India,24.0,N/A,32.0,Side
+1512,Summer Sale,Google Ads,,5054,1778,436.89,75.0,1082.59,35.18,0.25,4.22,2.48,Video Ad,New Users,Unknown,India,21.0,2m 15s,30.0,NA
+1513,Summer Sale,Unknown,15-02-2024,16799,3774,78.15,380.0,4040.84,22.47,0.02,10.07,51.71,,New Users,Desktop,USA,29.0,,50.0,NA
+1514,!!!,Unknown,2024-01-01,42988,3579,368.47,298.0,2599.07,8.33,0.1,8.33,7.05,Video Ad,,,India,34.0,,56.0,Top
+1515,Holiday Offer,,"March 10, 2024",32681,1960,221.41,228.0,3055.23,6.0,0.11,11.63,13.8,Search Ad,,Mobl,,42.0,,40.0,Side
+1516,Holiday Offer,,2024-01-01,38359,3939,482.11,140.0,1162.06,10.27,0.12,3.55,2.41,Display Ad,unkown_segment,Mobile,USA,45.0,,48.0,Top
+1517,!!!,Google Ads,2024-01-01,18518,4855,352.62,270.0,2596.38,26.22,0.07,5.56,7.36,search_add,unkown_segment,Deskotp,USA,46.0,,34.0,Bottom
+1518,Holiday Offer,,,22499,4171,379.71,335.0,997.77,18.54,0.09,8.03,2.63,AdX,New Users,,Unknown,37.0,,38.0,NA
+1519,,google_ads,2024-01-01,7620,2434,248.6,399.0,3781.37,31.94,0.1,16.39,15.21,search_add,,,,28.0,3m 40s,51.0,Top
+1520,Summer Sale,,15-02-2024,47594,4822,69.11,116.0,1275.7,10.13,0.01,2.41,18.46,,New Users,,India,22.0,3m 40s,55.0,
+1521,Summer Sale,FB ads,"March 10, 2024",13892,2559,409.13,84.0,1085.37,18.42,0.16,3.28,2.65,search_add,,,India,42.0,N/A,51.0,Bottom
+1522,Unknown_campaign,FB ads,15-02-2024,39598,2070,210.37,240.0,3796.15,5.23,0.1,11.59,18.05,Display Ad,unkown_segment,Desktop,Europe,24.0,,30.0,NA
+1523,Black Friday Deal,Facebook Ads,"March 10, 2024",29621,1394,455.04,177.0,2651.2,4.71,0.33,12.7,5.83,Video Ad,Returning Customers,,India,36.0,,40.0,
+1524,Holiday Offer,FB ads,15-02-2024,28959,2135,311.1,104.0,683.56,7.37,0.15,4.87,2.2,,New Users,Mobl,Unknown,44.0,2m 15s,45.0,
+1525,!!!,Gogle Adz,"March 10, 2024",38558,459,494.54,249.0,1799.59,1.19,1.08,54.25,3.64,AdX,unkown_segment,Desktop,Unknown,21.0,3m 40s,49.0,NA
+1526,Summer Sale,google_ads,2024/04/05,49619,3262,462.37,446.0,4168.38,6.57,0.14,13.67,9.02,,New Users,Deskotp,Europe,38.0,3m 40s,50.0,NA
+1527,Black Friday Deal,,2024-01-01,39523,705,160.18,70.0,1275.24,1.78,0.23,9.93,7.96,,unkown_segment,Mobile,Europe,38.0,,35.0,
+1528,Holiday Offer,Unknown,15-02-2024,36793,3151,431.83,424.0,3492.57,8.56,0.14,13.46,8.09,Search Ad,unkown_segment,Deskotp,India,48.0,2m 15s,52.0,Side
+1529,Unknown_campaign,Unknown,15-02-2024,32339,668,125.48,112.0,3695.37,2.07,0.19,16.77,29.45,AdX,,Mobile,Unknown,45.0,3m 40s,52.0,NA
+1530,Holiday Offer,Facebook Ads,"March 10, 2024",23342,3568,198.29,31.0,4380.98,15.29,0.06,0.87,22.09,Search Ad,,Unknown,USA,34.0,,31.0,Bottom
+1531,Holiday Offer,Unknown,2024-01-01,27210,4866,220.68,467.0,2044.52,17.88,0.05,9.6,9.26,search_add,,Unknown,India,26.0,N/A,31.0,Top
+1532,!!!,Facebook Ads,15-02-2024,43294,535,51.34,149.0,4519.36,1.24,0.1,27.85,88.03,Search Ad,Returning Customers,Desktop,India,29.0,2m 15s,53.0,Top
+1533,,Facebook Ads,15-02-2024,37833,2723,98.57,449.0,923.7,7.2,0.04,16.49,9.37,Display Ad,Returning Customers,Mobile,India,40.0,,42.0,Side
+1534,Summer Sale,,2024/04/05,27524,2972,432.3,460.0,4840.81,10.8,0.15,15.48,11.2,Search Ad,New Users,,Europe,35.0,,37.0,Top
+1535,Black Friday Deal,FB ads,"March 10, 2024",22915,4529,178.01,457.0,3137.97,19.76,0.04,10.09,17.63,search_add,unkown_segment,Unknown,USA,45.0,N/A,49.0,Top
+1536,Holiday Offer,Unknown,2024/04/05,43448,4039,146.32,440.0,2906.3,9.3,0.04,10.89,19.86,Video Ad,unkown_segment,Deskotp,,24.0,2m 15s,40.0,
+1537,Unknown_campaign,FB ads,15-02-2024,34580,2493,424.78,472.0,3920.96,7.21,0.17,18.93,9.23,AdX,,,Europe,30.0,N/A,38.0,Side
+1538,Unknown_campaign,FB ads,2024/04/05,15319,3656,417.47,84.0,2763.8,23.87,0.11,2.3,6.62,Video Ad,New Users,Unknown,,45.0,N/A,32.0,NA
+1539,Summer Sale,google_ads,2024-01-01,34690,4131,378.24,363.0,2249.54,11.91,0.09,8.79,5.95,Display Ad,Returning Customers,Mobl,USA,31.0,,45.0,Bottom
+1540,Unknown_campaign,FB ads,"March 10, 2024",46549,1832,455.13,11.0,512.61,3.94,0.25,0.6,1.13,AdX,Returning Customers,Mobile,,20.0,N/A,31.0,Top
+1541,,,,32376,1584,289.01,220.0,3652.36,4.89,0.18,13.89,12.64,search_add,New Users,Mobile,India,20.0,N/A,43.0,Side
+1542,Unknown_campaign,Unknown,,31643,2544,427.21,319.0,2838.19,8.04,0.17,12.54,6.64,,Returning Customers,Mobl,,36.0,,30.0,Side
+1543,Summer Sale,Unknown,2024-01-01,37287,2171,136.79,210.0,2162.37,5.82,0.06,9.67,15.81,Video Ad,unkown_segment,Deskotp,Unknown,29.0,2m 15s,41.0,Side
+1544,Unknown_campaign,Unknown,2024/04/05,15471,1340,81.93,121.0,911.94,8.66,0.06,9.03,11.13,Search Ad,unkown_segment,Desktop,India,39.0,,49.0,NA
+1545,Holiday Offer,Facebook Ads,"March 10, 2024",7504,2466,67.13,95.0,1795.16,32.86,0.03,3.85,26.74,Search Ad,Returning Customers,,Unknown,26.0,N/A,47.0,NA
+1546,!!!,Google Ads,2024/04/05,8236,2767,423.52,463.0,2231.12,33.6,0.15,16.73,5.27,Display Ad,unkown_segment,Mobl,Unknown,22.0,N/A,41.0,Top
+1547,!!!,Gogle Adz,15-02-2024,20907,223,291.0,163.0,2559.45,1.07,1.3,73.09,8.8,Video Ad,unkown_segment,Unknown,Europe,47.0,2m 15s,43.0,Top
+1548,Black Friday Deal,Gogle Adz,"March 10, 2024",17143,1222,56.33,152.0,3263.65,7.13,0.05,12.44,57.94,Video Ad,Returning Customers,Deskotp,India,47.0,,39.0,NA
+1549,!!!,google_ads,15-02-2024,45951,3648,138.03,416.0,4748.04,7.94,0.04,11.4,34.4,AdX,New Users,Mobile,India,38.0,N/A,58.0,Side
+1550,Unknown_campaign,Gogle Adz,15-02-2024,33207,4664,379.09,498.0,1235.56,14.05,0.08,10.68,3.26,,,,USA,34.0,,32.0,Bottom
+1551,Black Friday Deal,Google Ads,2024/04/05,38780,1308,274.69,99.0,2420.28,3.37,0.21,7.57,8.81,,New Users,,USA,24.0,3m 40s,37.0,Bottom
+1552,Summer Sale,Unknown,"March 10, 2024",46160,4795,141.47,397.0,2416.05,10.39,0.03,8.28,17.08,Video Ad,Returning Customers,,Unknown,28.0,2m 15s,42.0,Bottom
+1553,Holiday Offer,google_ads,2024/04/05,17198,4217,79.46,409.0,3706.6,24.52,0.02,9.7,46.65,Video Ad,unkown_segment,,Unknown,29.0,N/A,42.0,Top
+1554,Black Friday Deal,Google Ads,15-02-2024,25806,1948,201.86,428.0,4943.29,7.55,0.1,21.97,24.49,AdX,,Unknown,India,39.0,,45.0,
+1555,Holiday Offer,Google Ads,2024-01-01,9282,2246,371.66,129.0,4018.89,24.2,0.17,5.74,10.81,Display Ad,Returning Customers,Mobl,Europe,20.0,2m 15s,31.0,Side
+1556,,Google Ads,"March 10, 2024",41324,4912,358.5,258.0,3701.63,11.89,0.07,5.25,10.33,,unkown_segment,,,38.0,3m 40s,46.0,Bottom
+1557,,Unknown,15-02-2024,19247,103,470.3,45.0,3151.63,0.54,4.57,43.69,6.7,search_add,unkown_segment,Deskotp,Europe,44.0,N/A,55.0,Bottom
+1558,,Google Ads,,39701,4321,339.54,125.0,2643.19,10.88,0.08,2.89,7.78,search_add,Returning Customers,Unknown,India,37.0,2m 15s,43.0,Bottom
+1559,Unknown_campaign,,2024/04/05,35003,454,105.85,487.0,2537.14,1.3,0.23,107.27,23.97,Display Ad,,Desktop,India,24.0,2m 15s,35.0,Top
+1560,Holiday Offer,Unknown,,10594,2828,77.88,23.0,1300.42,26.69,0.03,0.81,16.7,,unkown_segment,Desktop,USA,48.0,,37.0,Top
+1561,Unknown_campaign,,2024/04/05,45022,3976,283.66,100.0,4911.67,8.83,0.07,2.52,17.32,AdX,unkown_segment,Unknown,Unknown,46.0,,36.0,
+1562,!!!,Gogle Adz,2024-01-01,16812,528,116.99,285.0,1964.63,3.14,0.22,53.98,16.79,,Returning Customers,Desktop,India,25.0,3m 40s,43.0,NA
+1563,Holiday Offer,,2024-01-01,16214,4154,455.93,210.0,3330.72,25.62,0.11,5.06,7.31,Search Ad,New Users,,USA,23.0,N/A,31.0,Side
+1564,Summer Sale,Unknown,,11748,557,419.55,17.0,1408.43,4.74,0.75,3.05,3.36,Search Ad,New Users,Deskotp,Unknown,43.0,3m 40s,45.0,
+1565,Summer Sale,Gogle Adz,2024/04/05,6332,1734,60.81,37.0,642.15,27.38,0.04,2.13,10.56,,New Users,Mobl,,43.0,,54.0,Side
+1566,!!!,Gogle Adz,2024-01-01,20473,1062,451.37,374.0,1443.79,5.19,0.43,35.22,3.2,Display Ad,unkown_segment,Deskotp,,25.0,2m 15s,30.0,
+1567,!!!,FB ads,"March 10, 2024",39238,4647,293.18,449.0,3708.26,11.84,0.06,9.66,12.65,Search Ad,,Mobile,USA,37.0,2m 15s,42.0,
+1568,,Google Ads,"March 10, 2024",18327,1951,261.29,450.0,4779.63,10.65,0.13,23.07,18.29,AdX,New Users,Mobl,Unknown,31.0,3m 40s,47.0,Top
+1569,Unknown_campaign,Unknown,2024-01-01,15062,4535,407.46,364.0,1658.09,30.11,0.09,8.03,4.07,,,,Europe,41.0,2m 15s,49.0,Side
+1570,,Gogle Adz,15-02-2024,46397,1848,327.88,233.0,1945.46,3.98,0.18,12.61,5.93,search_add,unkown_segment,Deskotp,Unknown,22.0,N/A,48.0,Top
+1571,Holiday Offer,Facebook Ads,"March 10, 2024",23570,2391,134.92,306.0,4443.72,10.14,0.06,12.8,32.94,AdX,New Users,Mobile,Unknown,37.0,N/A,46.0,Side
+1572,!!!,google_ads,15-02-2024,6020,2604,328.23,412.0,2771.1,43.26,0.13,15.82,8.44,,New Users,Desktop,,41.0,N/A,54.0,Side
+1573,Holiday Offer,Google Ads,,34288,1521,158.83,12.0,3322.46,4.44,0.1,0.79,20.92,,,Mobile,Unknown,23.0,3m 40s,38.0,
+1574,Unknown_campaign,Google Ads,,11409,193,447.06,221.0,1083.89,1.69,2.32,114.51,2.42,search_add,New Users,Unknown,Europe,32.0,2m 15s,32.0,Top
+1575,,Unknown,15-02-2024,40585,341,482.9,77.0,2000.52,0.84,1.42,22.58,4.14,Video Ad,Returning Customers,Unknown,,38.0,N/A,37.0,
+1576,Unknown_campaign,Unknown,15-02-2024,41464,2642,461.13,294.0,3832.88,6.37,0.17,11.13,8.31,Search Ad,unkown_segment,Desktop,Unknown,37.0,3m 40s,54.0,
+1577,Holiday Offer,google_ads,"March 10, 2024",32503,4590,217.99,87.0,3134.14,14.12,0.05,1.9,14.38,search_add,New Users,Mobl,India,32.0,2m 15s,55.0,Top
+1578,Summer Sale,google_ads,15-02-2024,44412,2203,267.49,364.0,1409.84,4.96,0.12,16.52,5.27,AdX,New Users,Desktop,,20.0,3m 40s,37.0,Side
+1579,!!!,Facebook Ads,2024/04/05,39198,3182,329.26,478.0,576.99,8.12,0.1,15.02,1.75,AdX,Returning Customers,,USA,31.0,2m 15s,48.0,NA
+1580,Summer Sale,FB ads,2024-01-01,12547,623,122.85,197.0,4331.55,4.97,0.2,31.62,35.26,Display Ad,Returning Customers,Deskotp,Europe,46.0,2m 15s,30.0,Bottom
+1581,Black Friday Deal,FB ads,15-02-2024,34036,4953,354.27,432.0,2360.25,14.55,0.07,8.72,6.66,AdX,New Users,Deskotp,USA,42.0,2m 15s,52.0,Top
+1582,Holiday Offer,Unknown,15-02-2024,40519,4632,497.22,475.0,4052.31,11.43,0.11,10.25,8.15,search_add,,Mobile,Unknown,27.0,3m 40s,35.0,Side
+1583,,Google Ads,2024-01-01,42856,4292,56.1,475.0,2048.33,10.01,0.01,11.07,36.51,,,Mobl,,26.0,2m 15s,50.0,Bottom
+1584,Summer Sale,google_ads,15-02-2024,38473,4934,410.18,216.0,958.73,12.82,0.08,4.38,2.34,Video Ad,unkown_segment,,Europe,23.0,2m 15s,52.0,
+1585,!!!,FB ads,,10708,4003,332.2,233.0,2124.57,37.38,0.08,5.82,6.4,,Returning Customers,Mobl,,31.0,N/A,58.0,Top
+1586,,google_ads,2024/04/05,10871,1734,134.06,82.0,1259.23,15.95,0.08,4.73,9.39,AdX,unkown_segment,Deskotp,USA,37.0,3m 40s,59.0,
+1587,Unknown_campaign,FB ads,2024/04/05,23808,4074,60.12,236.0,1991.83,17.11,0.01,5.79,33.13,search_add,Returning Customers,Desktop,India,46.0,3m 40s,47.0,NA
+1588,!!!,Google Ads,15-02-2024,42436,2275,101.07,26.0,4535.19,5.36,0.04,1.14,44.87,AdX,,Desktop,Unknown,42.0,2m 15s,50.0,
+1589,Holiday Offer,Gogle Adz,2024/04/05,21503,2445,326.44,64.0,3204.9,11.37,0.13,2.62,9.82,,,Mobile,Unknown,42.0,2m 15s,36.0,Top
+1590,!!!,Facebook Ads,2024-01-01,44485,3226,333.65,299.0,2704.73,7.25,0.1,9.27,8.11,Video Ad,New Users,Desktop,Unknown,34.0,,52.0,Top
+1591,Unknown_campaign,,"March 10, 2024",18968,1394,461.05,197.0,4441.47,7.35,0.33,14.13,9.63,,Returning Customers,Deskotp,,23.0,N/A,34.0,Top
+1592,Unknown_campaign,Google Ads,,32508,1472,314.72,118.0,2157.26,4.53,0.21,8.02,6.85,Display Ad,,Desktop,USA,25.0,3m 40s,52.0,Top
+1593,Black Friday Deal,,2024-01-01,43161,3653,96.96,448.0,2908.32,8.46,0.03,12.26,30.0,,New Users,Mobl,India,47.0,3m 40s,44.0,Side
+1594,Summer Sale,Facebook Ads,"March 10, 2024",42363,899,99.35,352.0,2658.28,2.12,0.11,39.15,26.76,Search Ad,unkown_segment,,Unknown,33.0,,30.0,
+1595,Unknown_campaign,google_ads,"March 10, 2024",26209,3560,321.55,244.0,4954.83,13.58,0.09,6.85,15.41,,New Users,Desktop,Europe,21.0,2m 15s,50.0,Top
+1596,Black Friday Deal,Facebook Ads,2024-01-01,11847,1427,71.18,120.0,4668.81,12.05,0.05,8.41,65.59,Search Ad,Returning Customers,Unknown,Europe,43.0,2m 15s,42.0,Top
+1597,Black Friday Deal,Facebook Ads,15-02-2024,49655,952,462.1,450.0,611.18,1.92,0.49,47.27,1.32,AdX,New Users,Unknown,India,43.0,N/A,50.0,NA
+1598,,Facebook Ads,15-02-2024,18179,1776,273.4,390.0,4487.42,9.77,0.15,21.96,16.41,,,Unknown,Europe,38.0,2m 15s,33.0,Bottom
+1599,Unknown_campaign,,2024-01-01,7002,2283,466.32,67.0,1423.03,32.6,0.2,2.93,3.05,,,Desktop,USA,36.0,,30.0,NA
+1600,Unknown_campaign,Facebook Ads,15-02-2024,27947,4587,90.76,498.0,2268.3,16.41,0.02,10.86,24.99,Video Ad,Returning Customers,,USA,33.0,3m 40s,45.0,Bottom
+1601,Holiday Offer,Gogle Adz,,40487,2837,357.23,198.0,3203.95,7.01,0.13,6.98,8.97,Display Ad,Returning Customers,,India,24.0,N/A,51.0,Bottom
+1602,Holiday Offer,google_ads,"March 10, 2024",30206,1497,419.55,320.0,2792.41,4.96,0.28,21.38,6.66,Display Ad,unkown_segment,Mobile,India,20.0,N/A,49.0,NA
+1603,Holiday Offer,Google Ads,15-02-2024,47034,2055,406.78,141.0,4589.64,4.37,0.2,6.86,11.28,,Returning Customers,Mobl,USA,33.0,2m 15s,56.0,
+1604,Holiday Offer,,2024/04/05,15761,4132,412.22,488.0,4275.55,26.22,0.1,11.81,10.37,search_add,,,USA,47.0,3m 40s,46.0,Bottom
+1605,Holiday Offer,,2024/04/05,21156,2315,101.84,176.0,2731.87,10.94,0.04,7.6,26.83,,,Mobl,USA,25.0,3m 40s,41.0,NA
+1606,Summer Sale,,2024/04/05,10996,4306,319.12,438.0,3910.26,39.16,0.07,10.17,12.25,,unkown_segment,Desktop,,39.0,N/A,55.0,Side
+1607,,Unknown,,34151,4020,264.95,201.0,946.42,11.77,0.07,5.0,3.57,search_add,,,USA,40.0,2m 15s,54.0,Top
+1608,Holiday Offer,Gogle Adz,2024/04/05,12271,3565,396.88,447.0,2164.92,29.05,0.11,12.54,5.45,search_add,New Users,Mobl,India,48.0,2m 15s,34.0,
+1609,Unknown_campaign,Facebook Ads,15-02-2024,12272,1937,417.47,382.0,3366.25,15.78,0.22,19.72,8.06,Search Ad,Returning Customers,Mobl,Unknown,41.0,,30.0,NA
+1610,Black Friday Deal,Google Ads,"March 10, 2024",45752,4457,140.17,79.0,689.5,9.74,0.03,1.77,4.92,,unkown_segment,Mobl,Unknown,20.0,N/A,50.0,Top
+1611,Unknown_campaign,,15-02-2024,13000,4781,434.2,32.0,809.13,36.78,0.09,0.67,1.86,search_add,New Users,Deskotp,Unknown,24.0,N/A,53.0,Bottom
+1612,!!!,Gogle Adz,"March 10, 2024",29774,640,343.51,399.0,2918.77,2.15,0.54,62.34,8.5,Search Ad,unkown_segment,Unknown,Unknown,48.0,,47.0,
+1613,,Google Ads,"March 10, 2024",43069,4794,476.15,154.0,3068.38,11.13,0.1,3.21,6.44,AdX,Returning Customers,Deskotp,,26.0,2m 15s,49.0,NA
+1614,Summer Sale,google_ads,15-02-2024,47274,518,317.88,393.0,3146.91,1.1,0.61,75.87,9.9,Search Ad,,Mobile,Unknown,46.0,N/A,33.0,
+1615,Holiday Offer,Google Ads,2024-01-01,46356,4867,214.24,284.0,629.84,10.5,0.04,5.84,2.94,AdX,New Users,Deskotp,India,37.0,N/A,58.0,NA
+1616,!!!,FB ads,,5178,2749,346.99,465.0,3907.87,53.09,0.13,16.92,11.26,search_add,New Users,Deskotp,USA,33.0,3m 40s,59.0,
+1617,!!!,Facebook Ads,,8044,3334,252.68,45.0,1305.5,41.45,0.08,1.35,5.17,Search Ad,unkown_segment,Deskotp,Unknown,37.0,2m 15s,52.0,Side
+1618,Unknown_campaign,,2024/04/05,38652,1800,217.69,138.0,3755.71,4.66,0.12,7.67,17.25,search_add,,Mobile,Unknown,35.0,2m 15s,50.0,Top
+1619,Unknown_campaign,FB ads,15-02-2024,7412,3474,317.85,28.0,4690.39,46.87,0.09,0.81,14.76,AdX,New Users,Deskotp,Unknown,31.0,N/A,43.0,Top
+1620,Unknown_campaign,Unknown,,49011,4753,337.52,331.0,2870.85,9.7,0.07,6.96,8.51,Display Ad,New Users,Mobile,USA,29.0,3m 40s,46.0,Side
+1621,,,2024-01-01,46705,4123,364.81,424.0,4765.84,8.83,0.09,10.28,13.06,,unkown_segment,Unknown,Unknown,26.0,,58.0,Side
+1622,!!!,,"March 10, 2024",15239,380,247.26,136.0,2973.48,2.49,0.65,35.79,12.03,Video Ad,,Desktop,Europe,28.0,N/A,30.0,Bottom
+1623,Black Friday Deal,FB ads,,27109,4800,296.33,392.0,4382.87,17.71,0.06,8.17,14.79,,,Unknown,Unknown,26.0,N/A,46.0,NA
+1624,Black Friday Deal,,2024-01-01,41652,936,65.26,80.0,3351.26,2.25,0.07,8.55,51.35,Search Ad,unkown_segment,Desktop,Europe,42.0,3m 40s,35.0,NA
+1625,Holiday Offer,Facebook Ads,"March 10, 2024",8324,4683,94.11,230.0,1690.19,56.26,0.02,4.91,17.96,Video Ad,Returning Customers,,Unknown,43.0,3m 40s,39.0,
+1626,Holiday Offer,google_ads,15-02-2024,38286,546,366.44,200.0,3452.51,1.43,0.67,36.63,9.42,Search Ad,unkown_segment,Deskotp,,34.0,,50.0,Bottom
+1627,,,2024/04/05,48810,344,364.44,43.0,3075.89,0.7,1.06,12.5,8.44,AdX,unkown_segment,,USA,44.0,,58.0,NA
+1628,Black Friday Deal,FB ads,,17142,3763,280.45,175.0,3926.45,21.95,0.07,4.65,14.0,search_add,unkown_segment,Desktop,USA,29.0,3m 40s,49.0,Side
+1629,Unknown_campaign,google_ads,2024-01-01,31133,2315,487.44,458.0,4314.52,7.44,0.21,19.78,8.85,Display Ad,unkown_segment,,Europe,41.0,2m 15s,41.0,NA
+1630,!!!,Facebook Ads,2024/04/05,22498,445,346.18,309.0,3112.02,1.98,0.78,69.44,8.99,Search Ad,unkown_segment,Unknown,Unknown,28.0,,41.0,
+1631,Unknown_campaign,Gogle Adz,15-02-2024,19253,530,180.51,276.0,4266.18,2.75,0.34,52.08,23.63,search_add,,Unknown,Unknown,33.0,2m 15s,45.0,Side
+1632,!!!,FB ads,2024-01-01,8876,3295,405.88,472.0,2095.79,37.12,0.12,14.32,5.16,,,Mobile,,49.0,2m 15s,42.0,
+1633,Unknown_campaign,Google Ads,15-02-2024,14756,703,177.77,177.0,1819.43,4.76,0.25,25.18,10.23,Search Ad,New Users,Desktop,,22.0,N/A,32.0,NA
+1634,Summer Sale,Unknown,,30985,2148,111.0,120.0,3015.03,6.93,0.05,5.59,27.16,search_add,unkown_segment,Mobile,Europe,20.0,N/A,48.0,Bottom
+1635,,Facebook Ads,2024/04/05,44653,4134,307.01,90.0,3568.67,9.26,0.07,2.18,11.62,Video Ad,New Users,Mobile,USA,24.0,,50.0,NA
+1636,,Google Ads,15-02-2024,8631,2451,163.67,327.0,3087.68,28.4,0.07,13.34,18.87,Search Ad,,Mobile,Unknown,47.0,2m 15s,58.0,Side
+1637,Black Friday Deal,Unknown,2024/04/05,32396,3259,499.9,80.0,3847.08,10.06,0.15,2.45,7.7,Search Ad,New Users,,,35.0,,38.0,Top
+1638,Black Friday Deal,FB ads,"March 10, 2024",7224,4919,315.7,383.0,4075.69,68.09,0.06,7.79,12.91,Display Ad,Returning Customers,,India,41.0,3m 40s,43.0,Side
+1639,Summer Sale,,2024-01-01,39128,1367,116.85,41.0,2419.95,3.49,0.09,3.0,20.71,,Returning Customers,Unknown,Europe,31.0,3m 40s,53.0,NA
+1640,!!!,google_ads,,25915,1331,473.03,339.0,2515.47,5.14,0.36,25.47,5.32,Video Ad,Returning Customers,Unknown,India,24.0,2m 15s,44.0,
+1641,Black Friday Deal,FB ads,2024/04/05,10858,2353,356.2,306.0,2655.17,21.67,0.15,13.0,7.45,Display Ad,,Unknown,USA,35.0,N/A,35.0,NA
+1642,!!!,FB ads,15-02-2024,38072,853,187.73,375.0,1237.7,2.24,0.22,43.96,6.59,,,Deskotp,India,48.0,N/A,36.0,
+1643,!!!,FB ads,2024-01-01,31385,2730,358.13,231.0,1177.89,8.7,0.13,8.46,3.29,,Returning Customers,Desktop,India,22.0,3m 40s,43.0,Side
+1644,Summer Sale,Unknown,2024/04/05,25071,2889,446.01,281.0,4008.18,11.52,0.15,9.73,8.99,Display Ad,New Users,,,42.0,N/A,42.0,
+1645,Black Friday Deal,Google Ads,,39570,4234,269.38,226.0,4875.08,10.7,0.06,5.34,18.1,,unkown_segment,,India,28.0,3m 40s,48.0,Bottom
+1646,!!!,Unknown,2024/04/05,16356,3339,122.35,382.0,2148.94,20.41,0.04,11.44,17.56,Search Ad,Returning Customers,Desktop,India,48.0,N/A,31.0,Bottom
+1647,,,"March 10, 2024",22550,4434,174.52,244.0,1841.56,19.66,0.04,5.5,10.55,search_add,New Users,Deskotp,Europe,33.0,3m 40s,44.0,
+1648,!!!,FB ads,2024-01-01,42778,2933,109.81,133.0,3629.33,6.86,0.04,4.53,33.05,search_add,unkown_segment,Desktop,USA,49.0,2m 15s,36.0,Side
+1649,,Gogle Adz,"March 10, 2024",19953,2532,262.21,111.0,604.34,12.69,0.1,4.38,2.3,,New Users,Unknown,Europe,30.0,,32.0,NA
+1650,!!!,Facebook Ads,"March 10, 2024",14078,4222,403.0,367.0,3304.01,29.99,0.1,8.69,8.2,AdX,New Users,Mobile,USA,32.0,3m 40s,30.0,
+1651,Black Friday Deal,Unknown,15-02-2024,16710,1426,409.45,168.0,3371.82,8.53,0.29,11.78,8.23,search_add,New Users,Deskotp,USA,41.0,2m 15s,41.0,
+1652,Holiday Offer,Facebook Ads,2024/04/05,33129,1395,259.63,312.0,4663.51,4.21,0.19,22.37,17.96,AdX,,,Europe,42.0,2m 15s,42.0,NA
+1653,Black Friday Deal,Unknown,2024-01-01,27550,3563,98.66,384.0,1765.04,12.93,0.03,10.78,17.89,AdX,Returning Customers,Unknown,,49.0,,49.0,Top
+1654,Black Friday Deal,Gogle Adz,15-02-2024,7648,3769,250.3,348.0,2400.26,49.28,0.07,9.23,9.59,search_add,Returning Customers,Unknown,Europe,23.0,,56.0,Side
+1655,Unknown_campaign,,,27069,3019,140.14,214.0,3909.61,11.15,0.05,7.09,27.9,,New Users,Unknown,Unknown,25.0,2m 15s,34.0,Bottom
+1656,!!!,Unknown,15-02-2024,48117,3946,283.59,44.0,2347.75,8.2,0.07,1.12,8.28,search_add,Returning Customers,Desktop,India,27.0,N/A,53.0,Side
+1657,Black Friday Deal,Unknown,2024/04/05,22339,4796,469.41,472.0,894.74,21.47,0.1,9.84,1.91,Video Ad,New Users,Deskotp,Unknown,48.0,2m 15s,47.0,Bottom
+1658,Unknown_campaign,Unknown,"March 10, 2024",29573,1551,236.9,312.0,3476.77,5.24,0.15,20.12,14.68,Display Ad,,Desktop,Europe,46.0,,34.0,Side
+1659,Summer Sale,FB ads,2024/04/05,24703,3375,307.95,156.0,726.63,13.66,0.09,4.62,2.36,,,Unknown,USA,23.0,3m 40s,51.0,Side
+1660,Holiday Offer,,"March 10, 2024",36271,3871,117.4,174.0,4951.06,10.67,0.03,4.49,42.17,Search Ad,unkown_segment,,USA,28.0,N/A,35.0,
+1661,,Google Ads,2024-01-01,18847,4130,128.73,51.0,3453.8,21.91,0.03,1.23,26.83,,Returning Customers,,India,37.0,N/A,46.0,
+1662,Summer Sale,Google Ads,2024-01-01,16806,2830,322.9,86.0,2405.3,16.84,0.11,3.04,7.45,Search Ad,unkown_segment,Desktop,Europe,47.0,,42.0,NA
+1663,Holiday Offer,google_ads,"March 10, 2024",35998,4709,344.52,398.0,659.85,13.08,0.07,8.45,1.92,Search Ad,,,Unknown,28.0,3m 40s,48.0,Top
+1664,Summer Sale,Google Ads,2024-01-01,28252,2119,215.65,153.0,2038.65,7.5,0.1,7.22,9.45,Display Ad,Returning Customers,Deskotp,USA,29.0,N/A,51.0,Side
+1665,Unknown_campaign,Unknown,15-02-2024,17003,4884,136.37,492.0,4715.23,28.72,0.03,10.07,34.58,,Returning Customers,Desktop,Europe,38.0,,39.0,Top
+1666,Holiday Offer,Google Ads,,40366,1876,290.7,431.0,2290.71,4.65,0.15,22.97,7.88,Search Ad,New Users,Unknown,USA,41.0,,43.0,NA
+1667,!!!,,"March 10, 2024",16095,316,312.54,309.0,4166.55,1.96,0.99,97.78,13.33,,New Users,Unknown,Unknown,33.0,3m 40s,31.0,
+1668,,,15-02-2024,13146,2652,109.59,358.0,2764.91,20.17,0.04,13.5,25.23,Display Ad,Returning Customers,Desktop,Unknown,39.0,2m 15s,56.0,Top
+1669,Black Friday Deal,,,29018,4952,138.22,202.0,2452.92,17.07,0.03,4.08,17.75,,New Users,Deskotp,,23.0,2m 15s,31.0,Side
+1670,Holiday Offer,,2024-01-01,9553,2350,251.12,109.0,4737.58,24.6,0.11,4.64,18.87,Display Ad,New Users,Deskotp,Unknown,32.0,2m 15s,48.0,
+1671,,Google Ads,15-02-2024,8402,1572,489.42,426.0,1692.95,18.71,0.31,27.1,3.46,Display Ad,Returning Customers,Deskotp,,42.0,,50.0,Top
+1672,Holiday Offer,google_ads,"March 10, 2024",17646,796,431.67,145.0,2101.48,4.51,0.54,18.22,4.87,Video Ad,unkown_segment,Mobile,India,41.0,N/A,30.0,Bottom
+1673,Black Friday Deal,Google Ads,2024-01-01,19784,2973,347.52,121.0,3766.93,15.03,0.12,4.07,10.84,AdX,,Mobile,India,32.0,N/A,58.0,Top
+1674,Summer Sale,FB ads,2024/04/05,47040,2572,430.22,167.0,991.87,5.47,0.17,6.49,2.31,Display Ad,Returning Customers,Mobile,,23.0,3m 40s,46.0,Side
+1675,Black Friday Deal,Unknown,"March 10, 2024",20348,191,372.1,364.0,1793.81,0.94,1.95,190.58,4.82,,unkown_segment,Desktop,India,39.0,2m 15s,35.0,
+1676,,Facebook Ads,,32652,4596,236.83,215.0,1199.97,14.08,0.05,4.68,5.07,search_add,New Users,Desktop,Unknown,48.0,3m 40s,51.0,Side
+1677,Holiday Offer,FB ads,2024/04/05,48290,4996,168.69,261.0,799.04,10.35,0.03,5.22,4.74,,Returning Customers,Deskotp,USA,30.0,N/A,51.0,
+1678,Unknown_campaign,FB ads,2024/04/05,7547,4967,427.6,136.0,3809.75,65.81,0.09,2.74,8.91,Search Ad,Returning Customers,Unknown,,26.0,N/A,44.0,Bottom
+1679,!!!,FB ads,2024/04/05,48155,4875,410.51,450.0,1805.76,10.12,0.08,9.23,4.4,search_add,,Mobile,Europe,23.0,3m 40s,40.0,Side
+1680,Holiday Offer,google_ads,,44101,4126,171.12,79.0,3886.09,9.36,0.04,1.91,22.71,,,Desktop,,25.0,N/A,44.0,NA
+1681,Unknown_campaign,Facebook Ads,,34830,659,363.96,260.0,3359.78,1.89,0.55,39.45,9.23,Video Ad,New Users,Deskotp,India,33.0,2m 15s,42.0,NA
+1682,Unknown_campaign,Gogle Adz,,27963,2965,88.94,498.0,3579.2,10.6,0.03,16.8,40.24,AdX,New Users,Unknown,Unknown,37.0,N/A,44.0,
+1683,,,2024/04/05,7219,425,206.61,420.0,2055.34,5.89,0.49,98.82,9.95,search_add,Returning Customers,Mobile,India,27.0,N/A,50.0,Bottom
+1684,Summer Sale,,2024/04/05,35408,1983,132.3,387.0,1466.95,5.6,0.07,19.52,11.09,search_add,Returning Customers,Mobl,Unknown,47.0,N/A,55.0,NA
+1685,,Gogle Adz,,14001,3807,465.53,460.0,3072.33,27.19,0.12,12.08,6.6,Display Ad,New Users,,Europe,42.0,N/A,51.0,Bottom
+1686,Black Friday Deal,Gogle Adz,,18515,4247,448.73,139.0,893.28,22.94,0.11,3.27,1.99,Video Ad,,Desktop,Europe,29.0,3m 40s,33.0,Bottom
+1687,Black Friday Deal,google_ads,,5639,2238,84.16,170.0,3977.95,39.69,0.04,7.6,47.27,,New Users,Desktop,USA,41.0,,53.0,Top
+1688,Black Friday Deal,,2024/04/05,45454,3310,154.98,152.0,667.08,7.28,0.05,4.59,4.3,,New Users,Desktop,India,49.0,,31.0,Bottom
+1689,Summer Sale,Google Ads,2024/04/05,25608,1020,492.71,235.0,3349.18,3.98,0.48,23.04,6.8,search_add,Returning Customers,Deskotp,Europe,41.0,N/A,58.0,NA
+1690,Holiday Offer,google_ads,2024-01-01,20390,1158,103.29,14.0,3071.4,5.68,0.09,1.21,29.74,search_add,unkown_segment,,USA,25.0,3m 40s,54.0,NA
+1691,Holiday Offer,google_ads,15-02-2024,11781,3929,134.02,244.0,1579.68,33.35,0.03,6.21,11.79,Display Ad,New Users,Mobile,USA,23.0,,32.0,
+1692,!!!,Gogle Adz,2024-01-01,41233,968,409.6,353.0,1060.68,2.35,0.42,36.47,2.59,search_add,,Mobl,Unknown,20.0,N/A,39.0,Side
+1693,Summer Sale,Unknown,15-02-2024,37802,3037,112.52,177.0,870.98,8.03,0.04,5.83,7.74,search_add,New Users,Unknown,Unknown,30.0,N/A,44.0,Side
+1694,Summer Sale,FB ads,15-02-2024,21833,993,58.02,238.0,1526.88,4.55,0.06,23.97,26.32,,unkown_segment,Mobile,Europe,24.0,N/A,47.0,
+1695,Summer Sale,FB ads,,8305,2300,357.16,467.0,4334.39,27.69,0.16,20.3,12.14,search_add,Returning Customers,Deskotp,Unknown,41.0,2m 15s,44.0,
+1696,!!!,,2024/04/05,46170,2859,84.87,481.0,1355.71,6.19,0.03,16.82,15.97,Video Ad,unkown_segment,Deskotp,Europe,23.0,N/A,48.0,Bottom
+1697,Summer Sale,Google Ads,,20732,1232,106.71,415.0,3950.89,5.94,0.09,33.69,37.02,AdX,,Desktop,USA,29.0,,38.0,Top
+1698,Black Friday Deal,Unknown,,8408,4471,51.38,176.0,1788.59,53.18,0.01,3.94,34.81,Search Ad,,,Europe,28.0,2m 15s,38.0,Top
+1699,!!!,FB ads,"March 10, 2024",41916,4617,472.08,52.0,3481.25,11.01,0.1,1.13,7.37,Video Ad,,Mobile,Europe,37.0,2m 15s,32.0,Side
+1700,Unknown_campaign,google_ads,15-02-2024,14526,4605,322.62,45.0,819.11,31.7,0.07,0.98,2.54,Video Ad,Returning Customers,Mobile,Europe,26.0,N/A,45.0,NA
+1701,Summer Sale,Gogle Adz,15-02-2024,5465,1082,323.55,342.0,4303.01,19.8,0.3,31.61,13.3,,unkown_segment,Deskotp,USA,21.0,3m 40s,53.0,Side
+1702,!!!,Gogle Adz,2024-01-01,8420,952,179.97,370.0,4198.34,11.31,0.19,38.87,23.33,Video Ad,New Users,Unknown,Unknown,41.0,2m 15s,38.0,NA
+1703,Summer Sale,,2024-01-01,45443,151,319.34,263.0,1176.32,0.33,2.11,174.17,3.68,,unkown_segment,Deskotp,USA,40.0,,53.0,Top
+1704,Summer Sale,Gogle Adz,,9448,1687,93.66,87.0,2089.95,17.86,0.06,5.16,22.31,AdX,Returning Customers,,Unknown,23.0,3m 40s,59.0,Side
+1705,Black Friday Deal,,"March 10, 2024",21101,4607,243.64,420.0,4272.95,21.83,0.05,9.12,17.54,search_add,unkown_segment,Desktop,India,42.0,2m 15s,53.0,Bottom
+1706,Summer Sale,Gogle Adz,,5737,485,77.37,403.0,1117.76,8.45,0.16,83.09,14.45,Display Ad,New Users,Deskotp,India,49.0,3m 40s,31.0,
+1707,Summer Sale,Unknown,,25730,1391,89.28,95.0,1664.01,5.41,0.06,6.83,18.64,AdX,unkown_segment,Desktop,Europe,34.0,,46.0,
+1708,,,2024/04/05,44834,3446,482.45,315.0,4176.93,7.69,0.14,9.14,8.66,AdX,Returning Customers,Desktop,Unknown,29.0,,34.0,NA
+1709,,Gogle Adz,,10644,1679,348.83,497.0,4871.06,15.77,0.21,29.6,13.96,AdX,Returning Customers,Unknown,USA,23.0,N/A,37.0,Side
+1710,Black Friday Deal,google_ads,"March 10, 2024",33455,3355,471.55,99.0,4693.67,10.03,0.14,2.95,9.95,Search Ad,,Desktop,Unknown,21.0,3m 40s,51.0,NA
+1711,Unknown_campaign,Facebook Ads,,15726,2045,220.05,192.0,1671.47,13.0,0.11,9.39,7.6,AdX,Returning Customers,Unknown,USA,42.0,3m 40s,31.0,Bottom
+1712,Unknown_campaign,FB ads,2024/04/05,29530,597,287.37,395.0,3824.49,2.02,0.48,66.16,13.31,Display Ad,Returning Customers,,,43.0,N/A,50.0,Bottom
+1713,Black Friday Deal,Google Ads,,13356,107,462.88,68.0,3923.37,0.8,4.33,63.55,8.48,search_add,New Users,,Europe,23.0,3m 40s,57.0,Side
+1714,Holiday Offer,Google Ads,15-02-2024,47237,4121,252.17,379.0,3959.66,8.72,0.06,9.2,15.7,search_add,,Unknown,USA,20.0,N/A,31.0,Bottom
+1715,!!!,Google Ads,2024/04/05,47255,4225,156.49,270.0,3783.0,8.94,0.04,6.39,24.17,Video Ad,,,USA,46.0,3m 40s,40.0,Top
+1716,Black Friday Deal,Facebook Ads,"March 10, 2024",37451,4751,67.76,57.0,4390.47,12.69,0.01,1.2,64.79,search_add,New Users,,USA,24.0,2m 15s,39.0,NA
+1717,Unknown_campaign,Unknown,15-02-2024,13092,2663,113.04,418.0,2778.96,20.34,0.04,15.7,24.58,search_add,,Unknown,USA,25.0,,38.0,
+1718,!!!,Facebook Ads,"March 10, 2024",41103,3508,149.32,241.0,867.54,8.53,0.04,6.87,5.81,AdX,unkown_segment,Deskotp,Unknown,25.0,N/A,44.0,
+1719,Unknown_campaign,Unknown,15-02-2024,43522,2711,119.25,237.0,2202.14,6.23,0.04,8.74,18.47,Display Ad,unkown_segment,Deskotp,Europe,46.0,N/A,43.0,Top
+1720,!!!,google_ads,"March 10, 2024",47906,2764,143.59,61.0,3627.02,5.77,0.05,2.21,25.26,Search Ad,New Users,,Europe,45.0,N/A,51.0,Bottom
+1721,Black Friday Deal,Gogle Adz,15-02-2024,46553,145,450.56,42.0,2429.52,0.31,3.11,28.97,5.39,Search Ad,,Deskotp,India,23.0,2m 15s,38.0,Side
+1722,Unknown_campaign,google_ads,"March 10, 2024",42860,932,234.71,447.0,1238.12,2.17,0.25,47.96,5.28,search_add,Returning Customers,Unknown,,22.0,3m 40s,41.0,Top
+1723,Summer Sale,Facebook Ads,15-02-2024,22891,4534,174.3,482.0,2332.04,19.81,0.04,10.63,13.38,AdX,New Users,Mobl,USA,43.0,,38.0,Top
+1724,Black Friday Deal,Unknown,,47805,2631,389.88,271.0,2321.38,5.5,0.15,10.3,5.95,,Returning Customers,Mobl,India,37.0,N/A,40.0,Top
+1725,Holiday Offer,Facebook Ads,2024-01-01,44156,4471,378.47,27.0,774.47,10.13,0.08,0.6,2.05,Search Ad,New Users,Mobl,Unknown,46.0,,46.0,Bottom
+1726,Black Friday Deal,Facebook Ads,,41680,1925,210.14,90.0,2030.33,4.62,0.11,4.68,9.66,Video Ad,Returning Customers,Mobile,Europe,31.0,,41.0,Side
+1727,Holiday Offer,Gogle Adz,15-02-2024,23093,2044,159.15,316.0,1499.86,8.85,0.08,15.46,9.42,,Returning Customers,,Unknown,40.0,,39.0,Side
+1728,Black Friday Deal,,"March 10, 2024",8288,229,401.52,105.0,4396.17,2.76,1.75,45.85,10.95,,unkown_segment,Mobl,,44.0,3m 40s,35.0,Side
+1729,Summer Sale,FB ads,"March 10, 2024",17530,2531,131.82,152.0,881.3,14.44,0.05,6.01,6.69,search_add,,Mobl,USA,48.0,2m 15s,35.0,Bottom
+1730,,FB ads,2024-01-01,40077,3319,100.26,48.0,3349.36,8.28,0.03,1.45,33.41,Display Ad,,Desktop,,31.0,N/A,43.0,Bottom
+1731,Unknown_campaign,Gogle Adz,2024/04/05,31521,2813,314.86,167.0,4056.93,8.92,0.11,5.94,12.88,Search Ad,,Mobl,,20.0,,49.0,NA
+1732,Summer Sale,FB ads,2024/04/05,36176,4362,432.64,449.0,3731.56,12.06,0.1,10.29,8.63,AdX,Returning Customers,Unknown,Unknown,31.0,3m 40s,49.0,NA
+1733,Unknown_campaign,Google Ads,15-02-2024,42998,3331,241.95,370.0,2202.02,7.75,0.07,11.11,9.1,AdX,unkown_segment,,Europe,41.0,N/A,47.0,Top
+1734,Unknown_campaign,Facebook Ads,,8454,2131,468.56,242.0,569.92,25.21,0.22,11.36,1.22,,unkown_segment,Unknown,USA,28.0,,46.0,Bottom
+1735,!!!,FB ads,15-02-2024,13500,4638,138.78,70.0,2952.03,34.36,0.03,1.51,21.27,Display Ad,Returning Customers,Deskotp,India,43.0,N/A,48.0,NA
+1736,!!!,Unknown,,8699,1784,70.75,301.0,3289.01,20.51,0.04,16.87,46.49,Search Ad,New Users,Deskotp,USA,24.0,2m 15s,37.0,Bottom
+1737,!!!,FB ads,2024-01-01,30461,4815,95.39,48.0,2502.29,15.81,0.02,1.0,26.23,AdX,,Deskotp,USA,37.0,2m 15s,32.0,NA
+1738,!!!,,2024-01-01,24516,2342,305.05,294.0,2810.0,9.55,0.13,12.55,9.21,,unkown_segment,Desktop,Unknown,28.0,2m 15s,34.0,
+1739,Unknown_campaign,Facebook Ads,"March 10, 2024",41387,1722,333.23,320.0,4052.24,4.16,0.19,18.58,12.16,,,Desktop,India,29.0,2m 15s,39.0,Top
+1740,!!!,,15-02-2024,30132,922,191.11,476.0,1620.91,3.06,0.21,51.63,8.48,,unkown_segment,Mobile,USA,45.0,N/A,32.0,Top
+1741,Unknown_campaign,Unknown,,37792,3341,162.48,108.0,3922.59,8.84,0.05,3.23,24.14,Search Ad,New Users,Mobl,Europe,38.0,N/A,52.0,
+1742,!!!,,15-02-2024,13774,2471,200.02,210.0,4940.49,17.94,0.08,8.5,24.7,,Returning Customers,Mobile,Europe,41.0,N/A,32.0,NA
+1743,Holiday Offer,Gogle Adz,15-02-2024,41825,1968,145.62,471.0,4765.0,4.71,0.07,23.93,32.72,Display Ad,New Users,,USA,44.0,N/A,52.0,NA
+1744,Summer Sale,FB ads,15-02-2024,44397,3695,174.4,289.0,1319.56,8.32,0.05,7.82,7.57,Search Ad,Returning Customers,Mobile,USA,26.0,N/A,52.0,
+1745,!!!,FB ads,,5852,1982,287.9,155.0,1539.42,33.87,0.15,7.82,5.35,search_add,New Users,Mobl,Europe,36.0,N/A,33.0,NA
+1746,Holiday Offer,Gogle Adz,,28122,4598,436.2,71.0,2909.2,16.35,0.09,1.54,6.67,,,Desktop,Unknown,20.0,N/A,58.0,
+1747,Summer Sale,Unknown,15-02-2024,26063,4545,413.48,370.0,913.49,17.44,0.09,8.14,2.21,Search Ad,Returning Customers,Unknown,India,44.0,2m 15s,35.0,Side
+1748,!!!,Google Ads,"March 10, 2024",32236,2363,313.96,108.0,2269.31,7.33,0.13,4.57,7.23,Search Ad,,Deskotp,Europe,36.0,3m 40s,32.0,Top
+1749,Holiday Offer,Google Ads,2024-01-01,23342,4095,153.98,237.0,657.21,17.54,0.04,5.79,4.27,Video Ad,New Users,Mobile,,21.0,3m 40s,50.0,Side
+1750,,Facebook Ads,"March 10, 2024",38566,1173,251.45,158.0,4891.96,3.04,0.21,13.47,19.46,search_add,,Mobl,USA,21.0,3m 40s,53.0,Bottom
+1751,!!!,,2024-01-01,7070,4309,142.86,371.0,2691.09,60.95,0.03,8.61,18.84,Display Ad,unkown_segment,Mobl,Europe,32.0,N/A,32.0,Side
+1752,Summer Sale,Unknown,"March 10, 2024",5679,3857,355.2,176.0,2291.89,67.92,0.09,4.56,6.45,Display Ad,New Users,Desktop,Europe,31.0,N/A,38.0,Bottom
+1753,Summer Sale,,15-02-2024,10730,1185,326.07,163.0,3462.79,11.04,0.28,13.76,10.62,AdX,New Users,Unknown,Europe,33.0,3m 40s,54.0,
+1754,Black Friday Deal,Facebook Ads,2024-01-01,12063,1496,117.46,464.0,2354.38,12.4,0.08,31.02,20.04,AdX,,Unknown,Unknown,24.0,2m 15s,44.0,
+1755,Holiday Offer,google_ads,15-02-2024,39834,3201,58.98,449.0,1568.35,8.04,0.02,14.03,26.59,Video Ad,,Desktop,Europe,33.0,N/A,59.0,Bottom
+1756,Summer Sale,Unknown,15-02-2024,33997,1268,231.42,61.0,2461.55,3.73,0.18,4.81,10.64,Video Ad,New Users,Deskotp,USA,37.0,N/A,52.0,Side
+1757,Black Friday Deal,Gogle Adz,2024/04/05,47825,4024,377.89,408.0,961.86,8.41,0.09,10.14,2.55,AdX,unkown_segment,Deskotp,Europe,21.0,N/A,50.0,Side
+1758,,Google Ads,,8601,4977,360.92,306.0,1315.29,57.87,0.07,6.15,3.64,Video Ad,unkown_segment,Mobl,Europe,25.0,3m 40s,55.0,NA
+1759,Summer Sale,Gogle Adz,2024-01-01,25987,2503,362.17,254.0,2627.06,9.63,0.14,10.15,7.25,search_add,New Users,Mobl,Europe,36.0,2m 15s,56.0,Side
+1760,Unknown_campaign,,,27791,1291,485.42,19.0,1359.51,4.65,0.38,1.47,2.8,Display Ad,unkown_segment,Unknown,,40.0,2m 15s,59.0,Top
+1761,Summer Sale,Facebook Ads,15-02-2024,16558,2396,315.12,293.0,2408.88,14.47,0.13,12.23,7.64,AdX,unkown_segment,Mobile,India,32.0,,44.0,Top
+1762,,Unknown,2024/04/05,23437,4305,87.14,351.0,3610.62,18.37,0.02,8.15,41.43,Video Ad,New Users,Mobl,Unknown,49.0,N/A,50.0,Bottom
+1763,!!!,Facebook Ads,"March 10, 2024",19934,3249,181.86,342.0,2659.25,16.3,0.06,10.53,14.62,Search Ad,New Users,Mobl,India,29.0,,52.0,
+1764,Summer Sale,Facebook Ads,15-02-2024,12146,3753,256.69,321.0,4306.38,30.9,0.07,8.55,16.78,,unkown_segment,Mobl,India,38.0,N/A,52.0,
+1765,Unknown_campaign,Gogle Adz,15-02-2024,45611,1595,375.6,290.0,1082.99,3.5,0.24,18.18,2.88,,,Unknown,India,27.0,,48.0,
+1766,Summer Sale,google_ads,2024-01-01,13500,881,51.09,31.0,2409.23,6.53,0.06,3.52,47.16,AdX,Returning Customers,Desktop,Europe,49.0,2m 15s,41.0,
+1767,,Google Ads,2024/04/05,24687,2699,359.74,78.0,3262.19,10.93,0.13,2.89,9.07,Video Ad,unkown_segment,Deskotp,,25.0,,44.0,Side
+1768,Holiday Offer,google_ads,,18361,3270,402.99,20.0,2525.02,17.81,0.12,0.61,6.27,AdX,unkown_segment,Mobl,Europe,28.0,,35.0,
+1769,Black Friday Deal,Google Ads,15-02-2024,40742,2290,133.31,467.0,2466.34,5.62,0.06,20.39,18.5,search_add,unkown_segment,Unknown,Unknown,22.0,2m 15s,53.0,
+1770,Summer Sale,FB ads,2024-01-01,17846,4661,234.13,95.0,2957.89,26.12,0.05,2.04,12.63,search_add,New Users,Desktop,,35.0,3m 40s,44.0,NA
+1771,Black Friday Deal,Google Ads,2024-01-01,25380,2411,80.96,24.0,1356.84,9.5,0.03,1.0,16.76,Display Ad,Returning Customers,Mobl,,34.0,3m 40s,33.0,NA
+1772,Summer Sale,Gogle Adz,15-02-2024,12486,3064,247.97,135.0,2122.97,24.54,0.08,4.41,8.56,,unkown_segment,Unknown,India,40.0,,48.0,Top
+1773,Unknown_campaign,,,22252,3952,311.62,45.0,3841.14,17.76,0.08,1.14,12.33,Display Ad,unkown_segment,,India,45.0,N/A,53.0,Side
+1774,Black Friday Deal,Unknown,,6320,3880,136.41,329.0,4438.08,61.39,0.04,8.48,32.53,search_add,,Unknown,India,45.0,N/A,51.0,NA
+1775,!!!,google_ads,15-02-2024,30968,527,182.15,188.0,1169.55,1.7,0.35,35.67,6.42,Display Ad,Returning Customers,Mobl,Unknown,48.0,2m 15s,34.0,Side
+1776,,,,40874,4736,73.45,390.0,2526.96,11.59,0.02,8.23,34.4,Search Ad,Returning Customers,Unknown,India,23.0,2m 15s,33.0,
+1777,Unknown_campaign,Google Ads,15-02-2024,24361,3697,352.41,385.0,4554.45,15.18,0.1,10.41,12.92,search_add,Returning Customers,Mobl,India,25.0,N/A,35.0,Side
+1778,,FB ads,"March 10, 2024",43660,2282,82.41,162.0,576.61,5.23,0.04,7.1,7.0,search_add,,Unknown,Unknown,32.0,3m 40s,40.0,Top
+1779,Unknown_campaign,,2024/04/05,25594,4482,54.96,93.0,3616.01,17.51,0.01,2.07,65.79,Display Ad,Returning Customers,Mobl,India,46.0,N/A,39.0,Bottom
+1780,Summer Sale,Gogle Adz,15-02-2024,15137,2566,439.58,462.0,805.85,16.95,0.17,18.0,1.83,Search Ad,,Mobl,India,48.0,,54.0,Side
+1781,Black Friday Deal,Gogle Adz,15-02-2024,25049,1988,274.09,63.0,3772.57,7.94,0.14,3.17,13.76,,unkown_segment,Desktop,India,33.0,,41.0,NA
+1782,Black Friday Deal,google_ads,2024-01-01,25886,1164,151.16,232.0,1474.86,4.5,0.13,19.93,9.76,AdX,New Users,,India,47.0,2m 15s,40.0,Bottom
+1783,Summer Sale,Google Ads,2024/04/05,10418,362,130.51,187.0,3852.21,3.47,0.36,51.66,29.52,,,Deskotp,India,26.0,N/A,39.0,Top
+1784,!!!,Unknown,2024/04/05,10938,1592,320.95,431.0,2225.91,14.55,0.2,27.07,6.94,Search Ad,Returning Customers,,India,30.0,,42.0,Bottom
+1785,Holiday Offer,Facebook Ads,15-02-2024,23723,857,458.88,160.0,3813.75,3.61,0.54,18.67,8.31,Display Ad,unkown_segment,Mobl,Unknown,35.0,N/A,32.0,Bottom
+1786,Holiday Offer,FB ads,,8041,1006,271.44,386.0,2984.93,12.51,0.27,38.37,11.0,AdX,New Users,Deskotp,India,37.0,2m 15s,49.0,Bottom
+1787,Summer Sale,FB ads,,44616,2949,213.85,302.0,4219.05,6.61,0.07,10.24,19.73,Video Ad,,Mobile,Unknown,37.0,N/A,57.0,Top
+1788,Holiday Offer,FB ads,2024/04/05,21146,2695,206.38,68.0,2894.15,12.74,0.08,2.52,14.02,AdX,,Mobl,Europe,22.0,N/A,35.0,
+1789,Unknown_campaign,Gogle Adz,,19955,4792,249.36,63.0,2255.86,24.01,0.05,1.31,9.05,,unkown_segment,,India,20.0,N/A,48.0,Bottom
+1790,Unknown_campaign,Facebook Ads,"March 10, 2024",39987,332,429.66,307.0,3071.78,0.83,1.29,92.47,7.15,AdX,New Users,Desktop,USA,44.0,,30.0,NA
+1791,Unknown_campaign,FB ads,"March 10, 2024",6357,2171,364.71,66.0,4753.46,34.15,0.17,3.04,13.03,,unkown_segment,Mobile,,42.0,,46.0,
+1792,Black Friday Deal,FB ads,"March 10, 2024",18866,4197,476.21,26.0,3414.65,22.25,0.11,0.62,7.17,Search Ad,New Users,Unknown,USA,44.0,2m 15s,54.0,Side
+1793,Holiday Offer,,15-02-2024,38015,1235,52.93,286.0,748.94,3.25,0.04,23.16,14.15,Search Ad,,Deskotp,Unknown,35.0,3m 40s,59.0,Side
+1794,Unknown_campaign,FB ads,2024/04/05,42620,1438,224.63,302.0,2017.86,3.37,0.16,21.0,8.98,Search Ad,,Mobl,Unknown,24.0,2m 15s,55.0,NA
+1795,!!!,FB ads,2024/04/05,40147,3128,154.06,77.0,2757.89,7.79,0.05,2.46,17.9,Display Ad,unkown_segment,Mobl,Unknown,40.0,2m 15s,37.0,NA
+1796,Unknown_campaign,FB ads,2024/04/05,24624,448,221.21,95.0,2366.75,1.82,0.49,21.21,10.7,Display Ad,unkown_segment,Mobile,Unknown,31.0,,54.0,Side
+1797,Black Friday Deal,Gogle Adz,2024-01-01,20825,1153,243.99,282.0,1505.23,5.54,0.21,24.46,6.17,,New Users,Desktop,India,33.0,2m 15s,53.0,Top
+1798,Black Friday Deal,Gogle Adz,2024/04/05,13499,1871,363.52,248.0,4366.7,13.86,0.19,13.25,12.01,search_add,unkown_segment,Mobile,India,36.0,3m 40s,32.0,Bottom
+1799,Unknown_campaign,google_ads,,37970,3679,218.41,445.0,533.83,9.69,0.06,12.1,2.44,,New Users,Desktop,,22.0,3m 40s,57.0,Bottom
+1800,,Facebook Ads,2024/04/05,25504,4510,233.74,291.0,4001.25,17.68,0.05,6.45,17.12,AdX,New Users,Mobl,India,44.0,,58.0,
+1801,Holiday Offer,google_ads,2024-01-01,46422,4315,187.86,19.0,1625.12,9.3,0.04,0.44,8.65,,,Mobl,USA,29.0,2m 15s,43.0,NA
+1802,Black Friday Deal,Gogle Adz,,46845,2740,465.54,48.0,2455.69,5.85,0.17,1.75,5.27,Search Ad,,Mobile,India,48.0,3m 40s,31.0,Side
+1803,Summer Sale,google_ads,15-02-2024,42633,121,454.72,145.0,3712.34,0.28,3.76,119.83,8.16,search_add,unkown_segment,Deskotp,Unknown,36.0,N/A,54.0,Top
+1804,Summer Sale,,"March 10, 2024",42358,2725,282.72,227.0,3707.51,6.43,0.1,8.33,13.11,,Returning Customers,Deskotp,Unknown,37.0,2m 15s,47.0,NA
+1805,Black Friday Deal,FB ads,,32827,2256,123.96,485.0,1099.58,6.87,0.05,21.5,8.87,Search Ad,unkown_segment,Mobl,,39.0,N/A,59.0,Bottom
+1806,Holiday Offer,google_ads,"March 10, 2024",43343,297,100.54,71.0,785.9,0.69,0.34,23.91,7.82,Video Ad,Returning Customers,Mobile,Europe,28.0,2m 15s,49.0,
+1807,,Google Ads,15-02-2024,48824,540,334.14,26.0,4026.79,1.11,0.62,4.81,12.05,AdX,unkown_segment,Desktop,India,25.0,2m 15s,56.0,Bottom
+1808,Holiday Offer,google_ads,"March 10, 2024",49250,1073,359.64,464.0,671.99,2.18,0.34,43.24,1.87,search_add,unkown_segment,,India,37.0,3m 40s,31.0,NA
+1809,Holiday Offer,Unknown,2024-01-01,17029,1425,371.48,466.0,4025.02,8.37,0.26,32.7,10.84,Video Ad,Returning Customers,,,44.0,2m 15s,42.0,
+1810,Unknown_campaign,,15-02-2024,32136,220,101.8,137.0,893.23,0.68,0.46,62.27,8.77,Display Ad,,Deskotp,USA,32.0,,47.0,NA
+1811,Holiday Offer,Gogle Adz,,36591,1499,221.58,182.0,1508.71,4.1,0.15,12.14,6.81,Display Ad,Returning Customers,Mobile,Unknown,21.0,2m 15s,42.0,Bottom
+1812,,Gogle Adz,2024/04/05,15451,931,148.14,249.0,598.32,6.03,0.16,26.75,4.04,search_add,New Users,Mobile,Unknown,47.0,2m 15s,52.0,Bottom
+1813,Holiday Offer,Gogle Adz,2024/04/05,41326,4903,159.53,410.0,2501.21,11.86,0.03,8.36,15.68,Video Ad,Returning Customers,Mobile,,45.0,N/A,57.0,Bottom
+1814,,FB ads,2024-01-01,31287,3312,398.9,237.0,1405.34,10.59,0.12,7.16,3.52,,,Desktop,USA,43.0,2m 15s,50.0,Side
+1815,,FB ads,"March 10, 2024",44019,2864,54.42,382.0,3373.3,6.51,0.02,13.34,61.99,Search Ad,Returning Customers,Desktop,Europe,21.0,,49.0,Side
+1816,Unknown_campaign,,"March 10, 2024",47844,1856,214.08,109.0,2310.53,3.88,0.12,5.87,10.79,AdX,unkown_segment,Desktop,India,29.0,3m 40s,42.0,Side
+1817,!!!,,,7323,1919,117.9,152.0,3930.49,26.21,0.06,7.92,33.34,Display Ad,New Users,Mobile,India,46.0,2m 15s,56.0,Side
+1818,Unknown_campaign,Unknown,15-02-2024,8409,1964,374.64,221.0,2799.56,23.36,0.19,11.25,7.47,Display Ad,unkown_segment,Deskotp,,21.0,,57.0,Side
+1819,Black Friday Deal,,,9563,1142,275.2,157.0,2841.74,11.94,0.24,13.75,10.33,,Returning Customers,Unknown,India,37.0,2m 15s,58.0,Bottom
+1820,,google_ads,15-02-2024,23729,2877,79.94,378.0,4819.53,12.12,0.03,13.14,60.29,,unkown_segment,Mobl,India,23.0,N/A,38.0,NA
+1821,,Unknown,15-02-2024,14377,4833,344.58,196.0,4370.9,33.62,0.07,4.06,12.68,search_add,New Users,Mobile,India,22.0,,41.0,NA
+1822,,,,9906,674,384.2,252.0,1724.39,6.8,0.57,37.39,4.49,AdX,,Mobile,,27.0,2m 15s,53.0,Top
+1823,Summer Sale,Unknown,,35467,3149,350.88,21.0,2272.91,8.88,0.11,0.67,6.48,AdX,,Unknown,Unknown,28.0,,55.0,Side
+1824,,,"March 10, 2024",21032,2848,169.77,430.0,1909.39,13.54,0.06,15.1,11.25,,Returning Customers,Mobile,USA,46.0,,56.0,NA
+1825,Unknown_campaign,Facebook Ads,2024-01-01,49541,1075,77.19,229.0,1028.33,2.17,0.07,21.3,13.32,Video Ad,,Mobl,Unknown,28.0,,50.0,
+1826,,FB ads,2024-01-01,23200,330,205.74,170.0,2204.79,1.42,0.62,51.52,10.72,,unkown_segment,Mobl,USA,48.0,N/A,44.0,Top
+1827,Unknown_campaign,Google Ads,"March 10, 2024",43441,4286,93.12,481.0,4907.57,9.87,0.02,11.22,52.7,Video Ad,New Users,Unknown,Europe,27.0,,34.0,NA
+1828,Holiday Offer,Facebook Ads,2024/04/05,42324,106,347.94,197.0,607.18,0.25,3.28,185.85,1.75,Video Ad,,Mobl,USA,40.0,2m 15s,33.0,
+1829,Black Friday Deal,Facebook Ads,2024-01-01,7814,773,405.51,220.0,2067.97,9.89,0.52,28.46,5.1,AdX,Returning Customers,,USA,40.0,,50.0,Side
+1830,Black Friday Deal,google_ads,2024/04/05,37386,3583,303.68,255.0,2816.33,9.58,0.08,7.12,9.27,Video Ad,New Users,Mobl,USA,26.0,2m 15s,55.0,Bottom
+1831,Holiday Offer,FB ads,,29878,2233,80.51,288.0,1747.41,7.47,0.04,12.9,21.7,,New Users,Desktop,Unknown,20.0,3m 40s,49.0,
+1832,!!!,Facebook Ads,"March 10, 2024",23666,1949,110.43,106.0,4971.64,8.24,0.06,5.44,45.02,Search Ad,,Deskotp,Europe,32.0,3m 40s,57.0,Top
+1833,,FB ads,15-02-2024,24564,4202,192.29,430.0,3185.55,17.11,0.05,10.23,16.57,AdX,,Desktop,USA,21.0,N/A,39.0,
+1834,Holiday Offer,Unknown,,47104,3422,158.4,390.0,3245.66,7.26,0.05,11.4,20.49,search_add,New Users,Desktop,,33.0,3m 40s,41.0,
+1835,Unknown_campaign,Gogle Adz,2024-01-01,33737,1535,171.07,275.0,1170.6,4.55,0.11,17.92,6.84,,New Users,Mobile,Europe,27.0,3m 40s,41.0,Bottom
+1836,Unknown_campaign,Unknown,2024-01-01,47437,1920,209.92,310.0,2773.75,4.05,0.11,16.15,13.21,,New Users,Desktop,,21.0,N/A,39.0,Side
+1837,Unknown_campaign,Unknown,,13351,1191,59.94,55.0,4960.57,8.92,0.05,4.62,82.76,Search Ad,,Deskotp,India,49.0,N/A,38.0,
+1838,Unknown_campaign,FB ads,,44917,2868,190.02,51.0,4210.66,6.39,0.07,1.78,22.16,,,Deskotp,,24.0,N/A,37.0,Side
+1839,Summer Sale,,2024-01-01,30271,2694,64.23,35.0,3017.5,8.9,0.02,1.3,46.98,,New Users,Mobl,Unknown,49.0,2m 15s,46.0,Top
+1840,,Facebook Ads,,42546,812,436.12,141.0,2409.74,1.91,0.54,17.36,5.53,Display Ad,,Mobile,USA,45.0,3m 40s,59.0,Side
+1841,!!!,Unknown,,15088,3610,465.6,95.0,928.28,23.93,0.13,2.63,1.99,search_add,Returning Customers,Desktop,Unknown,39.0,N/A,55.0,Side
+1842,Black Friday Deal,FB ads,2024/04/05,34102,1247,311.42,333.0,4073.34,3.66,0.25,26.7,13.08,search_add,,Mobl,India,35.0,2m 15s,42.0,
+1843,!!!,Facebook Ads,2024/04/05,38446,1113,378.51,283.0,2187.31,2.89,0.34,25.43,5.78,AdX,New Users,,,25.0,3m 40s,43.0,Bottom
+1844,!!!,Unknown,,18266,4960,325.22,419.0,3595.39,27.15,0.07,8.45,11.06,,Returning Customers,Deskotp,Unknown,36.0,3m 40s,42.0,Bottom
+1845,Unknown_campaign,Unknown,15-02-2024,10029,4045,167.23,50.0,4766.39,40.33,0.04,1.24,28.5,AdX,unkown_segment,Desktop,Unknown,45.0,3m 40s,58.0,Top
+1846,!!!,FB ads,,10756,2214,484.71,308.0,2939.11,20.58,0.22,13.91,6.06,Video Ad,,Mobl,India,25.0,N/A,35.0,
+1847,Holiday Offer,Unknown,15-02-2024,42002,1133,424.27,25.0,4889.58,2.7,0.37,2.21,11.52,,unkown_segment,Mobl,,31.0,,46.0,Bottom
+1848,Unknown_campaign,Unknown,15-02-2024,27683,1556,142.61,65.0,4769.2,5.62,0.09,4.18,33.44,Display Ad,,Mobile,India,24.0,2m 15s,37.0,Top
+1849,Holiday Offer,Gogle Adz,15-02-2024,18912,2980,443.89,494.0,2884.79,15.76,0.15,16.58,6.5,,Returning Customers,Mobl,Europe,37.0,3m 40s,37.0,
+1850,!!!,FB ads,,30129,1280,64.9,118.0,4795.06,4.25,0.05,9.22,73.88,search_add,unkown_segment,Deskotp,,42.0,N/A,35.0,Bottom
+1851,Black Friday Deal,Gogle Adz,"March 10, 2024",34713,586,295.89,343.0,4587.83,1.69,0.5,58.53,15.51,,Returning Customers,Deskotp,Unknown,35.0,2m 15s,31.0,NA
+1852,Summer Sale,Facebook Ads,2024/04/05,49783,2970,121.15,137.0,3530.23,5.97,0.04,4.61,29.14,Display Ad,New Users,Mobile,Europe,32.0,,50.0,NA
+1853,Summer Sale,Unknown,2024/04/05,10678,4556,235.13,79.0,2650.61,42.67,0.05,1.73,11.27,,,Mobl,Unknown,39.0,N/A,42.0,Bottom
+1854,!!!,google_ads,2024-01-01,49865,1963,124.54,482.0,4269.03,3.94,0.06,24.55,34.28,AdX,,Mobl,,25.0,N/A,52.0,Side
+1855,!!!,Google Ads,2024/04/05,36070,4137,386.74,69.0,757.46,11.47,0.09,1.67,1.96,AdX,,Mobile,Europe,44.0,2m 15s,35.0,Bottom
+1856,,Unknown,2024/04/05,32054,1424,261.04,166.0,1680.31,4.44,0.18,11.66,6.44,AdX,New Users,Desktop,,25.0,2m 15s,38.0,
+1857,Black Friday Deal,FB ads,15-02-2024,33401,3199,63.59,422.0,1271.04,9.58,0.02,13.19,19.99,Display Ad,New Users,Deskotp,,23.0,,39.0,Side
+1858,Summer Sale,Google Ads,"March 10, 2024",15383,1862,365.52,46.0,2673.6,12.1,0.2,2.47,7.31,Video Ad,Returning Customers,Desktop,USA,20.0,N/A,53.0,Bottom
+1859,Summer Sale,Facebook Ads,2024/04/05,20186,3296,137.21,67.0,2569.01,16.33,0.04,2.03,18.72,search_add,Returning Customers,Mobile,Unknown,49.0,2m 15s,46.0,
+1860,Black Friday Deal,Facebook Ads,2024-01-01,25973,3117,113.52,412.0,4394.81,12.0,0.04,13.22,38.71,Video Ad,,Mobile,USA,34.0,,37.0,NA
+1861,Unknown_campaign,Google Ads,"March 10, 2024",45838,4261,180.15,121.0,3960.04,9.3,0.04,2.84,21.98,Search Ad,,Unknown,Europe,42.0,,33.0,Side
+1862,!!!,Gogle Adz,"March 10, 2024",39677,1512,99.16,22.0,4247.12,3.81,0.07,1.46,42.83,search_add,Returning Customers,Mobl,USA,36.0,2m 15s,51.0,Bottom
+1863,,Google Ads,,8276,1710,233.33,296.0,4679.93,20.66,0.14,17.31,20.06,Search Ad,unkown_segment,Unknown,USA,36.0,,56.0,
+1864,Holiday Offer,Unknown,2024/04/05,39927,4254,130.48,313.0,2781.38,10.65,0.03,7.36,21.32,Display Ad,Returning Customers,Mobile,,45.0,N/A,31.0,NA
+1865,Holiday Offer,FB ads,"March 10, 2024",17215,2408,235.19,72.0,2205.02,13.99,0.1,2.99,9.38,Search Ad,Returning Customers,Deskotp,USA,20.0,,58.0,Side
+1866,,Facebook Ads,15-02-2024,45305,299,470.92,354.0,4652.74,0.66,1.57,118.39,9.88,Search Ad,Returning Customers,Mobl,USA,23.0,3m 40s,57.0,Top
+1867,Summer Sale,Facebook Ads,2024/04/05,9717,2264,483.29,136.0,824.58,23.3,0.21,6.01,1.71,Video Ad,Returning Customers,Deskotp,USA,46.0,N/A,36.0,
+1868,Unknown_campaign,google_ads,15-02-2024,17249,3748,363.11,225.0,3741.35,21.73,0.1,6.0,10.3,Display Ad,unkown_segment,Desktop,Europe,32.0,2m 15s,43.0,Side
+1869,Unknown_campaign,,15-02-2024,20327,2985,433.25,395.0,2687.29,14.68,0.15,13.23,6.2,Video Ad,unkown_segment,Mobile,Europe,47.0,3m 40s,44.0,Side
+1870,,Google Ads,,35832,2891,98.68,207.0,1158.22,8.07,0.03,7.16,11.74,Display Ad,unkown_segment,Deskotp,USA,26.0,,47.0,Bottom
+1871,Unknown_campaign,Gogle Adz,"March 10, 2024",21704,1145,306.46,160.0,732.27,5.28,0.27,13.97,2.39,AdX,,Mobile,,22.0,N/A,47.0,Bottom
+1872,Black Friday Deal,Google Ads,2024/04/05,23883,2458,183.31,364.0,2517.88,10.29,0.07,14.81,13.74,Video Ad,New Users,Mobl,USA,49.0,3m 40s,40.0,NA
+1873,Unknown_campaign,Facebook Ads,2024/04/05,48505,893,396.76,336.0,1331.22,1.84,0.44,37.63,3.36,Search Ad,Returning Customers,Mobl,,45.0,2m 15s,56.0,Bottom
+1874,Unknown_campaign,Unknown,15-02-2024,36966,1366,51.03,242.0,3521.72,3.7,0.04,17.72,69.01,Display Ad,Returning Customers,Deskotp,Unknown,48.0,,52.0,NA
+1875,,Gogle Adz,15-02-2024,9977,487,227.89,472.0,3666.55,4.88,0.47,96.92,16.09,search_add,New Users,Mobile,Unknown,42.0,3m 40s,35.0,Side
+1876,Black Friday Deal,Google Ads,2024/04/05,24069,3899,455.34,101.0,3182.09,16.2,0.12,2.59,6.99,search_add,New Users,,India,32.0,3m 40s,41.0,Side
+1877,!!!,FB ads,,39443,1475,173.84,110.0,2466.06,3.74,0.12,7.46,14.19,Video Ad,Returning Customers,Unknown,Europe,26.0,3m 40s,59.0,Side
+1878,Summer Sale,google_ads,,6674,2768,160.49,385.0,1071.74,41.47,0.06,13.91,6.68,search_add,,Mobile,Europe,48.0,,48.0,
+1879,!!!,FB ads,2024-01-01,17699,3192,374.51,465.0,1044.82,18.03,0.12,14.57,2.79,,New Users,,,23.0,N/A,49.0,Side
+1880,Summer Sale,Gogle Adz,"March 10, 2024",49552,4817,457.33,420.0,626.72,9.72,0.09,8.72,1.37,Display Ad,New Users,,India,48.0,2m 15s,42.0,NA
+1881,Holiday Offer,Gogle Adz,"March 10, 2024",5233,3802,100.74,193.0,1516.05,72.65,0.03,5.08,15.05,AdX,New Users,Unknown,Europe,35.0,,31.0,Bottom
+1882,Black Friday Deal,Unknown,"March 10, 2024",48893,4991,337.94,81.0,1792.29,10.21,0.07,1.62,5.3,Display Ad,Returning Customers,Unknown,Unknown,47.0,,33.0,Bottom
+1883,Black Friday Deal,Google Ads,2024/04/05,19061,134,70.66,316.0,4443.13,0.7,0.53,235.82,62.88,Search Ad,unkown_segment,Mobile,Unknown,34.0,,30.0,NA
+1884,,,"March 10, 2024",11476,2265,313.84,322.0,4959.5,19.74,0.14,14.22,15.8,Display Ad,New Users,Unknown,Europe,49.0,3m 40s,50.0,Side
+1885,,FB ads,"March 10, 2024",17152,4427,128.41,495.0,3505.46,25.81,0.03,11.18,27.3,Search Ad,Returning Customers,Mobile,USA,44.0,2m 15s,33.0,NA
+1886,Summer Sale,,2024/04/05,26266,1706,69.05,197.0,1743.17,6.5,0.04,11.55,25.25,,unkown_segment,Desktop,Unknown,21.0,N/A,42.0,Side
+1887,Black Friday Deal,Facebook Ads,,15733,4096,417.72,421.0,3577.67,26.03,0.1,10.28,8.56,,,Unknown,Unknown,41.0,N/A,57.0,NA
+1888,,google_ads,15-02-2024,29523,4174,359.57,23.0,4711.59,14.14,0.09,0.55,13.1,search_add,unkown_segment,Deskotp,,32.0,N/A,54.0,Top
+1889,,Facebook Ads,"March 10, 2024",5848,3973,94.72,271.0,2904.86,67.94,0.02,6.82,30.67,,Returning Customers,Desktop,,32.0,3m 40s,52.0,Top
+1890,!!!,Unknown,,15017,870,139.63,288.0,3779.1,5.79,0.16,33.1,27.07,AdX,,Deskotp,USA,44.0,,41.0,
+1891,!!!,Facebook Ads,2024-01-01,24304,4018,105.36,455.0,3591.09,16.53,0.03,11.32,34.08,search_add,unkown_segment,Mobile,USA,20.0,2m 15s,32.0,Bottom
+1892,,FB ads,2024/04/05,29878,1430,51.14,316.0,3069.4,4.79,0.04,22.1,60.02,AdX,,Desktop,,37.0,N/A,56.0,Side
+1893,Summer Sale,FB ads,15-02-2024,26593,2747,64.17,379.0,3695.48,10.33,0.02,13.8,57.59,AdX,unkown_segment,Deskotp,Europe,33.0,,55.0,Side
+1894,Black Friday Deal,,2024/04/05,25574,260,280.88,329.0,2141.89,1.02,1.08,126.54,7.63,,New Users,Deskotp,India,28.0,N/A,51.0,NA
+1895,Holiday Offer,Unknown,2024-01-01,28206,885,288.22,199.0,4837.48,3.14,0.33,22.49,16.78,Video Ad,,Unknown,India,38.0,N/A,40.0,Top
+1896,!!!,google_ads,"March 10, 2024",44266,3598,440.05,258.0,687.37,8.13,0.12,7.17,1.56,,New Users,Desktop,USA,44.0,3m 40s,33.0,Bottom
+1897,Summer Sale,FB ads,15-02-2024,20004,1084,74.17,408.0,519.6,5.42,0.07,37.64,7.01,search_add,Returning Customers,,Europe,20.0,3m 40s,43.0,Bottom
+1898,Summer Sale,,"March 10, 2024",37511,2158,138.33,444.0,583.97,5.75,0.06,20.57,4.22,Search Ad,,,Unknown,30.0,N/A,46.0,
+1899,!!!,FB ads,2024-01-01,34374,3079,246.78,42.0,1156.06,8.96,0.08,1.36,4.68,AdX,unkown_segment,Desktop,Unknown,45.0,2m 15s,56.0,Side
+1900,!!!,google_ads,15-02-2024,28063,2948,234.44,276.0,4708.48,10.5,0.08,9.36,20.08,AdX,Returning Customers,Deskotp,Europe,30.0,3m 40s,45.0,Top
+1901,Summer Sale,,,8309,2919,295.58,12.0,3857.81,35.13,0.1,0.41,13.05,search_add,,Deskotp,USA,46.0,3m 40s,44.0,Bottom
+1902,Black Friday Deal,Gogle Adz,2024-01-01,47323,458,180.14,430.0,2048.84,0.97,0.39,93.89,11.37,Search Ad,,Desktop,Unknown,48.0,2m 15s,40.0,Bottom
+1903,!!!,google_ads,,6922,4191,333.54,165.0,698.09,60.55,0.08,3.94,2.09,Search Ad,unkown_segment,Mobile,Unknown,20.0,,38.0,NA
+1904,Summer Sale,Unknown,2024-01-01,12067,3780,61.72,371.0,3341.02,31.33,0.02,9.81,54.13,AdX,New Users,Deskotp,,24.0,3m 40s,38.0,NA
+1905,,Gogle Adz,2024-01-01,20372,2967,152.74,37.0,802.35,14.56,0.05,1.25,5.25,Video Ad,New Users,Unknown,,34.0,,42.0,NA
+1906,!!!,Unknown,"March 10, 2024",24594,4291,468.53,428.0,3600.52,17.45,0.11,9.97,7.68,Display Ad,,Mobl,India,36.0,,51.0,Top
+1907,Black Friday Deal,google_ads,"March 10, 2024",30592,3432,165.53,425.0,1387.86,11.22,0.05,12.38,8.38,search_add,,Deskotp,Unknown,26.0,,43.0,Bottom
+1908,Unknown_campaign,Google Ads,2024/04/05,31770,2800,365.78,400.0,3522.43,8.81,0.13,14.29,9.63,AdX,New Users,Unknown,India,29.0,N/A,38.0,NA
+1909,Summer Sale,Google Ads,,27990,871,258.22,89.0,929.64,3.11,0.3,10.22,3.6,Search Ad,,Mobile,India,41.0,,45.0,Top
+1910,Black Friday Deal,,"March 10, 2024",11459,2993,286.22,452.0,2847.41,26.12,0.1,15.1,9.95,search_add,New Users,Mobl,USA,34.0,3m 40s,35.0,Side
+1911,,,2024/04/05,47431,1819,112.76,170.0,3590.37,3.84,0.06,9.35,31.84,AdX,Returning Customers,Desktop,,41.0,3m 40s,48.0,Bottom
+1912,Summer Sale,,15-02-2024,45062,134,277.31,205.0,1341.28,0.3,2.07,152.99,4.84,Display Ad,Returning Customers,Desktop,Unknown,20.0,N/A,34.0,
+1913,Summer Sale,Gogle Adz,2024-01-01,27460,579,439.74,298.0,4210.36,2.11,0.76,51.47,9.57,search_add,Returning Customers,Mobile,Europe,47.0,3m 40s,30.0,NA
+1914,,google_ads,15-02-2024,40539,940,476.72,207.0,4885.51,2.32,0.51,22.02,10.25,Search Ad,New Users,Unknown,,20.0,3m 40s,40.0,Bottom
+1915,Black Friday Deal,Unknown,"March 10, 2024",44770,1068,322.93,334.0,2199.83,2.39,0.3,31.27,6.81,Search Ad,,Mobile,Unknown,47.0,2m 15s,34.0,Bottom
+1916,!!!,Gogle Adz,2024/04/05,37797,4355,154.33,425.0,1152.33,11.52,0.04,9.76,7.47,Display Ad,unkown_segment,Deskotp,USA,22.0,,40.0,NA
+1917,!!!,google_ads,"March 10, 2024",33929,4872,140.71,239.0,4218.31,14.36,0.03,4.91,29.98,search_add,,Mobl,Europe,34.0,,59.0,Bottom
+1918,!!!,,2024-01-01,24325,2370,398.01,275.0,3368.86,9.74,0.17,11.6,8.46,Video Ad,unkown_segment,Unknown,Europe,41.0,N/A,34.0,NA
+1919,Holiday Offer,FB ads,15-02-2024,49561,424,256.86,443.0,2731.56,0.86,0.61,104.48,10.63,Search Ad,unkown_segment,Unknown,India,28.0,2m 15s,46.0,
+1920,Holiday Offer,FB ads,,8845,353,418.05,487.0,4770.81,3.99,1.18,137.96,11.41,AdX,,Mobile,,21.0,3m 40s,32.0,Bottom
+1921,Holiday Offer,Gogle Adz,"March 10, 2024",37351,447,108.46,324.0,1363.82,1.2,0.24,72.48,12.57,,unkown_segment,Mobile,India,34.0,N/A,57.0,Side
+1922,,Google Ads,2024/04/05,25940,3851,275.64,486.0,3087.32,14.85,0.07,12.62,11.2,Video Ad,New Users,,,21.0,,46.0,Bottom
+1923,Summer Sale,FB ads,2024/04/05,49694,4748,93.83,262.0,1411.95,9.55,0.02,5.52,15.05,Search Ad,,,Unknown,21.0,N/A,53.0,
+1924,Black Friday Deal,FB ads,2024/04/05,47023,135,69.13,401.0,1078.31,0.29,0.51,297.04,15.6,Display Ad,Returning Customers,Desktop,,26.0,2m 15s,58.0,Top
+1925,Black Friday Deal,FB ads,,47597,1703,317.35,20.0,2016.98,3.58,0.19,1.17,6.36,search_add,unkown_segment,Desktop,India,21.0,,57.0,Bottom
+1926,,Google Ads,,31614,995,404.14,353.0,4004.83,3.15,0.41,35.48,9.91,Video Ad,New Users,Desktop,Europe,26.0,N/A,38.0,NA
+1927,Unknown_campaign,Facebook Ads,15-02-2024,21886,659,183.68,33.0,4551.7,3.01,0.28,5.01,24.78,AdX,,Mobl,Europe,32.0,3m 40s,33.0,Side
+1928,!!!,Google Ads,"March 10, 2024",49399,3140,480.69,371.0,4260.56,6.36,0.15,11.82,8.86,AdX,unkown_segment,Desktop,,20.0,,40.0,Top
+1929,,FB ads,"March 10, 2024",34576,4242,136.83,480.0,1295.47,12.27,0.03,11.32,9.47,,New Users,Deskotp,USA,25.0,3m 40s,41.0,Side
+1930,Summer Sale,,"March 10, 2024",30881,181,364.29,211.0,2108.53,0.59,2.01,116.57,5.79,search_add,unkown_segment,Deskotp,Unknown,42.0,N/A,50.0,Side
+1931,Unknown_campaign,FB ads,"March 10, 2024",13332,1381,168.2,55.0,3728.19,10.36,0.12,3.98,22.17,search_add,unkown_segment,Desktop,,40.0,,57.0,NA
+1932,,Google Ads,"March 10, 2024",6320,3031,457.16,296.0,961.68,47.96,0.15,9.77,2.1,,,Mobile,Unknown,40.0,2m 15s,32.0,Bottom
+1933,Holiday Offer,Facebook Ads,,12583,885,326.16,194.0,656.71,7.03,0.37,21.92,2.01,Search Ad,Returning Customers,,India,25.0,2m 15s,39.0,NA
+1934,Summer Sale,FB ads,2024-01-01,8976,3865,447.77,480.0,1878.72,43.06,0.12,12.42,4.2,Display Ad,New Users,Mobl,,44.0,2m 15s,52.0,Bottom
+1935,Summer Sale,FB ads,2024-01-01,31995,2196,254.87,102.0,2111.55,6.86,0.12,4.64,8.28,Search Ad,unkown_segment,Mobl,USA,27.0,,54.0,NA
+1936,Black Friday Deal,Unknown,2024-01-01,37821,915,108.9,64.0,4047.23,2.42,0.12,6.99,37.16,Video Ad,unkown_segment,Mobl,,36.0,3m 40s,40.0,Bottom
+1937,Summer Sale,FB ads,"March 10, 2024",36368,2238,447.89,114.0,4109.25,6.15,0.2,5.09,9.17,Search Ad,New Users,Mobile,USA,45.0,,41.0,Bottom
+1938,Holiday Offer,Google Ads,2024-01-01,32192,3949,311.3,147.0,3051.57,12.27,0.08,3.72,9.8,Video Ad,New Users,,,28.0,,40.0,
+1939,!!!,,,44004,1954,434.35,357.0,2754.73,4.44,0.22,18.27,6.34,,,Unknown,,41.0,2m 15s,54.0,NA
+1940,!!!,Gogle Adz,"March 10, 2024",16114,1390,253.95,135.0,1003.75,8.63,0.18,9.71,3.95,search_add,unkown_segment,Mobile,USA,29.0,,58.0,NA
+1941,Unknown_campaign,Gogle Adz,"March 10, 2024",39167,1426,397.22,190.0,4692.66,3.64,0.28,13.32,11.81,Search Ad,Returning Customers,Desktop,Unknown,25.0,2m 15s,45.0,Top
+1942,,Gogle Adz,2024-01-01,36480,4198,70.3,134.0,4789.18,11.51,0.02,3.19,68.12,AdX,unkown_segment,Mobile,USA,22.0,2m 15s,31.0,Side
+1943,!!!,Facebook Ads,2024/04/05,18131,2861,315.45,366.0,2178.16,15.78,0.11,12.79,6.9,,,Mobl,Unknown,22.0,,48.0,NA
+1944,Black Friday Deal,Gogle Adz,2024-01-01,38130,3592,336.2,479.0,2431.21,9.42,0.09,13.34,7.23,Search Ad,New Users,Desktop,Europe,45.0,3m 40s,33.0,NA
+1945,Summer Sale,FB ads,2024/04/05,12399,893,284.56,448.0,2100.47,7.2,0.32,50.17,7.38,AdX,,Deskotp,Europe,29.0,3m 40s,56.0,
+1946,Summer Sale,Google Ads,,49076,3227,453.61,347.0,787.36,6.58,0.14,10.75,1.74,Video Ad,Returning Customers,Mobl,,34.0,,51.0,NA
+1947,,Google Ads,,5870,3883,496.07,422.0,4483.13,66.15,0.13,10.87,9.04,search_add,Returning Customers,,Europe,42.0,3m 40s,54.0,
+1948,Holiday Offer,Google Ads,2024-01-01,26874,2261,192.2,423.0,874.36,8.41,0.09,18.71,4.55,search_add,New Users,Desktop,Unknown,27.0,2m 15s,57.0,Side
+1949,Black Friday Deal,,"March 10, 2024",27837,1564,60.84,65.0,1442.83,5.62,0.04,4.16,23.72,Display Ad,New Users,Mobile,India,23.0,3m 40s,54.0,
+1950,Unknown_campaign,Facebook Ads,,46274,3989,111.18,98.0,4738.07,8.62,0.03,2.46,42.62,Display Ad,unkown_segment,Unknown,Europe,41.0,N/A,31.0,Bottom
+1951,,Unknown,"March 10, 2024",38904,4296,437.23,133.0,887.75,11.04,0.1,3.1,2.03,search_add,New Users,,Unknown,43.0,3m 40s,53.0,NA
+1952,Black Friday Deal,Gogle Adz,"March 10, 2024",15165,677,368.81,209.0,3241.79,4.46,0.54,30.87,8.79,search_add,Returning Customers,Deskotp,India,30.0,3m 40s,32.0,Top
+1953,Black Friday Deal,google_ads,15-02-2024,11062,3408,338.24,58.0,3300.42,30.81,0.1,1.7,9.76,AdX,Returning Customers,,India,45.0,3m 40s,31.0,Top
+1954,!!!,Facebook Ads,2024/04/05,34592,3632,126.86,132.0,3067.58,10.5,0.03,3.63,24.18,Search Ad,New Users,Mobile,Europe,47.0,3m 40s,49.0,Bottom
+1955,Unknown_campaign,Unknown,"March 10, 2024",27925,2309,299.5,380.0,976.24,8.27,0.13,16.46,3.26,Search Ad,unkown_segment,Unknown,USA,24.0,N/A,35.0,Top
+1956,Black Friday Deal,Facebook Ads,,14709,1309,416.73,335.0,2095.95,8.9,0.32,25.59,5.03,search_add,New Users,Deskotp,Unknown,39.0,N/A,42.0,
+1957,,Gogle Adz,15-02-2024,31807,3521,133.9,228.0,2955.77,11.07,0.04,6.48,22.07,,,Unknown,Europe,20.0,3m 40s,37.0,
+1958,!!!,,,11039,886,98.38,89.0,3450.05,8.03,0.11,10.05,35.07,Video Ad,unkown_segment,Unknown,,39.0,N/A,49.0,Side
+1959,,google_ads,15-02-2024,48011,697,135.51,276.0,3625.34,1.45,0.19,39.6,26.75,Search Ad,,Mobile,India,34.0,N/A,50.0,Bottom
+1960,Black Friday Deal,Facebook Ads,15-02-2024,33611,2980,300.9,308.0,2500.43,8.87,0.1,10.34,8.31,,unkown_segment,,,28.0,N/A,40.0,
+1961,!!!,Google Ads,2024/04/05,33377,2038,422.31,259.0,3381.67,6.11,0.21,12.71,8.01,,Returning Customers,Mobile,,28.0,,35.0,NA
+1962,,Gogle Adz,2024-01-01,43800,3325,232.76,37.0,1872.72,7.59,0.07,1.11,8.05,,Returning Customers,Mobile,,23.0,,40.0,Bottom
+1963,!!!,,,13999,3043,245.74,370.0,3993.02,21.74,0.08,12.16,16.25,,unkown_segment,Deskotp,Europe,38.0,2m 15s,57.0,Side
+1964,Unknown_campaign,Facebook Ads,"March 10, 2024",35207,3542,169.46,37.0,4640.89,10.06,0.05,1.04,27.39,search_add,Returning Customers,,Unknown,46.0,,47.0,Bottom
+1965,Holiday Offer,Facebook Ads,"March 10, 2024",14195,4154,399.68,407.0,3092.38,29.26,0.1,9.8,7.74,,New Users,Deskotp,Unknown,31.0,,33.0,
+1966,,FB ads,15-02-2024,45838,772,203.41,459.0,2239.57,1.68,0.26,59.46,11.01,AdX,New Users,Mobile,,28.0,3m 40s,38.0,Side
+1967,Summer Sale,Unknown,15-02-2024,8199,4016,194.72,160.0,3916.2,48.98,0.05,3.98,20.11,Display Ad,,Deskotp,India,31.0,3m 40s,59.0,Bottom
+1968,Summer Sale,Facebook Ads,2024/04/05,41634,967,198.9,386.0,3449.6,2.32,0.21,39.92,17.34,Video Ad,,Mobl,India,40.0,,52.0,NA
+1969,!!!,google_ads,,12310,1627,458.32,457.0,1768.29,13.22,0.28,28.09,3.86,,New Users,Mobl,,29.0,2m 15s,52.0,Side
+1970,Summer Sale,FB ads,2024-01-01,49316,1788,485.24,158.0,4640.53,3.63,0.27,8.84,9.56,AdX,Returning Customers,Mobile,,39.0,,34.0,
+1971,Holiday Offer,Unknown,"March 10, 2024",27362,2061,171.92,273.0,2871.22,7.53,0.08,13.25,16.7,AdX,unkown_segment,,,34.0,3m 40s,45.0,Bottom
+1972,Summer Sale,Gogle Adz,2024/04/05,5532,908,202.67,363.0,2591.64,16.41,0.22,39.98,12.79,search_add,Returning Customers,Desktop,Europe,45.0,2m 15s,39.0,
+1973,Holiday Offer,Unknown,2024/04/05,37345,3767,414.19,98.0,3585.05,10.09,0.11,2.6,8.66,,New Users,Deskotp,Unknown,34.0,3m 40s,54.0,
+1974,Black Friday Deal,Facebook Ads,15-02-2024,6989,1529,181.03,434.0,4306.0,21.88,0.12,28.38,23.79,Video Ad,unkown_segment,Desktop,USA,25.0,,51.0,
+1975,Black Friday Deal,,2024-01-01,27251,3419,154.79,257.0,3706.17,12.55,0.05,7.52,23.94,Search Ad,unkown_segment,Mobile,India,31.0,,31.0,NA
+1976,,FB ads,15-02-2024,35916,161,365.64,484.0,3352.26,0.45,2.27,300.62,9.17,AdX,New Users,Mobl,Europe,47.0,N/A,51.0,Top
+1977,Holiday Offer,Gogle Adz,2024/04/05,41560,1006,434.74,59.0,3198.61,2.42,0.43,5.86,7.36,AdX,,,India,47.0,3m 40s,40.0,Bottom
+1978,Unknown_campaign,google_ads,,6269,4679,479.34,450.0,1475.84,74.64,0.1,9.62,3.08,Display Ad,,Mobl,Unknown,43.0,3m 40s,36.0,
+1979,Holiday Offer,FB ads,2024-01-01,31113,2705,137.58,260.0,860.06,8.69,0.05,9.61,6.25,AdX,New Users,Mobl,USA,26.0,2m 15s,48.0,Side
+1980,Unknown_campaign,Gogle Adz,15-02-2024,38764,2357,375.43,157.0,4634.59,6.08,0.16,6.66,12.34,Search Ad,New Users,Mobl,India,31.0,N/A,55.0,Side
+1981,Unknown_campaign,Facebook Ads,"March 10, 2024",26768,1707,138.37,441.0,3374.82,6.38,0.08,25.83,24.39,Search Ad,New Users,Mobl,Europe,42.0,3m 40s,54.0,Side
+1982,Black Friday Deal,Unknown,,12021,4548,144.45,193.0,4950.64,37.83,0.03,4.24,34.27,Video Ad,unkown_segment,,Unknown,39.0,,31.0,Top
+1983,!!!,google_ads,,28751,1825,413.92,281.0,869.23,6.35,0.23,15.4,2.1,AdX,unkown_segment,Unknown,Unknown,29.0,,33.0,
+1984,Unknown_campaign,Facebook Ads,2024-01-01,20094,2961,459.52,377.0,4755.07,14.74,0.16,12.73,10.35,Display Ad,,Mobl,Europe,44.0,N/A,33.0,NA
+1985,!!!,Gogle Adz,2024-01-01,9359,2162,255.02,40.0,1410.6,23.1,0.12,1.85,5.53,,Returning Customers,Deskotp,Europe,35.0,3m 40s,55.0,NA
+1986,Holiday Offer,Unknown,2024-01-01,43618,3295,427.13,178.0,2542.94,7.55,0.13,5.4,5.95,search_add,unkown_segment,Desktop,Unknown,42.0,2m 15s,56.0,Top
+1987,Summer Sale,Facebook Ads,2024/04/05,22069,4119,115.95,481.0,4408.03,18.66,0.03,11.68,38.02,AdX,,,,29.0,,33.0,Side
+1988,Summer Sale,Unknown,15-02-2024,16376,4553,446.23,34.0,905.66,27.8,0.1,0.75,2.03,AdX,New Users,,Europe,31.0,N/A,33.0,NA
+1989,Holiday Offer,google_ads,15-02-2024,28064,4781,279.51,280.0,764.74,17.04,0.06,5.86,2.74,Video Ad,New Users,Deskotp,USA,33.0,,42.0,Top
+1990,Holiday Offer,google_ads,2024/04/05,41130,1455,108.38,334.0,2878.64,3.54,0.07,22.96,26.56,Display Ad,Returning Customers,Mobile,India,29.0,,58.0,NA
+1991,!!!,FB ads,2024/04/05,39376,missing,121.88,183.0,1981.68,,,,16.26,,New Users,,,46.0,,31.0,Top
+1992,,Facebook Ads,,36617,missing,387.17,200.0,583.41,,,,1.51,Display Ad,,Mobile,Europe,49.0,,58.0,NA
+1993,Summer Sale,Google Ads,"March 10, 2024",10282,missing,,206.0,3650.4,,,,,,New Users,Unknown,India,30.0,2m 15s,49.0,NA
+1994,Holiday Offer,,15-02-2024,35903,missing,,,1805.29,,,,,Display Ad,New Users,Unknown,USA,48.0,2m 15s,,
+1995,Unknown_campaign,Unknown,2024-01-01,45312,missing,,,,,,,,AdX,,,India,42.0,2m 15s,,Bottom
+1996,Summer Sale,Google Ads,15-02-2024,N/A,missing,,,,,,,,Display Ad,,Desktop,,,,,Top
+1997,Unknown_campaign,FB ads,2024/04/05,N/A,missing,,,,,,,,Video Ad,New Users,,Unknown,,3m 40s,,Bottom
+1998,Black Friday Deal,Gogle Adz,,N/A,missing,,,,,,,,,unkown_segment,Mobile,Unknown,,3m 40s,,
+1999,Unknown_campaign,Google Ads,15-02-2024,N/A,missing,,,,,,,,Video Ad,,Mobl,India,,,,Bottom
+2000,!!!,Gogle Adz,2024/04/05,N/A,missing,,,,,,,,,,Deskotp,,,N/A,,NA
+1940,!!!,Gogle Adz,"March 10, 2024",16114,1390,253.95,135.0,1003.75,8.63,0.18,9.71,3.95,search_add,unkown_segment,Mobile,USA,29.0,,58.0,NA
+1044,Black Friday Deal,,15-02-2024,29991,3661,129.27,278.0,780.41,12.21,0.04,7.59,6.04,AdX,,,,41.0,3m 40s,53.0,NA
+1654,Black Friday Deal,Gogle Adz,15-02-2024,7648,3769,250.3,348.0,2400.26,49.28,0.07,9.23,9.59,search_add,Returning Customers,Unknown,Europe,23.0,,56.0,Side
+1481,Summer Sale,FB ads,15-02-2024,47134,646,237.23,231.0,2759.87,1.37,0.37,35.76,11.63,Search Ad,unkown_segment,Mobile,USA,28.0,2m 15s,58.0,NA
+1396,Unknown_campaign,Unknown,"March 10, 2024",5474,1964,247.15,231.0,1483.73,35.88,0.13,11.76,6.0,AdX,Returning Customers,Mobl,,29.0,2m 15s,46.0,Bottom
+1420,,,2024-01-01,22444,1182,106.1,175.0,4203.05,5.27,0.09,14.81,39.61,search_add,New Users,,Europe,25.0,N/A,32.0,Side
+1552,Summer Sale,Unknown,"March 10, 2024",46160,4795,141.47,397.0,2416.05,10.39,0.03,8.28,17.08,Video Ad,Returning Customers,,Unknown,28.0,2m 15s,42.0,Bottom
+1747,Summer Sale,Unknown,15-02-2024,26063,4545,413.48,370.0,913.49,17.44,0.09,8.14,2.21,Search Ad,Returning Customers,Unknown,India,44.0,2m 15s,35.0,Side
+1824,,,"March 10, 2024",21032,2848,169.77,430.0,1909.39,13.54,0.06,15.1,11.25,,Returning Customers,Mobile,USA,46.0,,56.0,NA
+1919,Holiday Offer,FB ads,15-02-2024,49561,424,256.86,443.0,2731.56,0.86,0.61,104.48,10.63,Search Ad,unkown_segment,Unknown,India,28.0,2m 15s,46.0,
+1717,Unknown_campaign,Unknown,15-02-2024,13092,2663,113.04,418.0,2778.96,20.34,0.04,15.7,24.58,search_add,,Unknown,USA,25.0,,38.0,
+1925,Black Friday Deal,FB ads,,47597,1703,317.35,20.0,2016.98,3.58,0.19,1.17,6.36,search_add,unkown_segment,Desktop,India,21.0,,57.0,Bottom
+1013,Summer Sale,Gogle Adz,,24510,4607,319.88,115.0,2750.1,18.8,0.07,2.5,8.6,search_add,,Mobile,Europe,41.0,N/A,54.0,Bottom
+1499,Holiday Offer,google_ads,15-02-2024,8083,2558,313.4,246.0,704.52,31.65,0.12,9.62,2.25,search_add,New Users,Deskotp,Europe,27.0,3m 40s,49.0,
+1050,,,"March 10, 2024",18081,1513,204.65,154.0,4962.99,8.37,0.14,10.18,24.25,,New Users,Deskotp,India,42.0,N/A,58.0,Bottom
+1324,Black Friday Deal,,,34992,4081,67.95,247.0,1534.86,11.66,0.02,6.05,22.59,Video Ad,Returning Customers,Deskotp,Europe,31.0,3m 40s,45.0,NA
+1925,Black Friday Deal,FB ads,,47597,1703,317.35,20.0,2016.98,3.58,0.19,1.17,6.36,search_add,unkown_segment,Desktop,India,21.0,,57.0,Bottom
+1762,,Unknown,2024/04/05,23437,4305,87.14,351.0,3610.62,18.37,0.02,8.15,41.43,Video Ad,New Users,Mobl,Unknown,49.0,N/A,50.0,Bottom
+1416,,google_ads,2024/04/05,6266,1417,337.82,138.0,2403.49,22.61,0.24,9.74,7.11,Video Ad,New Users,Mobile,Europe,25.0,2m 15s,41.0,
+1095,Holiday Offer,Unknown,2024-01-01,23172,4860,440.21,184.0,1039.02,20.97,0.09,3.79,2.36,Display Ad,Returning Customers,Mobile,Unknown,49.0,2m 15s,35.0,
+1178,Unknown_campaign,FB ads,,23436,1297,383.62,345.0,4988.39,5.53,0.3,26.6,13.0,AdX,unkown_segment,Desktop,Unknown,42.0,2m 15s,38.0,Bottom
+1936,Black Friday Deal,Unknown,2024-01-01,37821,915,108.9,64.0,4047.23,2.42,0.12,6.99,37.16,Video Ad,unkown_segment,Mobl,,36.0,3m 40s,40.0,Bottom
+1209,Holiday Offer,,,30316,964,205.36,233.0,1473.89,3.18,0.21,24.17,7.18,,New Users,Desktop,Unknown,43.0,,46.0,
+1074,Holiday Offer,Google Ads,"March 10, 2024",37382,3617,249.88,290.0,2738.86,9.68,0.07,8.02,10.96,Display Ad,,Mobl,USA,48.0,N/A,51.0,Side
+1286,!!!,,2024/04/05,10421,2281,251.35,430.0,1285.94,21.89,0.11,18.85,5.12,Video Ad,Returning Customers,Mobl,Unknown,22.0,,33.0,Bottom
+1323,!!!,FB ads,2024/04/05,12979,3339,378.81,449.0,2123.84,25.73,0.11,13.45,5.61,Display Ad,unkown_segment,,Europe,39.0,2m 15s,53.0,Bottom
+1882,Black Friday Deal,Unknown,"March 10, 2024",48893,4991,337.94,81.0,1792.29,10.21,0.07,1.62,5.3,Display Ad,Returning Customers,Unknown,Unknown,47.0,,33.0,Bottom
+1123,Black Friday Deal,Google Ads,"March 10, 2024",12295,3160,272.46,400.0,2181.68,25.7,0.09,12.66,8.01,AdX,unkown_segment,Desktop,India,21.0,2m 15s,33.0,
+1822,,,,9906,674,384.2,252.0,1724.39,6.8,0.57,37.39,4.49,AdX,,Mobile,,27.0,2m 15s,53.0,Top
+1489,!!!,Gogle Adz,2024/04/05,24577,145,130.34,46.0,3226.84,0.59,0.9,31.72,24.76,Search Ad,,Desktop,Unknown,40.0,N/A,34.0,NA
+1230,Black Friday Deal,Unknown,"March 10, 2024",39761,2281,74.13,201.0,4639.81,5.74,0.03,8.81,62.59,,,,Europe,30.0,3m 40s,43.0,Bottom
+1596,Black Friday Deal,Facebook Ads,2024-01-01,11847,1427,71.18,120.0,4668.81,12.05,0.05,8.41,65.59,Search Ad,Returning Customers,Unknown,Europe,43.0,2m 15s,42.0,Top
+1662,Summer Sale,Google Ads,2024-01-01,16806,2830,322.9,86.0,2405.3,16.84,0.11,3.04,7.45,Search Ad,unkown_segment,Desktop,Europe,47.0,,42.0,NA
+1840,,Facebook Ads,,42546,812,436.12,141.0,2409.74,1.91,0.54,17.36,5.53,Display Ad,,Mobile,USA,45.0,3m 40s,59.0,Side
+1361,!!!,google_ads,,45381,4301,125.42,266.0,3292.12,9.48,0.03,6.18,26.25,,,Mobl,,48.0,N/A,44.0,Side
+1170,Summer Sale,google_ads,2024/04/05,41422,1904,465.24,64.0,742.42,4.6,0.24,3.36,1.6,Video Ad,Returning Customers,Unknown,India,41.0,,47.0,NA
+1192,,FB ads,2024-01-01,22596,4969,465.85,499.0,2701.0,21.99,0.09,10.04,5.8,Search Ad,unkown_segment,Mobl,Unknown,39.0,2m 15s,33.0,NA
+1548,Black Friday Deal,Gogle Adz,"March 10, 2024",17143,1222,56.33,152.0,3263.65,7.13,0.05,12.44,57.94,Video Ad,Returning Customers,Deskotp,India,47.0,,39.0,NA
+1175,!!!,,2024-01-01,40727,3536,451.95,220.0,2307.81,8.68,0.13,6.22,5.11,Search Ad,,,Unknown,49.0,,53.0,Top
+1839,Summer Sale,,2024-01-01,30271,2694,64.23,35.0,3017.5,8.9,0.02,1.3,46.98,,New Users,Mobl,Unknown,49.0,2m 15s,46.0,Top
+1301,Unknown_campaign,,2024-01-01,17839,1510,120.82,127.0,2352.4,8.46,0.08,8.41,19.47,search_add,unkown_segment,Mobile,USA,36.0,3m 40s,47.0,Side
+1626,Holiday Offer,google_ads,15-02-2024,38286,546,366.44,200.0,3452.51,1.43,0.67,36.63,9.42,Search Ad,unkown_segment,Deskotp,,34.0,,50.0,Bottom
+1208,Summer Sale,Unknown,2024-01-01,18550,2587,279.69,57.0,4926.78,13.95,0.11,2.2,17.62,search_add,unkown_segment,Deskotp,Unknown,33.0,,53.0,NA
+1065,Summer Sale,Gogle Adz,15-02-2024,34147,4519,134.06,259.0,4517.72,13.23,0.03,5.73,33.7,Search Ad,,Desktop,Unknown,28.0,3m 40s,32.0,
+1873,Unknown_campaign,Facebook Ads,2024/04/05,48505,893,396.76,336.0,1331.22,1.84,0.44,37.63,3.36,Search Ad,Returning Customers,Mobl,,45.0,2m 15s,56.0,Bottom
+1657,Black Friday Deal,Unknown,2024/04/05,22339,4796,469.41,472.0,894.74,21.47,0.1,9.84,1.91,Video Ad,New Users,Deskotp,Unknown,48.0,2m 15s,47.0,Bottom
+1789,Unknown_campaign,Gogle Adz,,19955,4792,249.36,63.0,2255.86,24.01,0.05,1.31,9.05,,unkown_segment,,India,20.0,N/A,48.0,Bottom
+1309,Unknown_campaign,google_ads,"March 10, 2024",17903,307,358.18,346.0,4757.92,1.71,1.17,112.7,13.28,,unkown_segment,Mobile,,36.0,,33.0,
+1353,Holiday Offer,Unknown,,9928,1373,292.77,324.0,4300.43,13.83,0.21,23.6,14.69,Display Ad,unkown_segment,Deskotp,,34.0,N/A,53.0,NA
+1095,Holiday Offer,Unknown,2024-01-01,23172,4860,440.21,184.0,1039.02,20.97,0.09,3.79,2.36,Display Ad,Returning Customers,Mobile,Unknown,49.0,2m 15s,35.0,
+1487,,Google Ads,15-02-2024,49375,1027,303.98,123.0,3876.65,2.08,0.3,11.98,12.75,search_add,unkown_segment,Mobl,,31.0,N/A,48.0,NA
+1718,!!!,Facebook Ads,"March 10, 2024",41103,3508,149.32,241.0,867.54,8.53,0.04,6.87,5.81,AdX,unkown_segment,Deskotp,Unknown,25.0,N/A,44.0,
+1119,Summer Sale,FB ads,,16485,4781,236.55,450.0,3565.22,29.0,0.05,9.41,15.07,,Returning Customers,Deskotp,Unknown,33.0,,57.0,Top
+1230,Black Friday Deal,Unknown,"March 10, 2024",39761,2281,74.13,201.0,4639.81,5.74,0.03,8.81,62.59,,,,Europe,30.0,3m 40s,43.0,Bottom
+1642,!!!,FB ads,15-02-2024,38072,853,187.73,375.0,1237.7,2.24,0.22,43.96,6.59,,,Deskotp,India,48.0,N/A,36.0,
+1312,Black Friday Deal,,"March 10, 2024",36439,423,282.09,216.0,2450.76,1.16,0.67,51.06,8.69,Search Ad,New Users,Desktop,USA,31.0,3m 40s,52.0,Bottom
+1640,!!!,google_ads,,25915,1331,473.03,339.0,2515.47,5.14,0.36,25.47,5.32,Video Ad,Returning Customers,Unknown,India,24.0,2m 15s,44.0,
+1094,,FB ads,,12007,521,325.6,125.0,3757.85,4.34,0.62,23.99,11.54,Video Ad,Returning Customers,Unknown,Europe,36.0,2m 15s,50.0,Top
+1131,Summer Sale,Google Ads,2024/04/05,34388,2877,112.7,15.0,1664.42,8.37,0.04,0.52,14.77,AdX,New Users,Unknown,USA,44.0,2m 15s,53.0,Top
+1223,!!!,Gogle Adz,2024-01-01,47392,1865,134.58,182.0,636.98,3.94,0.07,9.76,4.73,Search Ad,unkown_segment,Deskotp,India,42.0,N/A,33.0,Top
+1242,,FB ads,,24737,4234,96.39,287.0,4110.49,17.12,0.02,6.78,42.64,Display Ad,Returning Customers,Mobile,India,45.0,,32.0,Bottom
+1641,Black Friday Deal,FB ads,2024/04/05,10858,2353,356.2,306.0,2655.17,21.67,0.15,13.0,7.45,Display Ad,,Unknown,USA,35.0,N/A,35.0,NA
+1517,!!!,Google Ads,2024-01-01,18518,4855,352.62,270.0,2596.38,26.22,0.07,5.56,7.36,search_add,unkown_segment,Deskotp,USA,46.0,,34.0,Bottom
+1097,Holiday Offer,Unknown,,48713,3154,231.29,107.0,4466.26,6.47,0.07,3.39,19.31,Video Ad,,,USA,34.0,3m 40s,35.0,Side
+1714,Holiday Offer,Google Ads,15-02-2024,47237,4121,252.17,379.0,3959.66,8.72,0.06,9.2,15.7,search_add,,Unknown,USA,20.0,N/A,31.0,Bottom
+1914,,google_ads,15-02-2024,40539,940,476.72,207.0,4885.51,2.32,0.51,22.02,10.25,Search Ad,New Users,Unknown,,20.0,3m 40s,40.0,Bottom
+1574,Unknown_campaign,Google Ads,,11409,193,447.06,221.0,1083.89,1.69,2.32,114.51,2.42,search_add,New Users,Unknown,Europe,32.0,2m 15s,32.0,Top
+1720,!!!,google_ads,"March 10, 2024",47906,2764,143.59,61.0,3627.02,5.77,0.05,2.21,25.26,Search Ad,New Users,,Europe,45.0,N/A,51.0,Bottom
+1888,,google_ads,15-02-2024,29523,4174,359.57,23.0,4711.59,14.14,0.09,0.55,13.1,search_add,unkown_segment,Deskotp,,32.0,N/A,54.0,Top
+1937,Summer Sale,FB ads,"March 10, 2024",36368,2238,447.89,114.0,4109.25,6.15,0.2,5.09,9.17,Search Ad,New Users,Mobile,USA,45.0,,41.0,Bottom
+1417,,,2024/04/05,38771,2922,417.86,446.0,4406.69,7.54,0.14,15.26,10.55,Video Ad,,Unknown,India,22.0,3m 40s,51.0,
+1786,Holiday Offer,FB ads,,8041,1006,271.44,386.0,2984.93,12.51,0.27,38.37,11.0,AdX,New Users,Deskotp,India,37.0,2m 15s,49.0,Bottom
+1361,!!!,google_ads,,45381,4301,125.42,266.0,3292.12,9.48,0.03,6.18,26.25,,,Mobl,,48.0,N/A,44.0,Side
+1665,Unknown_campaign,Unknown,15-02-2024,17003,4884,136.37,492.0,4715.23,28.72,0.03,10.07,34.58,,Returning Customers,Desktop,Europe,38.0,,39.0,Top
+1433,,Unknown,"March 10, 2024",6358,176,101.52,203.0,1922.35,2.77,0.58,115.34,18.94,Display Ad,Returning Customers,Mobl,,40.0,2m 15s,57.0,Side
+1651,Black Friday Deal,Unknown,15-02-2024,16710,1426,409.45,168.0,3371.82,8.53,0.29,11.78,8.23,search_add,New Users,Deskotp,USA,41.0,2m 15s,41.0,
+1722,Unknown_campaign,google_ads,"March 10, 2024",42860,932,234.71,447.0,1238.12,2.17,0.25,47.96,5.28,search_add,Returning Customers,Unknown,,22.0,3m 40s,41.0,Top
+1666,Holiday Offer,Google Ads,,40366,1876,290.7,431.0,2290.71,4.65,0.15,22.97,7.88,Search Ad,New Users,Unknown,USA,41.0,,43.0,NA
+1399,,Unknown,,33662,4789,91.54,387.0,4838.37,14.23,0.02,8.08,52.86,,,Mobile,Europe,20.0,N/A,46.0,NA
+1959,,google_ads,15-02-2024,48011,697,135.51,276.0,3625.34,1.45,0.19,39.6,26.75,Search Ad,,Mobile,India,34.0,N/A,50.0,Bottom
+1590,!!!,Facebook Ads,2024-01-01,44485,3226,333.65,299.0,2704.73,7.25,0.1,9.27,8.11,Video Ad,New Users,Desktop,Unknown,34.0,,52.0,Top
+1399,,Unknown,,33662,4789,91.54,387.0,4838.37,14.23,0.02,8.08,52.86,,,Mobile,Europe,20.0,N/A,46.0,NA
+1273,!!!,google_ads,15-02-2024,21273,4153,53.51,306.0,4645.46,19.52,0.01,7.37,86.81,Video Ad,,Mobl,,21.0,,42.0,NA
+1802,Black Friday Deal,Gogle Adz,,46845,2740,465.54,48.0,2455.69,5.85,0.17,1.75,5.27,Search Ad,,Mobile,India,48.0,3m 40s,31.0,Side
+1425,Black Friday Deal,Unknown,15-02-2024,20818,100,67.97,333.0,4880.69,0.48,0.68,333.0,71.81,search_add,New Users,Mobile,,38.0,,53.0,
+1355,!!!,,"March 10, 2024",9579,4757,69.25,400.0,2558.08,49.66,0.01,8.41,36.94,AdX,Returning Customers,,India,44.0,,46.0,Bottom
+1754,Black Friday Deal,Facebook Ads,2024-01-01,12063,1496,117.46,464.0,2354.38,12.4,0.08,31.02,20.04,AdX,,Unknown,Unknown,24.0,2m 15s,44.0,
+1051,Unknown_campaign,FB ads,15-02-2024,34199,2735,327.61,28.0,2557.39,8.0,0.12,1.02,7.81,Video Ad,unkown_segment,,USA,43.0,N/A,53.0,Top
+1733,Unknown_campaign,Google Ads,15-02-2024,42998,3331,241.95,370.0,2202.02,7.75,0.07,11.11,9.1,AdX,unkown_segment,,Europe,41.0,N/A,47.0,Top
+1941,Unknown_campaign,Gogle Adz,"March 10, 2024",39167,1426,397.22,190.0,4692.66,3.64,0.28,13.32,11.81,Search Ad,Returning Customers,Desktop,Unknown,25.0,2m 15s,45.0,Top
+1577,Holiday Offer,google_ads,"March 10, 2024",32503,4590,217.99,87.0,3134.14,14.12,0.05,1.9,14.38,search_add,New Users,Mobl,India,32.0,2m 15s,55.0,Top
+1601,Holiday Offer,Gogle Adz,,40487,2837,357.23,198.0,3203.95,7.01,0.13,6.98,8.97,Display Ad,Returning Customers,,India,24.0,N/A,51.0,Bottom
+1110,,google_ads,,48826,380,437.73,119.0,4123.29,0.78,1.15,31.32,9.42,Video Ad,Returning Customers,,USA,27.0,,39.0,Side
+1507,Holiday Offer,google_ads,,10903,3612,155.81,411.0,1924.01,33.13,0.04,11.38,12.35,Display Ad,unkown_segment,Mobl,Europe,32.0,,34.0,
+1395,Black Friday Deal,Facebook Ads,,37937,330,325.99,142.0,4017.59,0.87,0.99,43.03,12.32,Display Ad,Returning Customers,Mobile,India,25.0,3m 40s,44.0,
+1605,Holiday Offer,,2024/04/05,21156,2315,101.84,176.0,2731.87,10.94,0.04,7.6,26.83,,,Mobl,USA,25.0,3m 40s,41.0,NA
+1803,Summer Sale,google_ads,15-02-2024,42633,121,454.72,145.0,3712.34,0.28,3.76,119.83,8.16,search_add,unkown_segment,Deskotp,Unknown,36.0,N/A,54.0,Top
+1360,Summer Sale,google_ads,2024-01-01,41422,433,164.98,72.0,1759.78,1.05,0.38,16.63,10.67,AdX,Returning Customers,Unknown,,46.0,,48.0,Top
+1536,Holiday Offer,Unknown,2024/04/05,43448,4039,146.32,440.0,2906.3,9.3,0.04,10.89,19.86,Video Ad,unkown_segment,Deskotp,,24.0,2m 15s,40.0,
+1698,Black Friday Deal,Unknown,,8408,4471,51.38,176.0,1788.59,53.18,0.01,3.94,34.81,Search Ad,,,Europe,28.0,2m 15s,38.0,Top
+1717,Unknown_campaign,Unknown,15-02-2024,13092,2663,113.04,418.0,2778.96,20.34,0.04,15.7,24.58,search_add,,Unknown,USA,25.0,,38.0,
+1398,Unknown_campaign,Gogle Adz,"March 10, 2024",40111,3855,381.09,413.0,680.33,9.61,0.1,10.71,1.79,,Returning Customers,Mobl,India,29.0,2m 15s,47.0,
+1660,Holiday Offer,,"March 10, 2024",36271,3871,117.4,174.0,4951.06,10.67,0.03,4.49,42.17,Search Ad,unkown_segment,,USA,28.0,N/A,35.0,
+1206,Unknown_campaign,Gogle Adz,15-02-2024,29455,4977,138.7,442.0,1053.61,16.9,0.03,8.88,7.6,AdX,New Users,,Europe,24.0,3m 40s,40.0,Bottom
+1439,Black Friday Deal,Gogle Adz,,20796,220,263.34,491.0,4723.14,1.06,1.2,223.18,17.94,AdX,,,Europe,22.0,N/A,59.0,Bottom
+1061,Holiday Offer,google_ads,,36237,4058,247.48,70.0,3712.67,11.2,0.06,1.72,15.0,Display Ad,New Users,Mobl,Europe,25.0,N/A,34.0,Side
+1711,Unknown_campaign,Facebook Ads,,15726,2045,220.05,192.0,1671.47,13.0,0.11,9.39,7.6,AdX,Returning Customers,Unknown,USA,42.0,3m 40s,31.0,Bottom
+1059,Summer Sale,Unknown,2024/04/05,31227,1872,188.02,102.0,4847.87,5.99,0.1,5.45,25.78,search_add,New Users,Desktop,Europe,33.0,3m 40s,50.0,Bottom
+1192,,FB ads,2024-01-01,22596,4969,465.85,499.0,2701.0,21.99,0.09,10.04,5.8,Search Ad,unkown_segment,Mobl,Unknown,39.0,2m 15s,33.0,NA
+1537,Unknown_campaign,FB ads,15-02-2024,34580,2493,424.78,472.0,3920.96,7.21,0.17,18.93,9.23,AdX,,,Europe,30.0,N/A,38.0,Side
+1921,Holiday Offer,Gogle Adz,"March 10, 2024",37351,447,108.46,324.0,1363.82,1.2,0.24,72.48,12.57,,unkown_segment,Mobile,India,34.0,N/A,57.0,Side
+1075,,google_ads,15-02-2024,6236,3395,252.73,267.0,4518.04,54.44,0.07,7.86,17.88,search_add,Returning Customers,Deskotp,India,24.0,,56.0,Top
+1034,Holiday Offer,Unknown,15-02-2024,33383,419,55.72,185.0,850.35,1.26,0.13,44.15,15.26,search_add,New Users,Mobile,Europe,37.0,,33.0,Bottom
+1514,!!!,Unknown,2024-01-01,42988,3579,368.47,298.0,2599.07,8.33,0.1,8.33,7.05,Video Ad,,,India,34.0,,56.0,Top
+1988,Summer Sale,Unknown,15-02-2024,16376,4553,446.23,34.0,905.66,27.8,0.1,0.75,2.03,AdX,New Users,,Europe,31.0,N/A,33.0,NA
+1683,,,2024/04/05,7219,425,206.61,420.0,2055.34,5.89,0.49,98.82,9.95,search_add,Returning Customers,Mobile,India,27.0,N/A,50.0,Bottom
+1591,Unknown_campaign,,"March 10, 2024",18968,1394,461.05,197.0,4441.47,7.35,0.33,14.13,9.63,,Returning Customers,Deskotp,,23.0,N/A,34.0,Top
+1684,Summer Sale,,2024/04/05,35408,1983,132.3,387.0,1466.95,5.6,0.07,19.52,11.09,search_add,Returning Customers,Mobl,Unknown,47.0,N/A,55.0,NA
+1962,,Gogle Adz,2024-01-01,43800,3325,232.76,37.0,1872.72,7.59,0.07,1.11,8.05,,Returning Customers,Mobile,,23.0,,40.0,Bottom
+1361,!!!,google_ads,,45381,4301,125.42,266.0,3292.12,9.48,0.03,6.18,26.25,,,Mobl,,48.0,N/A,44.0,Side
+1147,Unknown_campaign,Google Ads,"March 10, 2024",33006,4775,52.29,102.0,1699.24,14.47,0.01,2.14,32.5,AdX,Returning Customers,Unknown,Unknown,42.0,2m 15s,43.0,
+1079,!!!,google_ads,15-02-2024,12927,4274,206.61,413.0,4883.7,33.06,0.05,9.66,23.64,Display Ad,New Users,Desktop,USA,39.0,3m 40s,49.0,
+1167,Unknown_campaign,Unknown,"March 10, 2024",36326,4514,106.79,289.0,1714.11,12.43,0.02,6.4,16.05,AdX,New Users,Deskotp,Europe,26.0,2m 15s,55.0,Side
+1981,Unknown_campaign,Facebook Ads,"March 10, 2024",26768,1707,138.37,441.0,3374.82,6.38,0.08,25.83,24.39,Search Ad,New Users,Mobl,Europe,42.0,3m 40s,54.0,Side
+1696,!!!,,2024/04/05,46170,2859,84.87,481.0,1355.71,6.19,0.03,16.82,15.97,Video Ad,unkown_segment,Deskotp,Europe,23.0,N/A,48.0,Bottom
+1505,!!!,Unknown,15-02-2024,12256,2612,174.38,68.0,1561.05,21.31,0.07,2.6,8.95,Display Ad,,Mobile,USA,20.0,2m 15s,32.0,NA
+1741,Unknown_campaign,Unknown,,37792,3341,162.48,108.0,3922.59,8.84,0.05,3.23,24.14,Search Ad,New Users,Mobl,Europe,38.0,N/A,52.0,
+1607,,Unknown,,34151,4020,264.95,201.0,946.42,11.77,0.07,5.0,3.57,search_add,,,USA,40.0,2m 15s,54.0,Top
+1079,!!!,google_ads,15-02-2024,12927,4274,206.61,413.0,4883.7,33.06,0.05,9.66,23.64,Display Ad,New Users,Desktop,USA,39.0,3m 40s,49.0,
+1987,Summer Sale,Facebook Ads,2024/04/05,22069,4119,115.95,481.0,4408.03,18.66,0.03,11.68,38.02,AdX,,,,29.0,,33.0,Side
+1784,!!!,Unknown,2024/04/05,10938,1592,320.95,431.0,2225.91,14.55,0.2,27.07,6.94,Search Ad,Returning Customers,,India,30.0,,42.0,Bottom
+1428,,Facebook Ads,2024-01-01,15952,1044,217.45,23.0,2459.32,6.54,0.21,2.2,11.31,search_add,New Users,Desktop,India,39.0,N/A,34.0,
+1113,,Facebook Ads,,37123,4383,50.2,149.0,1643.19,11.81,0.01,3.4,32.73,Search Ad,unkown_segment,Mobile,,33.0,N/A,40.0,Bottom
+1941,Unknown_campaign,Gogle Adz,"March 10, 2024",39167,1426,397.22,190.0,4692.66,3.64,0.28,13.32,11.81,Search Ad,Returning Customers,Desktop,Unknown,25.0,2m 15s,45.0,Top
+1449,Summer Sale,Facebook Ads,2024-01-01,43819,2262,100.62,451.0,2440.4,5.16,0.04,19.94,24.25,Display Ad,,Mobl,USA,43.0,2m 15s,57.0,NA
+1704,Summer Sale,Gogle Adz,,9448,1687,93.66,87.0,2089.95,17.86,0.06,5.16,22.31,AdX,Returning Customers,,Unknown,23.0,3m 40s,59.0,Side
+1299,Black Friday Deal,Unknown,15-02-2024,38404,2379,490.93,108.0,1921.03,6.19,0.21,4.54,3.91,search_add,New Users,Unknown,Europe,32.0,3m 40s,41.0,Bottom
+1782,Black Friday Deal,google_ads,2024-01-01,25886,1164,151.16,232.0,1474.86,4.5,0.13,19.93,9.76,AdX,New Users,,India,47.0,2m 15s,40.0,Bottom
+1864,Holiday Offer,Unknown,2024/04/05,39927,4254,130.48,313.0,2781.38,10.65,0.03,7.36,21.32,Display Ad,Returning Customers,Mobile,,45.0,N/A,31.0,NA
+1815,,FB ads,"March 10, 2024",44019,2864,54.42,382.0,3373.3,6.51,0.02,13.34,61.99,Search Ad,Returning Customers,Desktop,Europe,21.0,,49.0,Side
+1038,Holiday Offer,google_ads,"March 10, 2024",49370,3393,393.82,19.0,827.19,6.87,0.12,0.56,2.1,AdX,unkown_segment,Mobile,Europe,35.0,N/A,59.0,Bottom
+1884,,,"March 10, 2024",11476,2265,313.84,322.0,4959.5,19.74,0.14,14.22,15.8,Display Ad,New Users,Unknown,Europe,49.0,3m 40s,50.0,Side
+1494,,Facebook Ads,2024/04/05,36382,3412,456.43,154.0,3075.45,9.38,0.13,4.51,6.74,AdX,unkown_segment,Deskotp,India,21.0,3m 40s,44.0,Bottom
+1241,Summer Sale,,"March 10, 2024",42700,1737,351.77,311.0,1360.12,4.07,0.2,17.9,3.87,search_add,unkown_segment,Mobl,India,30.0,,31.0,NA
+1208,Summer Sale,Unknown,2024-01-01,18550,2587,279.69,57.0,4926.78,13.95,0.11,2.2,17.62,search_add,unkown_segment,Deskotp,Unknown,33.0,,53.0,NA
+1657,Black Friday Deal,Unknown,2024/04/05,22339,4796,469.41,472.0,894.74,21.47,0.1,9.84,1.91,Video Ad,New Users,Deskotp,Unknown,48.0,2m 15s,47.0,Bottom
+1590,!!!,Facebook Ads,2024-01-01,44485,3226,333.65,299.0,2704.73,7.25,0.1,9.27,8.11,Video Ad,New Users,Desktop,Unknown,34.0,,52.0,Top
+1772,Summer Sale,Gogle Adz,15-02-2024,12486,3064,247.97,135.0,2122.97,24.54,0.08,4.41,8.56,,unkown_segment,Unknown,India,40.0,,48.0,Top
+1415,Black Friday Deal,FB ads,2024/04/05,13463,2168,402.64,216.0,3625.08,16.1,0.19,9.96,9.0,Display Ad,Returning Customers,,,35.0,2m 15s,54.0,Side
+1816,Unknown_campaign,,"March 10, 2024",47844,1856,214.08,109.0,2310.53,3.88,0.12,5.87,10.79,AdX,unkown_segment,Desktop,India,29.0,3m 40s,42.0,Side
+1645,Black Friday Deal,Google Ads,,39570,4234,269.38,226.0,4875.08,10.7,0.06,5.34,18.1,,unkown_segment,,India,28.0,3m 40s,48.0,Bottom
+1902,Black Friday Deal,Gogle Adz,2024-01-01,47323,458,180.14,430.0,2048.84,0.97,0.39,93.89,11.37,Search Ad,,Desktop,Unknown,48.0,2m 15s,40.0,Bottom
+1360,Summer Sale,google_ads,2024-01-01,41422,433,164.98,72.0,1759.78,1.05,0.38,16.63,10.67,AdX,Returning Customers,Unknown,,46.0,,48.0,Top
+1521,Summer Sale,FB ads,"March 10, 2024",13892,2559,409.13,84.0,1085.37,18.42,0.16,3.28,2.65,search_add,,,India,42.0,N/A,51.0,Bottom
+1922,,Google Ads,2024/04/05,25940,3851,275.64,486.0,3087.32,14.85,0.07,12.62,11.2,Video Ad,New Users,,,21.0,,46.0,Bottom
+1489,!!!,Gogle Adz,2024/04/05,24577,145,130.34,46.0,3226.84,0.59,0.9,31.72,24.76,Search Ad,,Desktop,Unknown,40.0,N/A,34.0,NA
+1281,!!!,Google Ads,"March 10, 2024",41599,3937,168.53,166.0,1390.74,9.46,0.04,4.22,8.25,Search Ad,New Users,,Europe,44.0,3m 40s,46.0,Bottom
+1758,,Google Ads,,8601,4977,360.92,306.0,1315.29,57.87,0.07,6.15,3.64,Video Ad,unkown_segment,Mobl,Europe,25.0,3m 40s,55.0,NA
+1092,Summer Sale,Google Ads,"March 10, 2024",9922,872,340.84,483.0,3063.91,8.79,0.39,55.39,8.99,AdX,Returning Customers,Mobl,Unknown,42.0,3m 40s,48.0,
+1456,Unknown_campaign,google_ads,"March 10, 2024",6854,2470,219.59,484.0,2332.38,36.04,0.09,19.6,10.62,Search Ad,New Users,Desktop,India,37.0,N/A,47.0,Top
+1154,!!!,FB ads,2024/04/05,28736,426,258.31,265.0,2174.57,1.48,0.61,62.21,8.42,search_add,Returning Customers,Mobile,,41.0,2m 15s,47.0,Top
+1125,Holiday Offer,FB ads,"March 10, 2024",28841,1966,121.28,342.0,4242.24,6.82,0.06,17.4,34.98,Search Ad,,Deskotp,Europe,37.0,2m 15s,46.0,Bottom
+1419,Black Friday Deal,FB ads,2024-01-01,9474,3592,223.4,215.0,4845.02,37.91,0.06,5.99,21.69,,unkown_segment,Mobl,,43.0,2m 15s,35.0,Side
+1125,Holiday Offer,FB ads,"March 10, 2024",28841,1966,121.28,342.0,4242.24,6.82,0.06,17.4,34.98,Search Ad,,Deskotp,Europe,37.0,2m 15s,46.0,Bottom
+1118,Summer Sale,Gogle Adz,"March 10, 2024",30152,1137,413.25,461.0,2297.44,3.77,0.36,40.55,5.56,Search Ad,,Deskotp,,27.0,,40.0,Bottom
+1810,Unknown_campaign,,15-02-2024,32136,220,101.8,137.0,893.23,0.68,0.46,62.27,8.77,Display Ad,,Deskotp,USA,32.0,,47.0,NA
+1774,Black Friday Deal,Unknown,,6320,3880,136.41,329.0,4438.08,61.39,0.04,8.48,32.53,search_add,,Unknown,India,45.0,N/A,51.0,NA
+1058,,Google Ads,2024/04/05,21337,4788,454.9,312.0,3282.52,22.44,0.1,6.52,7.22,,unkown_segment,Deskotp,Europe,22.0,,47.0,Side
+1656,!!!,Unknown,15-02-2024,48117,3946,283.59,44.0,2347.75,8.2,0.07,1.12,8.28,search_add,Returning Customers,Desktop,India,27.0,N/A,53.0,Side
+1412,Black Friday Deal,Unknown,2024-01-01,42934,4789,223.16,294.0,4739.78,11.15,0.05,6.14,21.24,search_add,New Users,,India,34.0,2m 15s,47.0,NA
+1617,!!!,Facebook Ads,,8044,3334,252.68,45.0,1305.5,41.45,0.08,1.35,5.17,Search Ad,unkown_segment,Deskotp,Unknown,37.0,2m 15s,52.0,Side
+1314,Holiday Offer,Gogle Adz,,16446,1002,236.18,282.0,3173.88,6.09,0.24,28.14,13.44,Search Ad,Returning Customers,,India,27.0,N/A,35.0,NA
+1349,Holiday Offer,google_ads,2024/04/05,32982,3688,216.75,81.0,4218.17,11.18,0.06,2.2,19.46,search_add,unkown_segment,Unknown,,23.0,,55.0,Bottom
+1733,Unknown_campaign,Google Ads,15-02-2024,42998,3331,241.95,370.0,2202.02,7.75,0.07,11.11,9.1,AdX,unkown_segment,,Europe,41.0,N/A,47.0,Top
+1867,Summer Sale,Facebook Ads,2024/04/05,9717,2264,483.29,136.0,824.58,23.3,0.21,6.01,1.71,Video Ad,Returning Customers,Deskotp,USA,46.0,N/A,36.0,
+1086,Summer Sale,Unknown,15-02-2024,7644,1609,488.08,73.0,3764.08,21.05,0.3,4.54,7.71,,unkown_segment,Mobile,India,26.0,,45.0,NA
+1745,!!!,FB ads,,5852,1982,287.9,155.0,1539.42,33.87,0.15,7.82,5.35,search_add,New Users,Mobl,Europe,36.0,N/A,33.0,NA
+1209,Holiday Offer,,,30316,964,205.36,233.0,1473.89,3.18,0.21,24.17,7.18,,New Users,Desktop,Unknown,43.0,,46.0,
+1826,,FB ads,2024-01-01,23200,330,205.74,170.0,2204.79,1.42,0.62,51.52,10.72,,unkown_segment,Mobl,USA,48.0,N/A,44.0,Top
+1833,,FB ads,15-02-2024,24564,4202,192.29,430.0,3185.55,17.11,0.05,10.23,16.57,AdX,,Desktop,USA,21.0,N/A,39.0,
+1115,Unknown_campaign,,2024-01-01,18465,737,206.05,479.0,4171.98,3.99,0.28,64.99,20.25,Search Ad,unkown_segment,Mobile,Unknown,24.0,3m 40s,50.0,Side
+1992,,Facebook Ads,,36617,missing,387.17,200.0,583.41,,,,1.51,Display Ad,,Mobile,Europe,49.0,,58.0,NA
+1727,Holiday Offer,Gogle Adz,15-02-2024,23093,2044,159.15,316.0,1499.86,8.85,0.08,15.46,9.42,,Returning Customers,,Unknown,40.0,,39.0,Side
+1588,!!!,Google Ads,15-02-2024,42436,2275,101.07,26.0,4535.19,5.36,0.04,1.14,44.87,AdX,,Desktop,Unknown,42.0,2m 15s,50.0,
+1668,,,15-02-2024,13146,2652,109.59,358.0,2764.91,20.17,0.04,13.5,25.23,Display Ad,Returning Customers,Desktop,Unknown,39.0,2m 15s,56.0,Top
+1866,,Facebook Ads,15-02-2024,45305,299,470.92,354.0,4652.74,0.66,1.57,118.39,9.88,Search Ad,Returning Customers,Mobl,USA,23.0,3m 40s,57.0,Top
+1813,Holiday Offer,Gogle Adz,2024/04/05,41326,4903,159.53,410.0,2501.21,11.86,0.03,8.36,15.68,Video Ad,Returning Customers,Mobile,,45.0,N/A,57.0,Bottom
+1925,Black Friday Deal,FB ads,,47597,1703,317.35,20.0,2016.98,3.58,0.19,1.17,6.36,search_add,unkown_segment,Desktop,India,21.0,,57.0,Bottom
+1370,Unknown_campaign,Google Ads,"March 10, 2024",10120,2764,250.77,205.0,4664.81,27.31,0.09,7.42,18.6,AdX,unkown_segment,Unknown,Europe,28.0,2m 15s,58.0,
+1143,Black Friday Deal,,,20279,1984,246.28,385.0,3115.62,9.78,0.12,19.41,12.65,search_add,New Users,Unknown,India,39.0,N/A,47.0,
+1674,Summer Sale,FB ads,2024/04/05,47040,2572,430.22,167.0,991.87,5.47,0.17,6.49,2.31,Display Ad,Returning Customers,Mobile,,23.0,3m 40s,46.0,Side
+1428,,Facebook Ads,2024-01-01,15952,1044,217.45,23.0,2459.32,6.54,0.21,2.2,11.31,search_add,New Users,Desktop,India,39.0,N/A,34.0,
+1768,Holiday Offer,google_ads,,18361,3270,402.99,20.0,2525.02,17.81,0.12,0.61,6.27,AdX,unkown_segment,Mobl,Europe,28.0,,35.0,
+1415,Black Friday Deal,FB ads,2024/04/05,13463,2168,402.64,216.0,3625.08,16.1,0.19,9.96,9.0,Display Ad,Returning Customers,,,35.0,2m 15s,54.0,Side
+1485,Holiday Offer,FB ads,"March 10, 2024",31188,162,214.75,79.0,1457.98,0.52,1.33,48.77,6.79,AdX,,Desktop,USA,32.0,3m 40s,39.0,Side
+1732,Summer Sale,FB ads,2024/04/05,36176,4362,432.64,449.0,3731.56,12.06,0.1,10.29,8.63,AdX,Returning Customers,Unknown,Unknown,31.0,3m 40s,49.0,NA
+1100,Unknown_campaign,,2024/04/05,37920,4346,382.42,335.0,4444.86,11.46,0.09,7.71,11.62,Video Ad,unkown_segment,,USA,23.0,,42.0,Side
+1099,,Gogle Adz,2024-01-01,8537,1758,464.99,490.0,2155.98,20.59,0.26,27.87,4.64,,unkown_segment,Unknown,India,47.0,N/A,38.0,Bottom
+1678,Unknown_campaign,FB ads,2024/04/05,7547,4967,427.6,136.0,3809.75,65.81,0.09,2.74,8.91,Search Ad,Returning Customers,Unknown,,26.0,N/A,44.0,Bottom
+1829,Black Friday Deal,Facebook Ads,2024-01-01,7814,773,405.51,220.0,2067.97,9.89,0.52,28.46,5.1,AdX,Returning Customers,,USA,40.0,,50.0,Side
